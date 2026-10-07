@@ -1,16 +1,18 @@
-Server-Stand: 2026-10-07 17:00 CEST
+Server-Stand: 2026-10-07 17:02 CEST
 Laeuft seit:  2026-10-07 10:01:17
 
 --- Zeitplaene ---
-NEXT                            LEFT LAST                            PASSED UNIT              ACTIVATES
-Wed 2026-10-07 17:02:04 CEST 1min 6s Wed 2026-10-07 16:03:20 CEST 57min ago krypto-sync.timer krypto-sync.service
-Wed 2026-10-07 17:05:00 CEST 4min 2s Wed 2026-10-07 17:00:20 CEST   36s ago krypto-buch.timer krypto-buch.service
--                                  - Wed 2026-10-07 17:00:20 CEST   36s ago krypto-lauf.timer krypto-lauf.service
+NEXT                             LEFT LAST                              PASSED UNIT              ACTIVATES
+Wed 2026-10-07 17:05:00 CEST 2min 39s Wed 2026-10-07 17:00:20 CEST 2min 0s ago krypto-buch.timer krypto-buch.service
+Thu 2026-10-08 09:30:00 CEST      16h Wed 2026-10-07 17:00:20 CEST 2min 0s ago krypto-lauf.timer krypto-lauf.service
+-                                   - Wed 2026-10-07 17:02:20 CEST    26ms ago krypto-sync.timer krypto-sync.service
 
 3 timers listed.
 
 --- letzte Meldungen: krypto-lauf ---
 2026-10-07T17:00:20+02:00 bot1 systemd[18479]: Starting krypto-lauf.service - Krypto-Bot Handelslauf (Papier)...
+2026-10-07T17:00:59+02:00 bot1 systemd[18479]: Finished krypto-lauf.service - Krypto-Bot Handelslauf (Papier).
+2026-10-07T17:00:59+02:00 bot1 systemd[18479]: krypto-lauf.service: Consumed 3.821s CPU time.
 
 --- letzte Meldungen: krypto-buch ---
 2026-10-07T16:45:20+02:00 bot1 systemd[18479]: Starting krypto-buch.service - Krypto-Bot Orderbuch-Messer (misst nur, handelt nicht)...
