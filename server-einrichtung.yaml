@@ -1,0 +1,115 @@
+#cloud-config
+# ---------------------------------------------------------------------------
+# Krypto-Bot — Einrichtung des Servers
+#
+# Diesen ganzen Text beim Anlegen des Servers bei Hetzner in das Feld
+# "Cloud config" einfuegen. Der Server richtet sich damit beim ersten Start
+# selbst ein. Das dauert nach dem Anlegen etwa 5 bis 10 Minuten.
+#
+# Enthaelt KEINE Schluessel, KEINE Passwoerter, KEINEN Bot-Code. Der Code und
+# der bisherige Stand kommen spaeter vom Mac, per Doppelklick auf
+# "4 Auf Server umziehen".
+#
+# Was hier passiert:
+#   - Zeitzone Berlin, damit 09:30 und 17:00 deutsche Zeit sind
+#   - eigener Benutzer "bot", der Bot laeuft nie mit Administratorrechten
+#   - Firewall: von aussen ist nur die Anmeldung per Schluessel offen
+#   - Sicherheitsupdates spielt der Server selbst ein (Neustart nachts 03:30)
+#   - der Server bekommt einen eigenen Schluessel, der NUR in dein
+#     GitHub-Projekt "krypto-bot" schreiben darf
+# ---------------------------------------------------------------------------
+
+timezone: Europe/Berlin
+package_update: true
+package_upgrade: true
+packages:
+  - python3-venv
+  - python3-pip
+  - rsync
+  - git
+  - ufw
+  - unattended-upgrades
+
+users:
+  - default
+  - name: bot
+    gecos: Krypto-Bot
+    shell: /bin/bash
+    lock_passwd: true
+
+ssh_pwauth: false
+
+write_files:
+  - path: /etc/apt/apt.conf.d/52krypto-updates
+    permissions: "0644"
+    content: |
+      APT::Periodic::Update-Package-Lists "1";
+      APT::Periodic::Unattended-Upgrade "1";
+      Unattended-Upgrade::Automatic-Reboot "true";
+      Unattended-Upgrade::Automatic-Reboot-Time "03:30";
+
+  - path: /usr/local/sbin/krypto-vorbereiten.sh
+    permissions: "0755"
+    content: |
+      #!/bin/bash
+      # Laeuft einmal beim ersten Start, als root. Protokoll: /var/log/krypto-einrichtung.log
+      set -euo pipefail
+      exec >>/var/log/krypto-einrichtung.log 2>&1
+      echo "=== Start $(date -Is)"
+
+      # 1. Der Benutzer "bot" bekommt denselben Anmeldeschluessel, den Hetzner
+      #    fuer root hinterlegt hat. Nur der Schluessel selbst wird uebernommen,
+      #    keine Optionen davor (manche Abbilder setzen dort Sperren fuer root).
+      install -d -m 700 -o bot -g bot /home/bot/.ssh
+      quelle=""
+      for f in /root/.ssh/authorized_keys /home/*/.ssh/authorized_keys; do
+        [ -s "$f" ] || continue
+        [ "$f" = "/home/bot/.ssh/authorized_keys" ] && continue
+        quelle="$f"
+        break
+      done
+      if [ -z "$quelle" ]; then
+        echo "FEHLER: kein Anmeldeschluessel gefunden — wurde beim Anlegen ein SSH-Schluessel gewaehlt?"
+        exit 1
+      fi
+      grep -oE '(ssh-(ed25519|rsa)|ecdsa-sha2-nistp[0-9]+|sk-(ssh-ed25519|ecdsa-sha2-nistp256)@openssh\.com) [A-Za-z0-9+/=]+' \
+        "$quelle" > /home/bot/.ssh/authorized_keys
+      if [ ! -s /home/bot/.ssh/authorized_keys ]; then
+        echo "FEHLER: in $quelle steht kein lesbarer Schluessel"
+        exit 1
+      fi
+      chown bot:bot /home/bot/.ssh/authorized_keys
+      chmod 600 /home/bot/.ssh/authorized_keys
+
+      # 2. Eigener Schluessel des Servers fuer GitHub. Er wird spaeter in GitHub
+      #    als "Deploy key" eingetragen und gilt dann nur fuer dieses eine Projekt.
+      if [ ! -f /home/bot/.ssh/github ]; then
+        sudo -u bot ssh-keygen -q -t ed25519 -N "" -C "krypto-bot-server" -f /home/bot/.ssh/github
+      fi
+
+      # 3. GitHub fest als vertrauenswuerdig hinterlegen statt beim ersten
+      #    Kontakt blind zu vertrauen. Fingerabdruck laut GitHub:
+      #    SHA256:+DiY3wvvV6TuJJhbpZisF/zLDA0zPMSvHdkr4UvCOqU
+      echo "github.com ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAIOMqqnkVzrm0SdG6UOoqKLsabgH5C9okWi0dh2l9GKJl" \
+        > /home/bot/.ssh/known_hosts
+      printf 'Host github.com\n  IdentityFile ~/.ssh/github\n  IdentitiesOnly yes\n  HostKeyAlgorithms ssh-ed25519\n' \
+        > /home/bot/.ssh/config
+      chown bot:bot /home/bot/.ssh/known_hosts /home/bot/.ssh/config
+      chmod 600 /home/bot/.ssh/known_hosts /home/bot/.ssh/config
+
+      # 4. Arbeitsordner fuer den Bot
+      install -d -m 755 -o bot -g bot /opt/krypto-bot
+
+      # 5. Die Zeitplaene des Benutzers "bot" laufen auch, wenn niemand
+      #    angemeldet ist, und nach jedem Neustart wieder.
+      loginctl enable-linger bot
+
+      # 6. Firewall: nur die Anmeldung per Schluessel ist von aussen offen
+      ufw allow OpenSSH
+      ufw --force enable
+
+      date -Is > /var/lib/krypto-einrichtung.ok
+      echo "=== Fertig $(date -Is)"
+
+runcmd:
+  - [bash, /usr/local/sbin/krypto-vorbereiten.sh]

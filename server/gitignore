@@ -1,0 +1,26 @@
+# Was NICHT ins oeffentliche GitHub-Projekt gehoert
+.venv/
+__pycache__/
+*.pyc
+.DS_Store
+*.bak
+
+# Schluessel und Geheimnisse — gibt es im Projekt nicht, und so bleibt es
+.env
+*.env
+*.pem
+*.key
+id_rsa*
+id_ed25519*
+
+# Grosse Rohdaten vom Mac, die der Server nicht braucht
+state/cache/
+data_offline/
+data_voll/
+kursdaten-voll/
+kursdaten-voll.tar.gz
+bitvavo_voll.txt
+
+# Nur fuer den Mac
+server.txt
+.umgezogen

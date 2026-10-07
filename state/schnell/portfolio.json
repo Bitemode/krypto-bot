@@ -1,0 +1,103 @@
+{
+  "cash": 6211.63858901737,
+  "positions": {
+    "BTC-EUR": {
+      "market": "BTC-EUR",
+      "units": 0.010602222311579342,
+      "entry_price": 74607.0,
+      "entry_date": "2026-10-01",
+      "high_water": 74607.0,
+      "last_price": 75120.5
+    },
+    "XRP-EUR": {
+      "market": "XRP-EUR",
+      "units": 343.3776356322668,
+      "entry_price": 1.316335,
+      "entry_date": "2026-10-01",
+      "high_water": 1.316335,
+      "last_price": 1.31351
+    },
+    "SOL-EUR": {
+      "market": "SOL-EUR",
+      "units": 5.046604335666348,
+      "entry_price": 104.2285,
+      "entry_date": "2026-10-01",
+      "high_water": 104.2285,
+      "last_price": 105.905
+    },
+    "ETH-EUR": {
+      "market": "ETH-EUR",
+      "units": 0.27387049359503185,
+      "entry_price": 2387.99,
+      "entry_date": "2026-10-01",
+      "high_water": 2387.99,
+      "last_price": 2335.375
+    },
+    "LTC-EUR": {
+      "market": "LTC-EUR",
+      "units": 7.8190543306822375,
+      "entry_price": 59.598,
+      "entry_date": "2026-10-01",
+      "high_water": 59.598,
+      "last_price": 60.3755
+    },
+    "DOGE-EUR": {
+      "market": "DOGE-EUR",
+      "units": 5304.214036411095,
+      "entry_price": 0.0835185,
+      "entry_date": "2026-10-01",
+      "high_water": 0.0835185,
+      "last_price": 0.0810475
+    },
+    "OGN-EUR": {
+      "market": "OGN-EUR",
+      "units": 25973.114244676843,
+      "entry_price": 0.0197985,
+      "entry_date": "2026-10-06",
+      "high_water": 0.0197985,
+      "last_price": 0.0197985
+    }
+  },
+  "equity_history": [
+    [
+      "2026-10-01",
+      9991.59
+    ],
+    [
+      "2026-10-02",
+      10118.83
+    ],
+    [
+      "2026-10-03",
+      10034.32
+    ],
+    [
+      "2026-10-04",
+      9628.77
+    ],
+    [
+      "2026-10-06",
+      10139.66
+    ],
+    [
+      "2026-10-07",
+      10049.37
+    ]
+  ],
+  "day_start_equity": 10049.365028733315,
+  "day": "2026-10-07",
+  "peak_equity": 10146.614027906178,
+  "cooldown": {
+    "ADA-EUR": "2026-10-06",
+    "HYPE-EUR": "2026-10-06"
+  },
+  "deposits": [
+    [
+      "2026-10-01T12:13:09.424733+00:00",
+      10000.0
+    ]
+  ],
+  "realized_pnl": 67.30974879535063,
+  "created": "2026-10-01T12:13:09.424733+00:00",
+  "last_rebalance": "2026-10-06"
+}

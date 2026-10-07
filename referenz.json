@@ -1,0 +1,74 @@
+{
+  "erstellt": "2026-10-01T12:06:05.901999+00:00",
+  "datengrundlage": {
+    "quelle": "Bitvavo, öffentliche Tageskerzen",
+    "maerkte": 62,
+    "zeitraum": "2019-03-08 bis 2026-10-01",
+    "jahre": 7.2,
+    "auswahl": "Top 70 nach heutigem 24h-Volumen, ohne Stablecoins, mind. 400 Tage Historie"
+  },
+  "konfiguration": {
+    "target_vol_portfolio": 0.2,
+    "rebalance_every_days": 10,
+    "fast": 30,
+    "slow": 60,
+    "momentum": 30,
+    "max_positions": 8
+  },
+  "erwartung_vollhistorie": {
+    "rendite_pa": 0.239,
+    "volatilitaet_pa": 0.18,
+    "sharpe": 1.26,
+    "max_drawdown": -0.214,
+    "calmar": 1.12,
+    "trades_pro_jahr": 229,
+    "kosten_pa": 0.041,
+    "investitionsquote": 0.16
+  },
+  "erwartung_enges_universum": {
+    "beschreibung": "nur die 10 seit 2019 gelisteten Coins — ohne Vorteil durch Neuzugaenge",
+    "rendite_pa": 0.194,
+    "sharpe": 0.99,
+    "max_drawdown": -0.236,
+    "trades_pro_jahr": 159,
+    "kosten_pa": 0.025
+  },
+  "walk_forward_out_of_sample": {
+    "fenster": "12 Monate vor / 6 Monate gemessen, feste Parameter",
+    "anzahl": 13,
+    "sharpe_median": 1.11,
+    "sharpe_min": 0.04,
+    "sharpe_max": 4.15,
+    "rendite_median": 0.156,
+    "halbjahre_ueber_0_8": 8,
+    "letzte_zwei_halbjahre_sharpe": [
+      0.22,
+      0.04
+    ]
+  },
+  "referenzen_gleicher_zeitraum": {
+    "btc_halten": {
+      "rendite_pa": 0.501,
+      "sharpe": 0.98,
+      "max_drawdown": -0.736
+    },
+    "gleichgewichtet_10_coins": {
+      "rendite_pa": 0.225,
+      "sharpe": 0.65,
+      "max_drawdown": -0.81
+    }
+  },
+  "drift_ueberwachung": {
+    "erwarteter_sharpe": 1.0,
+    "warnung_unter": 0.4,
+    "not_aus_unter": 0.2,
+    "hinweis": "Vergleichswert ist der Walk-Forward-Median, nicht die Vollhistorie."
+  },
+  "bekannte_verzerrungen": [
+    "Survivorship: eingestellte Coins fehlen vollstaendig — Ergebnis zu optimistisch",
+    "Auswahl nach HEUTIGEM Volumen, nicht nach damaligem",
+    "Schlusskurse, keine Intraday-Ausfuehrung",
+    "Limit-Orders gelten als gefuellt",
+    "keine Steuern"
+  ]
+}

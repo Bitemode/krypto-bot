@@ -1,0 +1,108 @@
+{
+  "cash": 7469.949999999999,
+  "positions": {
+    "BTC-EUR": {
+      "market": "BTC-EUR",
+      "units": 0.006366694814159529,
+      "entry_price": 74607.0,
+      "entry_date": "2026-10-01",
+      "high_water": 74607.0,
+      "last_price": 75120.5
+    },
+    "XRP-EUR": {
+      "market": "XRP-EUR",
+      "units": 205.87464437244319,
+      "entry_price": 1.316335,
+      "entry_date": "2026-10-01",
+      "high_water": 1.316335,
+      "last_price": 1.31351
+    },
+    "HYPE-EUR": {
+      "market": "HYPE-EUR",
+      "units": 3.3621974815237734,
+      "entry_price": 78.8175,
+      "entry_date": "2026-10-01",
+      "high_water": 78.8175,
+      "last_price": 81.0235
+    },
+    "SOL-EUR": {
+      "market": "SOL-EUR",
+      "units": 3.0318003233280733,
+      "entry_price": 104.2285,
+      "entry_date": "2026-10-01",
+      "high_water": 104.2285,
+      "last_price": 105.905
+    },
+    "ETH-EUR": {
+      "market": "ETH-EUR",
+      "units": 0.16457355349059252,
+      "entry_price": 2387.99,
+      "entry_date": "2026-10-01",
+      "high_water": 2387.99,
+      "last_price": 2335.375
+    },
+    "ADA-EUR": {
+      "market": "ADA-EUR",
+      "units": 1195.1824951733015,
+      "entry_price": 0.21754,
+      "entry_date": "2026-10-01",
+      "high_water": 0.21754,
+      "last_price": 0.23030499999999998
+    },
+    "LTC-EUR": {
+      "market": "LTC-EUR",
+      "units": 4.681365146481426,
+      "entry_price": 59.598,
+      "entry_date": "2026-10-01",
+      "high_water": 59.598,
+      "last_price": 60.3755
+    },
+    "DOGE-EUR": {
+      "market": "DOGE-EUR",
+      "units": 3184.9231008698675,
+      "entry_price": 0.0835185,
+      "entry_date": "2026-10-01",
+      "high_water": 0.0835185,
+      "last_price": 0.0810475
+    }
+  },
+  "equity_history": [
+    [
+      "2026-10-01",
+      9994.95
+    ],
+    [
+      "2026-10-02",
+      10071.32
+    ],
+    [
+      "2026-10-03",
+      10020.58
+    ],
+    [
+      "2026-10-04",
+      9777.04
+    ],
+    [
+      "2026-10-06",
+      10085.56
+    ],
+    [
+      "2026-10-07",
+      10012.5
+    ]
+  ],
+  "day_start_equity": 10012.504806256138,
+  "day": "2026-10-07",
+  "peak_equity": 10087.97926721065,
+  "cooldown": {},
+  "deposits": [
+    [
+      "2026-10-01T12:13:09.356698+00:00",
+      10000.0
+    ]
+  ],
+  "realized_pnl": 0.0,
+  "created": "2026-10-01T12:13:09.356698+00:00",
+  "last_rebalance": "2026-10-01"
+}

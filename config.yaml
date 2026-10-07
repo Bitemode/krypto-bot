@@ -1,0 +1,182 @@
+# Konfiguration des Krypto-Handelsbots
+# ---------------------------------------------------------------------------
+# Alle Werte sind per Umgebungsvariable überschreibbar:
+#   Präfix CRYPTOBOT_, verschachtelte Schlüssel mit __
+#   Beispiel: CRYPTOBOT_RISK__TARGET_VOL_PORTFOLIO=0.15
+# ---------------------------------------------------------------------------
+
+# Betriebsart: analysis (nur ausgeben) | paper (simuliert buchen) | live (echte Orders)
+# live ist absichtlich nicht implementiert und verlangt zusätzlich
+# CRYPTOBOT_ALLOW_LIVE=1, das CLI-Flag --live und eine Bestätigung.
+trading:
+  mode: paper
+  venue: bitvavo
+  quote: EUR
+
+# --- Signal ----------------------------------------------------------------
+# Ensemble aus drei Bedingungen; investierbar ab 2 von 3.
+# Belegt ist das Band 20-65 Tage, nicht der Einzelwert — deshalb ein Ensemble.
+signal:
+  fast_window: 30          # Tage: Kurs über SMA(30)?
+  slow_window: 60          # Tage: Kurs über SMA(60)?
+  momentum_window: 30      # Tage: Rendite über 30 Tage positiv?
+  trend_threshold: 0.6667  # 2 von 3
+
+# --- Marktregime (Bitcoin als Leitmarkt) -----------------------------------
+# Beide Bedingungen erfüllt -> voll investierbar, eine -> halbe Quote, keine -> Cash.
+regime:
+  market: BTC-EUR
+  slow_window: 60
+  momentum_window: 30
+
+# --- Risiko ----------------------------------------------------------------
+# target_vol_portfolio ist der eigentliche Risikoregler.
+# Auf echten Daten 2022-2026: 0.20 -> Drawdown -24,4 %, Rendite 10,5 %, Sharpe 0,70
+#                             0.35 -> Drawdown -39,6 %, Rendite 14,3 %, Sharpe 0,62
+risk:
+  target_vol_portfolio: 0.20   # gewählt am 03.09.2026
+  target_vol_position: 0.10
+  max_weight: 0.25             # Anteil je Position am Portfolio
+  min_weight: 0.02             # darunter wird nicht gehandelt
+  max_positions: 8
+  vol_halflife_days: 20
+  cov_window_days: 90
+  catastrophe_stop: -0.25      # Einzelposition: Schutz vor Hack/Delisting, kein Rausch-Stop
+  daily_loss_limit: -0.08      # keine Neueinstiege für den Rest des Tages
+  drawdown_brake: -0.25        # ab hier halbe Quote
+  cooldown_days: 10            # nach Trendbruch-Verkauf gesperrt
+
+# --- Ablauf ----------------------------------------------------------------
+schedule:
+  rebalance_every_days: 10     # gewählt am 03.09.2026
+  no_trade_band: 0.20          # Anpassung erst ab 20 % relativer Abweichung
+  # Zwei Läufe am Tag, mit unterschiedlichen Aufgaben (Ortszeit):
+  #   Der frühe Lauf prüft nur Notfälle — Katastrophen-Stop, Regimewechsel,
+  #   Datenqualität. Er handelt nicht.
+  #   Der späte Lauf tut dasselbe UND führt eine fällige Umschichtung aus.
+  #   Grund für die Trennung: Das Signal steht auf Tageskerzen schon fest, es
+  #   ändert sich im Tagesverlauf nicht. Was sich ändert, sind Spread und
+  #   Orderbuchtiefe — deshalb wird im liquideren Fenster ausgeführt.
+  run_times_local: ["09:30", "17:00"]
+  execute_after_hour: 16       # erst ab dieser Ortszeit wird umgeschichtet
+
+# --- Universum -------------------------------------------------------------
+universe:
+  top_n: 45                    # nach 24-h-Volumen, Stablecoins ausgenommen
+                               # (Filter sortieren Unbrauchbares ohnehin aus)
+  min_history_days: 365
+  min_volume_eur: 250000       # 24-h-Volumen
+  max_spread: 0.005
+  exclude:                     # gewrappte/gestakte Varianten desselben Basiswerts
+    - WBTC
+    - WETH
+    - STETH
+    - CBETH
+    - RETH
+  stablecoins: [USDC, EURC, EURCV, USDT, EURS, DAI, PYUSD, FDUSD, TUSD, USDS, RLUSD]
+
+# --- Kosten ----------------------------------------------------------------
+costs:
+  maker_only: true             # POST_ONLY; der Unterschied zu Taker ist ein Drittel der Kosten
+  slippage_bps: 5.0
+  order_ttl_minutes: 30
+
+# --- Datenqualität ---------------------------------------------------------
+quality:
+  min_trust_score: 85
+  max_orderbook_age_s: 30
+  max_ticker_age_s: 300
+  max_candle_age_h: 26
+  max_source_deviation: 0.01
+
+# --- Freigabe und Not-Aus --------------------------------------------------
+# Kein "Mindest-Sharpe" als Vorgabe — Sharpe ist ein Messergebnis, kein Regler.
+# Diese Schwellen sind erreichbar: Walk-Forward über 2022-2026 ergab Median 0,65-0,86.
+gates:
+  go_live_min_sharpe: 0.8      # Walk-Forward, out-of-sample, mind. 2 Jahre
+  go_live_min_trades: 100
+  kill_rolling_sharpe: 0.2     # rollierend 12 Monate darunter -> zurück auf analysis
+  kill_drawdown: -0.25
+
+paths:
+  state: state/portfolio.json
+  journal: state/journal.jsonl
+  trades: state/trades.csv
+  snapshots: state/snapshots
+  data_cache: state/cache
+  orderbuch: state/orderbuch
+
+portfolio:
+  initial_equity: 10000.0
+  cash_buffer: 0.005           # bleibt für Gebühren reserviert
+  capital_ramp_days: 7         # neues Kapital wirkt verzögert
+
+# --- Orderbuch-Mitschreiber ------------------------------------------------
+# Laeuft alle 5 Minuten neben dem Bot, handelt nicht, braucht keinen Schluessel.
+# Er beantwortet die Frage, die ueber Fassung 7 entscheidet: was ein Rundlauf
+# WIRKLICH kostet. Die beworbene Gebuehr steht auf einer Webseite, der Spread
+# steht im Orderbuch und ist jede Minute anders.
+orderbuch:
+  packen_nach_tagen: 3         # aeltere Tagesdateien werden gzip-gepackt
+  von_stunde: 8                # Ortszeit; davor und danach wird nicht gemessen
+  bis_stunde: 21
+
+# --- Solana-Messung (Jupiter) ----------------------------------------------
+# Misst, was ein Rundlauf auf der Kette kostet: USDC -> Token -> USDC. Die
+# Differenz IST der Rundlauf, beide Pool-Gebuehren und beider Preisabrieb in
+# einer Zahl. Kein privater Schluessel, keine Geldboerse, kein Einsatz.
+#
+# NICHT enthalten: MEV. Sandwich-Angriffe passieren bei der Ausfuehrung, nicht
+# bei der Abfrage; oeffentliche Quellen nennen dafuer 0,25 bis 2,5 % je Handel.
+# Die gemessene Zahl ist die Untergrenze, nicht die Kosten.
+#
+# WICHTIG vor dem ersten Vertrauen in die Daten:
+#     python3 -m cryptobot.cli jupiter --pruefen
+# Eine falsche Mint-Adresse misst stillschweigend einen anderen Token. Die
+# Kontrolle rechnet je Markt einen Rundlauf und meldet Unplausibles.
+jupiter:
+  aktiv: true
+  slippage_bps: 50
+  betraege_usdc: [100, 500, 2000]
+  maerkte:
+    SOL: So11111111111111111111111111111111111111112
+    JUP: JUPyiwrYJFskUPiHa7hkeR8VUtAeFoSYbKedZNsDvCN
+    BONK: DezXAZ8z7PnrnRJjz3wXBoRgixCa6xjnB7YaB1pPB263
+    JTO: jtojtomepa8beP8AuQc6eXt5FriJwfFMwQx2v2f9mCL
+    WIF: EKpQGSJtjMFqKZ9KQanSqYXRcF8fBopzLHYxdM65zcjm
+
+logging:
+  level: INFO
+  file: state/bot.log
+
+# --- Profile ---------------------------------------------------------------
+# Ein Champion und mehrere Herausforderer. Alle sehen denselben Markt an denselben
+# Tagen — das macht den Vergleich gepaart: Das Marktrauschen faellt heraus, uebrig
+# bleibt der Unterschied zwischen den Einstellungen.
+#
+# Jedes Profil fuehrt ein eigenes Papier-Portfolio unter state/<name>/.
+# Wichtig: Mehr Profile liefern NICHT mehr Erkenntnis darueber, ob die Strategie
+# ueberhaupt funktioniert — nur darueber, welche Variante besser ist. Und ein
+# Herausforderer loest den Champion nur nach der Regel unter `vergleich` ab.
+profiles:
+  - name: standard           # Champion — die gewaehlte Konfiguration
+    champion: true
+    overrides: {}
+  - name: defensiv
+    overrides: {risk.target_vol_portfolio: 0.12}
+  - name: offensiv
+    overrides: {risk.target_vol_portfolio: 0.35}
+  - name: schnell
+    overrides: {schedule.rebalance_every_days: 5}
+  - name: langsam
+    overrides: {schedule.rebalance_every_days: 21}
+  - name: breit
+    overrides: {risk.max_positions: 14}
+
+vergleich:
+  min_trades: 60             # darunter wird kein Profil mit einem anderen verglichen
+  min_monate: 6
+  vorsprung_sharpe: 0.3      # so viel besser muss ein Herausforderer sein
+  hinweis: >
+    Sechs Profile heisst sechs Vergleiche — der beste sieht immer gut aus.
+    Ein Wechsel des Champions verlangt zusaetzlich Bestaetigung im Backtest.

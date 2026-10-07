@@ -1,0 +1,18 @@
+{
+  "cash": 10000.0,
+  "positions": {},
+  "equity_history": [],
+  "day_start_equity": 10000.0,
+  "day": "2026-10-04",
+  "peak_equity": 10000.0,
+  "cooldown": {},
+  "deposits": [
+    [
+      "2026-10-04T14:10:46.865437+00:00",
+      10000.0
+    ]
+  ],
+  "realized_pnl": 0.0,
+  "created": "2026-10-04T14:10:46.865437+00:00",
+  "last_rebalance": ""
+}
