@@ -382,3 +382,30 @@
 2026-10-08T07:25:31+00:00  15/15 Messungen (5 Maerkte)
 2026-10-08T07:30:21+00:00  45 Maerkte geschrieben
 2026-10-08T07:30:33+00:00  15/15 Messungen (5 Maerkte)
+2026-10-08T07:35:21+00:00  45 Maerkte geschrieben
+2026-10-08T07:35:32+00:00  15/15 Messungen (5 Maerkte)
+2026-10-08T07:40:21+00:00  45 Maerkte geschrieben
+2026-10-08T07:40:33+00:00  15/15 Messungen (5 Maerkte)
+2026-10-08T07:45:21+00:00  45 Maerkte geschrieben
+2026-10-08T07:45:32+00:00  15/15 Messungen (5 Maerkte)
+2026-10-08T07:50:21+00:00  45 Maerkte geschrieben
+2026-10-08T07:50:33+00:00  15/15 Messungen (5 Maerkte)
+2026-10-08T07:55:21+00:00  45 Maerkte geschrieben
+  ! SOL/USDC 100.0$: quote-v6: <urlopen error [Errno -5] No address associated with hostname>
+  ! SOL/USDC 500.0$: quote-v6: <urlopen error [Errno -5] No address associated with hostname>
+  ! SOL/USDC 2000.0$: quote-v6: <urlopen error [Errno -5] No address associated with hostname>
+  ! JUP/USDC 100.0$: quote-v6: <urlopen error [Errno -5] No address associated with hostname>
+  ! JUP/USDC 500.0$: quote-v6: <urlopen error [Errno -5] No address associated with hostname>
+  ! JUP/USDC 2000.0$: quote-v6: <urlopen error [Errno -5] No address associated with hostname>
+  ! BONK/USDC 100.0$: quote-v6: <urlopen error [Errno -5] No address associated with hostname>
+  ! BONK/USDC 500.0$: quote-v6: <urlopen error [Errno -5] No address associated with hostname>
+  ! BONK/USDC 2000.0$: quote-v6: <urlopen error [Errno -5] No address associated with hostname>
+  ! JTO/USDC 100.0$: quote-v6: <urlopen error [Errno -5] No address associated with hostname>
+  ! JTO/USDC 500.0$: quote-v6: <urlopen error [Errno -5] No address associated with hostname>
+  ! JTO/USDC 2000.0$: quote-v6: <urlopen error [Errno -5] No address associated with hostname>
+  ! WIF/USDC 100.0$: quote-v6: <urlopen error [Errno -5] No address associated with hostname>
+  ! WIF/USDC 500.0$: quote-v6: <urlopen error [Errno -5] No address associated with hostname>
+  ! WIF/USDC 2000.0$: quote-v6: <urlopen error [Errno -5] No address associated with hostname>
+2026-10-08T07:55:32+00:00  0/15 Messungen (5 Maerkte)
+2026-10-08T08:00:21+00:00  45 Maerkte geschrieben
+2026-10-08T08:00:32+00:00  15/15 Messungen (5 Maerkte)
