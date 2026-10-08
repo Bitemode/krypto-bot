@@ -7,7 +7,7 @@
       "entry_price": 74607.0,
       "entry_date": "2026-10-01",
       "high_water": 74607.0,
-      "last_price": 74091.5
+      "last_price": 74257.5
     },
     "XRP-EUR": {
       "market": "XRP-EUR",
@@ -15,7 +15,7 @@
       "entry_price": 1.316335,
       "entry_date": "2026-10-01",
       "high_water": 1.316335,
-      "last_price": 1.273065
+      "last_price": 1.2616749999999999
     },
     "SOL-EUR": {
       "market": "SOL-EUR",
@@ -23,7 +23,7 @@
       "entry_price": 104.2285,
       "entry_date": "2026-10-01",
       "high_water": 104.2285,
-      "last_price": 103.44749999999999
+      "last_price": 103.252
     },
     "ETH-EUR": {
       "market": "ETH-EUR",
@@ -31,7 +31,7 @@
       "entry_price": 2387.99,
       "entry_date": "2026-10-01",
       "high_water": 2387.99,
-      "last_price": 2287.575
+      "last_price": 2297.495
     },
     "LTC-EUR": {
       "market": "LTC-EUR",
@@ -39,7 +39,7 @@
       "entry_price": 59.598,
       "entry_date": "2026-10-01",
       "high_water": 59.598,
-      "last_price": 59.071
+      "last_price": 57.709
     },
     "DOGE-EUR": {
       "market": "DOGE-EUR",
@@ -47,7 +47,7 @@
       "entry_price": 0.0835185,
       "entry_date": "2026-10-01",
       "high_water": 0.0835185,
-      "last_price": 0.0787505
+      "last_price": 0.0786635
     },
     "OGN-EUR": {
       "market": "OGN-EUR",
@@ -82,10 +82,14 @@
     [
       "2026-10-07",
       9976.69
+    ],
+    [
+      "2026-10-08",
+      9965.16
     ]
   ],
-  "day_start_equity": 10049.365028733315,
-  "day": "2026-10-07",
+  "day_start_equity": 9965.158720899952,
+  "day": "2026-10-08",
   "peak_equity": 10146.614027906178,
   "cooldown": {
     "ADA-EUR": "2026-10-06",
