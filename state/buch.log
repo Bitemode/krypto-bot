@@ -770,3 +770,43 @@
 2026-10-09T07:55:16+00:00  15/15 Messungen (5 Maerkte)
 2026-10-09T08:00:05+00:00  45 Maerkte geschrieben
 2026-10-09T08:00:16+00:00  15/15 Messungen (5 Maerkte)
+2026-10-09T08:05:05+00:00  45 Maerkte geschrieben
+2026-10-09T08:05:16+00:00  15/15 Messungen (5 Maerkte)
+2026-10-09T08:10:05+00:00  45 Maerkte geschrieben
+2026-10-09T08:10:15+00:00  15/15 Messungen (5 Maerkte)
+2026-10-09T08:15:05+00:00  45 Maerkte geschrieben
+2026-10-09T08:15:16+00:00  15/15 Messungen (5 Maerkte)
+2026-10-09T08:20:05+00:00  45 Maerkte geschrieben
+  ! SOL/USDC 100.0$: quote-v6: <urlopen error [Errno -5] No address associated with hostname>
+  ! SOL/USDC 500.0$: quote-v6: <urlopen error [Errno -5] No address associated with hostname>
+  ! SOL/USDC 2000.0$: quote-v6: <urlopen error [Errno -5] No address associated with hostname>
+  ! JUP/USDC 100.0$: quote-v6: <urlopen error [Errno -5] No address associated with hostname>
+  ! JUP/USDC 500.0$: quote-v6: <urlopen error [Errno -5] No address associated with hostname>
+  ! JUP/USDC 2000.0$: quote-v6: <urlopen error [Errno -5] No address associated with hostname>
+  ! BONK/USDC 100.0$: quote-v6: <urlopen error [Errno -5] No address associated with hostname>
+  ! BONK/USDC 500.0$: quote-v6: <urlopen error [Errno -5] No address associated with hostname>
+  ! BONK/USDC 2000.0$: quote-v6: <urlopen error [Errno -5] No address associated with hostname>
+  ! JTO/USDC 100.0$: quote-v6: <urlopen error [Errno -5] No address associated with hostname>
+  ! JTO/USDC 500.0$: quote-v6: <urlopen error [Errno -5] No address associated with hostname>
+  ! JTO/USDC 2000.0$: quote-v6: <urlopen error [Errno -5] No address associated with hostname>
+  ! WIF/USDC 100.0$: quote-v6: <urlopen error [Errno -5] No address associated with hostname>
+  ! WIF/USDC 500.0$: quote-v6: <urlopen error [Errno -5] No address associated with hostname>
+  ! WIF/USDC 2000.0$: quote-v6: <urlopen error [Errno -5] No address associated with hostname>
+2026-10-09T08:20:14+00:00  0/15 Messungen (5 Maerkte)
+2026-10-09T08:25:05+00:00  45 Maerkte geschrieben
+2026-10-09T08:25:15+00:00  15/15 Messungen (5 Maerkte)
+2026-10-09T08:30:05+00:00  45 Maerkte geschrieben
+2026-10-09T08:30:16+00:00  15/15 Messungen (5 Maerkte)
+2026-10-09T08:35:05+00:00  45 Maerkte geschrieben
+2026-10-09T08:35:17+00:00  15/15 Messungen (5 Maerkte)
+2026-10-09T08:40:05+00:00  45 Maerkte geschrieben
+2026-10-09T08:40:16+00:00  15/15 Messungen (5 Maerkte)
+2026-10-09T08:45:05+00:00  45 Maerkte geschrieben
+2026-10-09T08:45:16+00:00  15/15 Messungen (5 Maerkte)
+2026-10-09T08:50:05+00:00  45 Maerkte geschrieben
+2026-10-09T08:50:15+00:00  15/15 Messungen (5 Maerkte)
+2026-10-09T08:55:05+00:00  45 Maerkte geschrieben
+2026-10-09T08:55:15+00:00  15/15 Messungen (5 Maerkte)
+2026-10-09T09:00:05+00:00  45 Maerkte geschrieben
+  ! JUP/USDC 2000.0$: quote-v6: <urlopen error [Errno -5] No address associated with hostname>
+2026-10-09T09:00:16+00:00  14/15 Messungen (5 Maerkte)
