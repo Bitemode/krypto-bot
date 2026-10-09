@@ -1024,3 +1024,40 @@
 2026-10-09T10:55:16+00:00  15/15 Messungen (5 Maerkte)
 2026-10-09T11:00:05+00:00  45 Maerkte geschrieben
 2026-10-09T11:00:16+00:00  15/15 Messungen (5 Maerkte)
+2026-10-09T11:05:05+00:00  45 Maerkte geschrieben
+2026-10-09T11:05:16+00:00  15/15 Messungen (5 Maerkte)
+2026-10-09T11:10:05+00:00  45 Maerkte geschrieben
+2026-10-09T11:10:16+00:00  15/15 Messungen (5 Maerkte)
+2026-10-09T11:15:05+00:00  45 Maerkte geschrieben
+  ! SOL/USDC 100.0$: quote-v6: <urlopen error [Errno -5] No address associated with hostname>
+  ! SOL/USDC 500.0$: quote-v6: <urlopen error [Errno -5] No address associated with hostname>
+  ! SOL/USDC 2000.0$: quote-v6: <urlopen error [Errno -5] No address associated with hostname>
+  ! JUP/USDC 100.0$: quote-v6: <urlopen error [Errno -5] No address associated with hostname>
+  ! JUP/USDC 500.0$: quote-v6: <urlopen error [Errno -5] No address associated with hostname>
+  ! JUP/USDC 2000.0$: quote-v6: <urlopen error [Errno -5] No address associated with hostname>
+  ! BONK/USDC 100.0$: quote-v6: <urlopen error [Errno -5] No address associated with hostname>
+  ! BONK/USDC 500.0$: quote-v6: <urlopen error [Errno -5] No address associated with hostname>
+  ! BONK/USDC 2000.0$: quote-v6: <urlopen error [Errno -5] No address associated with hostname>
+  ! JTO/USDC 100.0$: quote-v6: <urlopen error [Errno -5] No address associated with hostname>
+  ! JTO/USDC 500.0$: quote-v6: <urlopen error [Errno -5] No address associated with hostname>
+  ! JTO/USDC 2000.0$: quote-v6: <urlopen error [Errno -5] No address associated with hostname>
+  ! WIF/USDC 100.0$: quote-v6: <urlopen error [Errno -5] No address associated with hostname>
+  ! WIF/USDC 500.0$: quote-v6: <urlopen error [Errno -5] No address associated with hostname>
+  ! WIF/USDC 2000.0$: quote-v6: <urlopen error [Errno -5] No address associated with hostname>
+2026-10-09T11:15:16+00:00  0/15 Messungen (5 Maerkte)
+2026-10-09T11:20:05+00:00  45 Maerkte geschrieben
+2026-10-09T11:20:16+00:00  15/15 Messungen (5 Maerkte)
+2026-10-09T11:25:05+00:00  45 Maerkte geschrieben
+2026-10-09T11:25:15+00:00  15/15 Messungen (5 Maerkte)
+2026-10-09T11:30:05+00:00  45 Maerkte geschrieben
+2026-10-09T11:30:16+00:00  15/15 Messungen (5 Maerkte)
+2026-10-09T11:35:05+00:00  45 Maerkte geschrieben
+2026-10-09T11:35:16+00:00  15/15 Messungen (5 Maerkte)
+2026-10-09T11:40:05+00:00  45 Maerkte geschrieben
+2026-10-09T11:40:15+00:00  15/15 Messungen (5 Maerkte)
+2026-10-09T11:45:05+00:00  45 Maerkte geschrieben
+2026-10-09T11:45:15+00:00  15/15 Messungen (5 Maerkte)
+2026-10-09T11:50:05+00:00  45 Maerkte geschrieben
+2026-10-09T11:50:17+00:00  15/15 Messungen (5 Maerkte)
+2026-10-09T11:55:05+00:00  45 Maerkte geschrieben
+2026-10-09T11:55:16+00:00  15/15 Messungen (5 Maerkte)
