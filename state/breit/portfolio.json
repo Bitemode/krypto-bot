@@ -7,7 +7,7 @@
       "entry_price": 74607.0,
       "entry_date": "2026-10-01",
       "high_water": 74607.0,
-      "last_price": 74085.5
+      "last_price": 73770.5
     },
     "XRP-EUR": {
       "market": "XRP-EUR",
@@ -15,7 +15,7 @@
       "entry_price": 1.316335,
       "entry_date": "2026-10-01",
       "high_water": 1.316335,
-      "last_price": 1.2331400000000001
+      "last_price": 1.254515
     },
     "HYPE-EUR": {
       "market": "HYPE-EUR",
@@ -23,7 +23,7 @@
       "entry_price": 78.8175,
       "entry_date": "2026-10-01",
       "high_water": 78.8175,
-      "last_price": 76.348
+      "last_price": 75.294
     },
     "SOL-EUR": {
       "market": "SOL-EUR",
@@ -31,7 +31,7 @@
       "entry_price": 104.2285,
       "entry_date": "2026-10-01",
       "high_water": 104.2285,
-      "last_price": 98.1045
+      "last_price": 98.0745
     },
     "ETH-EUR": {
       "market": "ETH-EUR",
@@ -39,7 +39,7 @@
       "entry_price": 2387.99,
       "entry_date": "2026-10-01",
       "high_water": 2387.99,
-      "last_price": 2221.605
+      "last_price": 2225.5950000000003
     },
     "ADA-EUR": {
       "market": "ADA-EUR",
@@ -47,7 +47,7 @@
       "entry_price": 0.21754,
       "entry_date": "2026-10-01",
       "high_water": 0.21754,
-      "last_price": 0.21184
+      "last_price": 0.22575
     },
     "AVAX-EUR": {
       "market": "AVAX-EUR",
@@ -55,7 +55,7 @@
       "entry_price": 9.7142,
       "entry_date": "2026-10-01",
       "high_water": 9.7142,
-      "last_price": 9.0907
+      "last_price": 9.419
     },
     "LINK-EUR": {
       "market": "LINK-EUR",
@@ -63,7 +63,7 @@
       "entry_price": 12.70875,
       "entry_date": "2026-10-01",
       "high_water": 12.70875,
-      "last_price": 11.41985
+      "last_price": 11.5047
     },
     "XLM-EUR": {
       "market": "XLM-EUR",
@@ -87,7 +87,7 @@
       "entry_price": 1.6846999999999999,
       "entry_date": "2026-10-01",
       "high_water": 1.6846999999999999,
-      "last_price": 1.6646
+      "last_price": 1.72065
     },
     "LTC-EUR": {
       "market": "LTC-EUR",
@@ -111,7 +111,7 @@
       "entry_price": 0.0835185,
       "entry_date": "2026-10-01",
       "high_water": 0.0835185,
-      "last_price": 0.07549449999999999
+      "last_price": 0.0768855
     }
   },
   "equity_history": [
@@ -146,10 +146,14 @@
     [
       "2026-10-09",
       9797.51
+    ],
+    [
+      "2026-10-10",
+      9836.43
     ]
   ],
-  "day_start_equity": 9819.054428292038,
-  "day": "2026-10-09",
+  "day_start_equity": 9836.43078199497,
+  "day": "2026-10-10",
   "peak_equity": 10026.322492496045,
   "cooldown": {},
   "deposits": [
