@@ -2073,3 +2073,29 @@
   ! WIF/USDC 500.0$: quote-v6: <urlopen error [Errno -5] No address associated with hostname>
   ! WIF/USDC 2000.0$: quote-v6: <urlopen error [Errno -5] No address associated with hostname>
 2026-10-11T15:00:15+00:00  0/15 Messungen (5 Maerkte)
+2026-10-11T15:05:05+00:00  45 Maerkte geschrieben
+2026-10-11T15:05:16+00:00  15/15 Messungen (5 Maerkte)
+2026-10-11T15:10:05+00:00  45 Maerkte geschrieben
+2026-10-11T15:10:15+00:00  15/15 Messungen (5 Maerkte)
+2026-10-11T15:15:05+00:00  45 Maerkte geschrieben
+2026-10-11T15:15:17+00:00  15/15 Messungen (5 Maerkte)
+2026-10-11T15:20:05+00:00  45 Maerkte geschrieben
+2026-10-11T15:20:16+00:00  15/15 Messungen (5 Maerkte)
+2026-10-11T15:25:05+00:00  45 Maerkte geschrieben
+2026-10-11T15:25:16+00:00  15/15 Messungen (5 Maerkte)
+2026-10-11T15:30:05+00:00  45 Maerkte geschrieben
+2026-10-11T15:30:17+00:00  15/15 Messungen (5 Maerkte)
+2026-10-11T15:35:05+00:00  45 Maerkte geschrieben
+  ! JUP/USDC 2000.0$: quote-v6: <urlopen error [Errno -5] No address associated with hostname>
+  ! BONK/USDC 2000.0$: quote-v6: <urlopen error [Errno -5] No address associated with hostname>
+2026-10-11T15:35:16+00:00  13/15 Messungen (5 Maerkte)
+2026-10-11T15:40:05+00:00  45 Maerkte geschrieben
+2026-10-11T15:40:17+00:00  15/15 Messungen (5 Maerkte)
+2026-10-11T15:45:05+00:00  45 Maerkte geschrieben
+2026-10-11T15:45:17+00:00  15/15 Messungen (5 Maerkte)
+2026-10-11T15:50:05+00:00  45 Maerkte geschrieben
+2026-10-11T15:50:15+00:00  15/15 Messungen (5 Maerkte)
+2026-10-11T15:55:05+00:00  45 Maerkte geschrieben
+2026-10-11T15:55:15+00:00  15/15 Messungen (5 Maerkte)
+2026-10-11T16:00:05+00:00  45 Maerkte geschrieben
+2026-10-11T16:00:16+00:00  15/15 Messungen (5 Maerkte)
