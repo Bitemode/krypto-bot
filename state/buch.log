@@ -2056,3 +2056,20 @@
 2026-10-11T14:50:15+00:00  14/15 Messungen (5 Maerkte)
 2026-10-11T14:55:05+00:00  45 Maerkte geschrieben
 2026-10-11T14:55:16+00:00  15/15 Messungen (5 Maerkte)
+2026-10-11T15:00:05+00:00  45 Maerkte geschrieben
+  ! SOL/USDC 100.0$: quote-v6: <urlopen error [Errno -5] No address associated with hostname>
+  ! SOL/USDC 500.0$: quote-v6: <urlopen error [Errno -5] No address associated with hostname>
+  ! SOL/USDC 2000.0$: quote-v6: <urlopen error [Errno -5] No address associated with hostname>
+  ! JUP/USDC 100.0$: quote-v6: <urlopen error [Errno -5] No address associated with hostname>
+  ! JUP/USDC 500.0$: quote-v6: <urlopen error [Errno -5] No address associated with hostname>
+  ! JUP/USDC 2000.0$: quote-v6: <urlopen error [Errno -5] No address associated with hostname>
+  ! BONK/USDC 100.0$: quote-v6: <urlopen error [Errno -5] No address associated with hostname>
+  ! BONK/USDC 500.0$: quote-v6: <urlopen error [Errno -5] No address associated with hostname>
+  ! BONK/USDC 2000.0$: quote-v6: <urlopen error [Errno -5] No address associated with hostname>
+  ! JTO/USDC 100.0$: quote-v6: <urlopen error [Errno -5] No address associated with hostname>
+  ! JTO/USDC 500.0$: quote-v6: <urlopen error [Errno -5] No address associated with hostname>
+  ! JTO/USDC 2000.0$: quote-v6: <urlopen error [Errno -5] No address associated with hostname>
+  ! WIF/USDC 100.0$: quote-v6: <urlopen error [Errno -5] No address associated with hostname>
+  ! WIF/USDC 500.0$: quote-v6: <urlopen error [Errno -5] No address associated with hostname>
+  ! WIF/USDC 2000.0$: quote-v6: <urlopen error [Errno -5] No address associated with hostname>
+2026-10-11T15:00:15+00:00  0/15 Messungen (5 Maerkte)
