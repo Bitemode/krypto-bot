@@ -1094,3 +1094,183 @@ zeit,markt,betrag_usdc,rundlauf_bps,impact_hin_bps,impact_rueck_bps,usdc_zurueck
 2026-10-12T12:00:16+00:00,WIF/USDC,100.0,,,,,,quote-v6: <urlopen error [Errno -5] No address associated with hostname>
 2026-10-12T12:00:16+00:00,WIF/USDC,500.0,,,,,,quote-v6: <urlopen error [Errno -5] No address associated with hostname>
 2026-10-12T12:00:16+00:00,WIF/USDC,2000.0,,,,,,quote-v6: <urlopen error [Errno -5] No address associated with hostname>
+2026-10-12T12:05:17+00:00,SOL/USDC,100.0,0.01,0.0,1.4,99.9999,lite-v1,
+2026-10-12T12:05:17+00:00,SOL/USDC,500.0,-0.25,0.0,0.89,500.0127,lite-v1,
+2026-10-12T12:05:17+00:00,SOL/USDC,2000.0,-0.02,0.0,0.94,2000.0047,lite-v1,
+2026-10-12T12:05:17+00:00,JUP/USDC,100.0,1.29,0.0,1.76,99.9871,lite-v1,
+2026-10-12T12:05:17+00:00,JUP/USDC,500.0,2.16,0.2,1.96,499.8918,lite-v1,
+2026-10-12T12:05:17+00:00,JUP/USDC,2000.0,2.96,0.54,2.42,1999.4072,lite-v1,
+2026-10-12T12:05:17+00:00,BONK/USDC,100.0,3.1,0.5,2.6,99.969,lite-v1,
+2026-10-12T12:05:17+00:00,BONK/USDC,500.0,9.02,4.69,4.33,499.5489,lite-v1,
+2026-10-12T12:05:17+00:00,BONK/USDC,2000.0,20.38,12.18,8.21,1995.9237,lite-v1,
+2026-10-12T12:05:17+00:00,JTO/USDC,100.0,32.16,8.73,23.45,99.6784,lite-v1,
+2026-10-12T12:05:17+00:00,JTO/USDC,500.0,35.93,12.5,23.45,498.2036,lite-v1,
+2026-10-12T12:05:17+00:00,JTO/USDC,2000.0,64.08,18.57,45.6,1987.1831,lite-v1,
+2026-10-12T12:05:17+00:00,WIF/USDC,100.0,15.83,0.0,26.47,99.8417,lite-v1,
+2026-10-12T12:05:17+00:00,WIF/USDC,500.0,32.73,0.0,41.22,498.3636,lite-v1,
+2026-10-12T12:05:17+00:00,WIF/USDC,2000.0,54.1,0.0,58.66,1989.1807,lite-v1,
+2026-10-12T12:10:15+00:00,SOL/USDC,100.0,0.23,0.0,0.29,99.9977,lite-v1,
+2026-10-12T12:10:15+00:00,SOL/USDC,500.0,0.3,0.0,0.33,499.9849,lite-v1,
+2026-10-12T12:10:15+00:00,SOL/USDC,2000.0,0.36,0.02,0.0,1999.9279,lite-v1,
+2026-10-12T12:10:15+00:00,JUP/USDC,100.0,1.85,1.46,0.39,99.9815,lite-v1,
+2026-10-12T12:10:15+00:00,JUP/USDC,500.0,2.27,1.66,0.62,499.8864,lite-v1,
+2026-10-12T12:10:15+00:00,JUP/USDC,2000.0,3.06,2.13,0.93,1999.3872,lite-v1,
+2026-10-12T12:10:15+00:00,BONK/USDC,100.0,7.12,6.7,0.43,99.9288,lite-v1,
+2026-10-12T12:10:15+00:00,BONK/USDC,500.0,12.38,10.94,1.44,499.381,lite-v1,
+2026-10-12T12:10:15+00:00,BONK/USDC,2000.0,19.12,12.15,6.98,1996.1766,lite-v1,
+2026-10-12T12:10:15+00:00,JTO/USDC,100.0,24.78,42.31,0.0,99.7522,lite-v1,
+2026-10-12T12:10:15+00:00,JTO/USDC,500.0,28.6,46.12,0.0,498.57,lite-v1,
+2026-10-12T12:10:15+00:00,JTO/USDC,2000.0,53.4,51.83,1.58,1989.3201,lite-v1,
+2026-10-12T12:10:15+00:00,WIF/USDC,100.0,10.53,12.54,0.0,99.8947,lite-v1,
+2026-10-12T12:10:15+00:00,WIF/USDC,500.0,26.81,14.02,12.81,498.6593,lite-v1,
+2026-10-12T12:10:15+00:00,WIF/USDC,2000.0,,,,,,quote-v6: <urlopen error [Errno -5] No address associated with hostname>
+2026-10-12T12:15:16+00:00,SOL/USDC,100.0,0.0,0.23,0.0,100.0,lite-v1,
+2026-10-12T12:15:16+00:00,SOL/USDC,500.0,0.21,0.0,0.34,499.9895,lite-v1,
+2026-10-12T12:15:16+00:00,SOL/USDC,2000.0,0.5,0.0,0.55,1999.8997,lite-v1,
+2026-10-12T12:15:16+00:00,JUP/USDC,100.0,0.91,7.66,0.0,99.9909,lite-v1,
+2026-10-12T12:15:16+00:00,JUP/USDC,500.0,1.27,7.89,0.0,499.9363,lite-v1,
+2026-10-12T12:15:16+00:00,JUP/USDC,2000.0,2.18,8.32,0.0,1999.5644,lite-v1,
+2026-10-12T12:15:16+00:00,BONK/USDC,100.0,9.18,0.0,12.08,99.9082,lite-v1,
+2026-10-12T12:15:16+00:00,BONK/USDC,500.0,13.09,0.0,13.84,499.3453,lite-v1,
+2026-10-12T12:15:16+00:00,BONK/USDC,2000.0,17.16,1.75,15.41,1996.5689,lite-v1,
+2026-10-12T12:15:16+00:00,JTO/USDC,100.0,29.02,0.0,29.73,99.7098,lite-v1,
+2026-10-12T12:15:16+00:00,JTO/USDC,500.0,32.93,3.21,29.73,498.3533,lite-v1,
+2026-10-12T12:15:16+00:00,JTO/USDC,2000.0,58.33,9.97,48.41,1988.3343,lite-v1,
+2026-10-12T12:15:16+00:00,WIF/USDC,100.0,15.82,11.39,4.44,99.8418,lite-v1,
+2026-10-12T12:15:16+00:00,WIF/USDC,500.0,32.48,13.23,19.27,498.3761,lite-v1,
+2026-10-12T12:15:16+00:00,WIF/USDC,2000.0,54.52,17.29,37.29,1989.0966,lite-v1,
+2026-10-12T12:20:15+00:00,SOL/USDC,100.0,-0.4,0.0,0.01,100.004,lite-v1,
+2026-10-12T12:20:15+00:00,SOL/USDC,500.0,0.09,0.0,0.49,499.9955,lite-v1,
+2026-10-12T12:20:15+00:00,SOL/USDC,2000.0,0.3,0.0,0.59,1999.9406,lite-v1,
+2026-10-12T12:20:15+00:00,JUP/USDC,100.0,1.59,0.0,11.64,99.9841,lite-v1,
+2026-10-12T12:20:15+00:00,JUP/USDC,500.0,2.13,0.0,12.01,499.8934,lite-v1,
+2026-10-12T12:20:15+00:00,JUP/USDC,2000.0,,,,,,quote-v6: <urlopen error [Errno -5] No address associated with hostname>
+2026-10-12T12:20:15+00:00,BONK/USDC,100.0,2.99,0.0,11.18,99.9701,lite-v1,
+2026-10-12T12:20:15+00:00,BONK/USDC,500.0,9.77,0.0,13.69,499.5117,lite-v1,
+2026-10-12T12:20:15+00:00,BONK/USDC,2000.0,18.12,0.0,19.61,1996.3755,lite-v1,
+2026-10-12T12:20:15+00:00,JTO/USDC,100.0,25.39,0.0,36.78,99.7461,lite-v1,
+2026-10-12T12:20:15+00:00,JTO/USDC,500.0,29.31,0.0,36.78,498.5346,lite-v1,
+2026-10-12T12:20:15+00:00,JTO/USDC,2000.0,53.91,0.0,53.96,1989.218,lite-v1,
+2026-10-12T12:20:15+00:00,WIF/USDC,100.0,13.17,0.0,17.31,99.8683,lite-v1,
+2026-10-12T12:20:15+00:00,WIF/USDC,500.0,29.52,0.0,32.24,498.524,lite-v1,
+2026-10-12T12:20:15+00:00,WIF/USDC,2000.0,54.33,2.41,51.93,1989.1332,lite-v1,
+2026-10-12T12:25:16+00:00,SOL/USDC,100.0,,,,,,quote-v6: <urlopen error [Errno -5] No address associated with hostname>
+2026-10-12T12:25:16+00:00,SOL/USDC,500.0,,,,,,quote-v6: <urlopen error [Errno -5] No address associated with hostname>
+2026-10-12T12:25:16+00:00,SOL/USDC,2000.0,,,,,,quote-v6: <urlopen error [Errno -5] No address associated with hostname>
+2026-10-12T12:25:16+00:00,JUP/USDC,100.0,,,,,,quote-v6: <urlopen error [Errno -5] No address associated with hostname>
+2026-10-12T12:25:16+00:00,JUP/USDC,500.0,,,,,,quote-v6: <urlopen error [Errno -5] No address associated with hostname>
+2026-10-12T12:25:16+00:00,JUP/USDC,2000.0,,,,,,quote-v6: <urlopen error [Errno -5] No address associated with hostname>
+2026-10-12T12:25:16+00:00,BONK/USDC,100.0,,,,,,quote-v6: <urlopen error [Errno -5] No address associated with hostname>
+2026-10-12T12:25:16+00:00,BONK/USDC,500.0,,,,,,quote-v6: <urlopen error [Errno -5] No address associated with hostname>
+2026-10-12T12:25:16+00:00,BONK/USDC,2000.0,,,,,,quote-v6: <urlopen error [Errno -5] No address associated with hostname>
+2026-10-12T12:25:16+00:00,JTO/USDC,100.0,,,,,,quote-v6: <urlopen error [Errno -5] No address associated with hostname>
+2026-10-12T12:25:16+00:00,JTO/USDC,500.0,,,,,,quote-v6: <urlopen error [Errno -5] No address associated with hostname>
+2026-10-12T12:25:16+00:00,JTO/USDC,2000.0,,,,,,quote-v6: <urlopen error [Errno -5] No address associated with hostname>
+2026-10-12T12:25:16+00:00,WIF/USDC,100.0,,,,,,quote-v6: <urlopen error [Errno -5] No address associated with hostname>
+2026-10-12T12:25:16+00:00,WIF/USDC,500.0,,,,,,quote-v6: <urlopen error [Errno -5] No address associated with hostname>
+2026-10-12T12:25:16+00:00,WIF/USDC,2000.0,,,,,,quote-v6: <urlopen error [Errno -5] No address associated with hostname>
+2026-10-12T12:30:16+00:00,SOL/USDC,100.0,-0.94,0.0,0.11,100.0094,lite-v1,
+2026-10-12T12:30:16+00:00,SOL/USDC,500.0,-0.7,0.0,0.0,500.0352,lite-v1,
+2026-10-12T12:30:16+00:00,SOL/USDC,2000.0,-0.5,0.0,0.12,2000.0996,lite-v1,
+2026-10-12T12:30:16+00:00,JUP/USDC,100.0,0.82,0.0,0.92,99.9918,lite-v1,
+2026-10-12T12:30:16+00:00,JUP/USDC,500.0,1.51,0.59,0.92,499.9245,lite-v1,
+2026-10-12T12:30:16+00:00,JUP/USDC,2000.0,2.27,0.68,1.59,1999.5451,lite-v1,
+2026-10-12T12:30:16+00:00,BONK/USDC,100.0,5.41,0.0,13.19,99.9459,lite-v1,
+2026-10-12T12:30:16+00:00,BONK/USDC,500.0,11.58,0.0,17.62,499.4212,lite-v1,
+2026-10-12T12:30:16+00:00,BONK/USDC,2000.0,15.61,0.0,18.55,1996.8788,lite-v1,
+2026-10-12T12:30:16+00:00,JTO/USDC,100.0,30.84,0.0,31.97,99.6916,lite-v1,
+2026-10-12T12:30:16+00:00,JTO/USDC,500.0,33.96,1.75,32.22,498.3018,lite-v1,
+2026-10-12T12:30:16+00:00,JTO/USDC,2000.0,56.91,8.3,48.65,1988.6174,lite-v1,
+2026-10-12T12:30:16+00:00,WIF/USDC,100.0,14.67,0.0,22.97,99.8533,lite-v1,
+2026-10-12T12:30:16+00:00,WIF/USDC,500.0,32.43,0.0,37.78,498.3783,lite-v1,
+2026-10-12T12:30:16+00:00,WIF/USDC,2000.0,54.6,0.0,55.96,1989.0804,lite-v1,
+2026-10-12T12:35:16+00:00,SOL/USDC,100.0,-0.48,0.0,0.4,100.0048,lite-v1,
+2026-10-12T12:35:16+00:00,SOL/USDC,500.0,-0.14,0.0,0.49,500.0072,lite-v1,
+2026-10-12T12:35:16+00:00,SOL/USDC,2000.0,-0.25,0.0,0.61,2000.0506,lite-v1,
+2026-10-12T12:35:16+00:00,JUP/USDC,100.0,0.68,4.46,0.0,99.9932,lite-v1,
+2026-10-12T12:35:16+00:00,JUP/USDC,500.0,1.27,4.92,0.0,499.9365,lite-v1,
+2026-10-12T12:35:16+00:00,JUP/USDC,2000.0,2.16,3.29,0.0,1999.5677,lite-v1,
+2026-10-12T12:35:16+00:00,BONK/USDC,100.0,6.99,0.0,27.83,99.9301,lite-v1,
+2026-10-12T12:35:16+00:00,BONK/USDC,500.0,12.56,0.0,31.69,499.3719,lite-v1,
+2026-10-12T12:35:16+00:00,BONK/USDC,2000.0,19.35,0.0,35.7,1996.13,lite-v1,
+2026-10-12T12:35:16+00:00,JTO/USDC,100.0,35.4,27.51,7.91,99.646,lite-v1,
+2026-10-12T12:35:16+00:00,JTO/USDC,500.0,46.11,29.2,16.96,497.6946,lite-v1,
+2026-10-12T12:35:16+00:00,JTO/USDC,2000.0,67.46,36.75,30.82,1986.5087,lite-v1,
+2026-10-12T12:35:16+00:00,WIF/USDC,100.0,15.04,0.0,33.19,99.8496,lite-v1,
+2026-10-12T12:35:16+00:00,WIF/USDC,500.0,44.72,0.0,48.12,497.7638,lite-v1,
+2026-10-12T12:35:16+00:00,WIF/USDC,2000.0,54.64,5.77,48.91,1989.0713,lite-v1,
+2026-10-12T12:40:15+00:00,SOL/USDC,100.0,,,,,,quote-v6: <urlopen error [Errno -5] No address associated with hostname>
+2026-10-12T12:40:15+00:00,SOL/USDC,500.0,,,,,,quote-v6: <urlopen error [Errno -5] No address associated with hostname>
+2026-10-12T12:40:15+00:00,SOL/USDC,2000.0,,,,,,quote-v6: <urlopen error [Errno -5] No address associated with hostname>
+2026-10-12T12:40:15+00:00,JUP/USDC,100.0,,,,,,quote-v6: <urlopen error [Errno -5] No address associated with hostname>
+2026-10-12T12:40:15+00:00,JUP/USDC,500.0,,,,,,quote-v6: <urlopen error [Errno -5] No address associated with hostname>
+2026-10-12T12:40:15+00:00,JUP/USDC,2000.0,,,,,,quote-v6: <urlopen error [Errno -5] No address associated with hostname>
+2026-10-12T12:40:15+00:00,BONK/USDC,100.0,,,,,,quote-v6: <urlopen error [Errno -5] No address associated with hostname>
+2026-10-12T12:40:15+00:00,BONK/USDC,500.0,,,,,,quote-v6: <urlopen error [Errno -5] No address associated with hostname>
+2026-10-12T12:40:15+00:00,BONK/USDC,2000.0,,,,,,quote-v6: <urlopen error [Errno -5] No address associated with hostname>
+2026-10-12T12:40:15+00:00,JTO/USDC,100.0,,,,,,quote-v6: <urlopen error [Errno -5] No address associated with hostname>
+2026-10-12T12:40:15+00:00,JTO/USDC,500.0,,,,,,quote-v6: <urlopen error [Errno -5] No address associated with hostname>
+2026-10-12T12:40:15+00:00,JTO/USDC,2000.0,,,,,,quote-v6: <urlopen error [Errno -5] No address associated with hostname>
+2026-10-12T12:40:15+00:00,WIF/USDC,100.0,,,,,,quote-v6: <urlopen error [Errno -5] No address associated with hostname>
+2026-10-12T12:40:15+00:00,WIF/USDC,500.0,,,,,,quote-v6: <urlopen error [Errno -5] No address associated with hostname>
+2026-10-12T12:40:15+00:00,WIF/USDC,2000.0,,,,,,quote-v6: <urlopen error [Errno -5] No address associated with hostname>
+2026-10-12T12:45:17+00:00,SOL/USDC,100.0,-0.53,0.0,0.0,100.0053,lite-v1,
+2026-10-12T12:45:17+00:00,SOL/USDC,500.0,-0.42,0.0,0.0,500.0212,lite-v1,
+2026-10-12T12:45:17+00:00,SOL/USDC,2000.0,-0.4,0.0,0.0,2000.0791,lite-v1,
+2026-10-12T12:45:17+00:00,JUP/USDC,100.0,-0.63,9.7,0.0,100.0063,lite-v1,
+2026-10-12T12:45:17+00:00,JUP/USDC,500.0,0.7,9.9,0.0,499.9651,lite-v1,
+2026-10-12T12:45:17+00:00,JUP/USDC,2000.0,3.04,10.38,2.11,1999.3917,lite-v1,
+2026-10-12T12:45:17+00:00,BONK/USDC,100.0,10.87,15.74,0.0,99.8913,lite-v1,
+2026-10-12T12:45:17+00:00,BONK/USDC,500.0,13.9,18.07,0.0,499.3049,lite-v1,
+2026-10-12T12:45:17+00:00,BONK/USDC,2000.0,17.22,19.36,0.0,1996.5555,lite-v1,
+2026-10-12T12:45:17+00:00,JTO/USDC,100.0,18.95,5.79,13.17,99.8105,lite-v1,
+2026-10-12T12:45:17+00:00,JTO/USDC,500.0,28.62,15.47,13.17,498.5692,lite-v1,
+2026-10-12T12:45:17+00:00,JTO/USDC,2000.0,55.96,22.64,33.39,1988.808,lite-v1,
+2026-10-12T12:45:17+00:00,WIF/USDC,100.0,15.09,25.75,0.0,99.8491,lite-v1,
+2026-10-12T12:45:17+00:00,WIF/USDC,500.0,45.21,40.86,4.37,497.7394,lite-v1,
+2026-10-12T12:45:17+00:00,WIF/USDC,2000.0,56.14,44.54,11.66,1988.771,lite-v1,
+2026-10-12T12:50:15+00:00,SOL/USDC,100.0,-0.75,0.71,0.0,100.0075,lite-v1,
+2026-10-12T12:50:15+00:00,SOL/USDC,500.0,-0.75,0.0,0.0,500.0373,lite-v1,
+2026-10-12T12:50:15+00:00,SOL/USDC,2000.0,-0.6,0.0,0.0,2000.1197,lite-v1,
+2026-10-12T12:50:15+00:00,JUP/USDC,100.0,1.9,0.0,4.6,99.981,lite-v1,
+2026-10-12T12:50:15+00:00,JUP/USDC,500.0,2.29,0.0,4.8,499.8854,lite-v1,
+2026-10-12T12:50:15+00:00,JUP/USDC,2000.0,2.97,0.0,5.26,1999.4065,lite-v1,
+2026-10-12T12:50:15+00:00,BONK/USDC,100.0,6.8,0.0,11.35,99.932,lite-v1,
+2026-10-12T12:50:15+00:00,BONK/USDC,500.0,12.74,0.0,13.08,499.363,lite-v1,
+2026-10-12T12:50:15+00:00,BONK/USDC,2000.0,17.78,1.67,16.12,1996.4433,lite-v1,
+2026-10-12T12:50:15+00:00,JTO/USDC,100.0,41.46,11.46,30.03,99.5854,lite-v1,
+2026-10-12T12:50:15+00:00,JTO/USDC,500.0,44.19,14.2,30.03,497.7906,lite-v1,
+2026-10-12T12:50:15+00:00,JTO/USDC,2000.0,66.56,20.89,45.76,1986.6883,lite-v1,
+2026-10-12T12:50:15+00:00,WIF/USDC,100.0,15.67,11.1,4.58,99.8433,lite-v1,
+2026-10-12T12:50:15+00:00,WIF/USDC,500.0,31.91,26.04,5.89,498.4044,lite-v1,
+2026-10-12T12:50:15+00:00,WIF/USDC,2000.0,54.32,44.42,9.94,1989.137,lite-v1,
+2026-10-12T12:55:16+00:00,SOL/USDC,100.0,-1.75,0.0,0.0,100.0175,lite-v1,
+2026-10-12T12:55:16+00:00,SOL/USDC,500.0,-1.74,0.0,0.0,500.0869,lite-v1,
+2026-10-12T12:55:16+00:00,SOL/USDC,2000.0,-2.21,0.0,0.0,2000.4416,lite-v1,
+2026-10-12T12:55:16+00:00,JUP/USDC,100.0,2.3,2.58,0.0,99.977,lite-v1,
+2026-10-12T12:55:16+00:00,JUP/USDC,500.0,2.63,2.78,0.0,499.8683,lite-v1,
+2026-10-12T12:55:16+00:00,JUP/USDC,2000.0,3.87,4.03,7.08,1999.2269,lite-v1,
+2026-10-12T12:55:16+00:00,BONK/USDC,100.0,8.56,0.0,30.42,99.9144,lite-v1,
+2026-10-12T12:55:16+00:00,BONK/USDC,500.0,13.02,0.0,32.14,499.349,lite-v1,
+2026-10-12T12:55:16+00:00,BONK/USDC,2000.0,21.34,0.0,34.28,1995.7316,lite-v1,
+2026-10-12T12:55:16+00:00,JTO/USDC,100.0,32.34,0.0,61.43,99.6766,lite-v1,
+2026-10-12T12:55:16+00:00,JTO/USDC,500.0,49.18,0.0,69.91,497.5408,lite-v1,
+2026-10-12T12:55:16+00:00,JTO/USDC,2000.0,67.77,0.0,81.16,1986.4461,lite-v1,
+2026-10-12T12:55:16+00:00,WIF/USDC,100.0,14.84,0.0,36.51,99.8516,lite-v1,
+2026-10-12T12:55:16+00:00,WIF/USDC,500.0,44.87,0.0,52.4,497.7565,lite-v1,
+2026-10-12T12:55:16+00:00,WIF/USDC,2000.0,55.88,0.0,60.03,1988.8246,lite-v1,
+2026-10-12T13:00:16+00:00,SOL/USDC,100.0,,,,,,quote-v6: <urlopen error [Errno -5] No address associated with hostname>
+2026-10-12T13:00:16+00:00,SOL/USDC,500.0,,,,,,quote-v6: <urlopen error [Errno -5] No address associated with hostname>
+2026-10-12T13:00:16+00:00,SOL/USDC,2000.0,,,,,,quote-v6: <urlopen error [Errno -5] No address associated with hostname>
+2026-10-12T13:00:16+00:00,JUP/USDC,100.0,,,,,,quote-v6: <urlopen error [Errno -5] No address associated with hostname>
+2026-10-12T13:00:16+00:00,JUP/USDC,500.0,,,,,,quote-v6: <urlopen error [Errno -5] No address associated with hostname>
+2026-10-12T13:00:16+00:00,JUP/USDC,2000.0,,,,,,quote-v6: <urlopen error [Errno -5] No address associated with hostname>
+2026-10-12T13:00:16+00:00,BONK/USDC,100.0,,,,,,quote-v6: <urlopen error [Errno -5] No address associated with hostname>
+2026-10-12T13:00:16+00:00,BONK/USDC,500.0,,,,,,quote-v6: <urlopen error [Errno -5] No address associated with hostname>
+2026-10-12T13:00:16+00:00,BONK/USDC,2000.0,,,,,,quote-v6: <urlopen error [Errno -5] No address associated with hostname>
+2026-10-12T13:00:16+00:00,JTO/USDC,100.0,,,,,,quote-v6: <urlopen error [Errno -5] No address associated with hostname>
+2026-10-12T13:00:16+00:00,JTO/USDC,500.0,,,,,,quote-v6: <urlopen error [Errno -5] No address associated with hostname>
+2026-10-12T13:00:16+00:00,JTO/USDC,2000.0,,,,,,quote-v6: <urlopen error [Errno -5] No address associated with hostname>
+2026-10-12T13:00:16+00:00,WIF/USDC,100.0,,,,,,quote-v6: <urlopen error [Errno -5] No address associated with hostname>
+2026-10-12T13:00:16+00:00,WIF/USDC,500.0,,,,,,quote-v6: <urlopen error [Errno -5] No address associated with hostname>
+2026-10-12T13:00:16+00:00,WIF/USDC,2000.0,,,,,,quote-v6: <urlopen error [Errno -5] No address associated with hostname>
