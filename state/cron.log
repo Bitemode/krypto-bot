@@ -2684,3 +2684,143 @@ Profile (* = Champion)
 
 ===== 2026-10-11 17:00:43 Lauf beendet =====
 
+===== 2026-10-12 09:30:04 Lauf beginnt =====
+Krypto-Bot · 12.10.2026 07:30 UTC · Modus PAPER
+==============================================================================
+  Kapital            9,887.14 EUR      Eingezahlt  10,000.00 EUR
+  davon Cash         6,045.70 EUR      Investiert       39%  ████████············
+  Positionen                8          Regime     RISK_ON (Faktor 1.00)
+  Drawdown              -2.0%          Realisiert    -161.24 EUR
+  ! Kein Rebalance-Tag — nur Notfallprüfung
+
+Offene Positionen
+------------------------------------------------------------------------------
+  Markt                Menge    Einstand        Kurs    Wert EUR       G/V
+  ADA-EUR        1941.967830      0.2204      0.2265      439.83      2.8%
+  ALGO-EUR       4125.854824      0.1084      0.1162      479.55      7.3%
+  ATOM-EUR        222.633455      1.8056      1.8056      401.99      0.0%
+  AVAX-EUR         41.760020      9.4853      9.8095      409.64      3.4%
+  BTC-EUR           0.010541  74283.5000  75000.5000      790.56      1.0%
+  DOT-EUR         350.797216      1.1040      1.1040      387.28      0.0%
+  LINK-EUR         43.411563     12.4620     12.0370      522.54     -3.4%
+  TAO-EUR           1.533980    258.2200    267.3150      410.06      3.5%
+  Summe                                                 3,841.44
+
+Bewertung
+------------------------------------------------------------------------------
+  BTC-EUR     KAUFEN       Trend  1.00  Daten 100  Ziel   8.4%  Ist   8.0%
+               Trendstärke 1.00
+  ICP-EUR     KAUFEN       Trend  1.00  Daten 100  Ziel   3.8%  Ist   0.0%
+               Trendstärke 1.00
+  AVAX-EUR    VERKAUFEN    Trend  1.00  Daten 100  Ziel   0.0%  Ist   4.1%
+  ADA-EUR     REDUZIEREN   Trend  1.00  Daten 100  Ziel   4.4%  Ist   4.5%
+  TAO-EUR     REDUZIEREN   Trend  1.00  Daten 100  Ziel   3.8%  Ist   4.2%
+  LINK-EUR    REDUZIEREN   Trend  1.00  Daten 100  Ziel   4.8%  Ist   5.3%
+  ALGO-EUR    REDUZIEREN   Trend  1.00  Daten 100  Ziel   4.1%  Ist   4.9%
+  NEAR-EUR    BEOBACHTEN   Trend  1.00  Daten 100  Ziel   0.0%  Ist   0.0%
+               kein Platz frei (8 Positionen belegt)
+  SOL-EUR     BEOBACHTEN   Trend  1.00  Daten 100  Ziel   0.0%  Ist   0.0%
+               Filter: COOLDOWN
+               Signal da, aber COOLDOWN
+  RLC-EUR     BEOBACHTEN   Trend  1.00  Daten  80  Ziel   0.0%  Ist   0.0%
+               Filter: LOW_DATA_TRUST
+               −20 2 Tagessprünge über 50 %
+               Signal da, aber LOW_DATA_TRUST
+  HYPE-EUR    BEOBACHTEN   Trend  1.00  Daten 100  Ziel   0.0%  Ist   0.0%
+               Filter: COOLDOWN
+               Signal da, aber COOLDOWN
+  QNT-EUR     BEOBACHTEN   Trend  1.00  Daten  80  Ziel   0.0%  Ist   0.0%
+               Filter: LOW_DATA_TRUST
+               −20 2 Tagessprünge über 50 %
+               Signal da, aber LOW_DATA_TRUST
+  SUI-EUR     BEOBACHTEN   Trend  1.00  Daten 100  Ziel   0.0%  Ist   0.0%
+               kein Platz frei (8 Positionen belegt)
+  ZEUS-EUR    BEOBACHTEN   Trend  1.00  Daten  80  Ziel   0.0%  Ist   0.0%
+               Filter: LOW_DATA_TRUST, WIDE_SPREAD
+               −20 5 Tagessprünge über 50 %
+               Spread 0.77%
+  FET-EUR     BEOBACHTEN   Trend  1.00  Daten  90  Ziel   0.0%  Ist   0.0%
+               −10 1 Tagessprünge über 50 %
+               kein Platz frei (8 Positionen belegt)
+  ONDO-EUR    BEOBACHTEN   Trend  1.00  Daten 100  Ziel   0.0%  Ist   0.0%
+               kein Platz frei (8 Positionen belegt)
+  S-EUR       BEOBACHTEN   Trend  1.00  Daten 100  Ziel   0.0%  Ist   0.0%
+               kein Platz frei (8 Positionen belegt)
+  W-EUR       BEOBACHTEN   Trend  1.00  Daten 100  Ziel   0.0%  Ist   0.0%
+               kein Platz frei (8 Positionen belegt)
+  STRK-EUR    BEOBACHTEN   Trend  1.00  Daten  90  Ziel   0.0%  Ist   0.0%
+               −10 1 Tagessprünge über 50 %
+               kein Platz frei (8 Positionen belegt)
+  WLD-EUR     BEOBACHTEN   Trend  1.00  Daten  90  Ziel   0.0%  Ist   0.0%
+               −10 1 Tagessprünge über 50 %
+               kein Platz frei (8 Positionen belegt)
+  TIA-EUR     BEOBACHTEN   Trend  1.00  Daten 100  Ziel   0.0%  Ist   0.0%
+               kein Platz frei (8 Positionen belegt)
+  ENA-EUR     BEOBACHTEN   Trend  1.00  Daten 100  Ziel   0.0%  Ist   0.0%
+               kein Platz frei (8 Positionen belegt)
+  MAGIC-EUR   BEOBACHTEN   Trend  1.00  Daten  80  Ziel   0.0%  Ist   0.0%
+               Filter: LOW_DATA_TRUST
+               −20 3 Tagessprünge über 50 %
+               Signal da, aber LOW_DATA_TRUST
+  PUMP-EUR    BEOBACHTEN   Trend  1.00  Daten 100  Ziel   0.0%  Ist   0.0%
+               kein Platz frei (8 Positionen belegt)
+  GRASS-EUR   BEOBACHTEN   Trend  1.00  Daten 100  Ziel   0.0%  Ist   0.0%
+               kein Platz frei (8 Positionen belegt)
+  BAT-EUR     BEOBACHTEN   Trend  1.00  Daten 100  Ziel   0.0%  Ist   0.0%
+               kein Platz frei (8 Positionen belegt)
+  FIL-EUR     BEOBACHTEN   Trend  1.00  Daten  90  Ziel   0.0%  Ist   0.0%
+               −10 1 Tagessprünge über 50 %
+               kein Platz frei (8 Positionen belegt)
+  HBAR-EUR    BEOBACHTEN   Trend  1.00  Daten 100  Ziel   0.0%  Ist   0.0%
+               kein Platz frei (8 Positionen belegt)
+  APT-EUR     BEOBACHTEN   Trend  1.00  Daten 100  Ziel   0.0%  Ist   0.0%
+               kein Platz frei (8 Positionen belegt)
+  ZRO-EUR     BEOBACHTEN   Trend  1.00  Daten 100  Ziel   0.0%  Ist   0.0%
+               kein Platz frei (8 Positionen belegt)
+  PEPE-EUR    BEOBACHTEN   Trend  1.00  Daten 100  Ziel   0.0%  Ist   0.0%
+               kein Platz frei (8 Positionen belegt)
+  LUMIA-EUR   BEOBACHTEN   Trend  1.00  Daten 100  Ziel   0.0%  Ist   0.0%
+               kein Platz frei (8 Positionen belegt)
+  PLUME-EUR   BEOBACHTEN   Trend  1.00  Daten 100  Ziel   0.0%  Ist   0.0%
+               kein Platz frei (8 Positionen belegt)
+  RSR-EUR     BEOBACHTEN   Trend  1.00  Daten 100  Ziel   0.0%  Ist   0.0%
+               kein Platz frei (8 Positionen belegt)
+  EIGEN-EUR   BEOBACHTEN   Trend  1.00  Daten 100  Ziel   0.0%  Ist   0.0%
+               kein Platz frei (8 Positionen belegt)
+  ZRC-EUR     BEOBACHTEN   Trend  1.00  Daten  80  Ziel   0.0%  Ist   0.0%
+               Filter: LOW_DATA_TRUST, WIDE_SPREAD
+               −20 6 Tagessprünge über 50 %
+               Spread 0.64%
+  INJ-EUR     BEOBACHTEN   Trend  1.00  Daten 100  Ziel   0.0%  Ist   0.0%
+               kein Platz frei (8 Positionen belegt)
+  ETH-EUR     BEOBACHTEN   Trend  0.67  Daten 100  Ziel   0.0%  Ist   0.0%
+               Filter: COOLDOWN
+               Trend im Aufbau (0.67)
+  XRP-EUR     BEOBACHTEN   Trend  0.67  Daten 100  Ziel   0.0%  Ist   0.0%
+               Filter: COOLDOWN
+               Trend im Aufbau (0.67)
+  XLM-EUR     BEOBACHTEN   Trend  0.67  Daten 100  Ziel   0.0%  Ist   0.0%
+               Filter: COOLDOWN
+               Trend im Aufbau (0.67)
+  ARB-EUR     BEOBACHTEN   Trend  0.67  Daten 100  Ziel   0.0%  Ist   0.0%
+               Trend im Aufbau (0.67)
+  DOGE-EUR    BEOBACHTEN   Trend  0.67  Daten 100  Ziel   0.0%  Ist   0.0%
+               Trend im Aufbau (0.67)
+  USELESS-EUR BEOBACHTEN   Trend  0.33  Daten  80  Ziel   0.0%  Ist   0.0%
+               Filter: LOW_DATA_TRUST
+               −10 1 Tagessprünge über 50 %
+               −10 Historie knapp (397 Tage)
+
+Orders: keine — nichts zu tun.
+
+Profile (* = Champion)
+------------------------------------------------------------------------------
+ * standard     9,887.14 EUR      39% investiert   8 Pos.   0 Orders   RISK_ON
+   defensiv     9,951.66 EUR      29% investiert  10 Pos.   0 Orders   RISK_ON
+   offensiv     9,856.46 EUR      83% investiert  10 Pos.   0 Orders   RISK_ON
+   schnell     10,333.27 EUR      51% investiert  10 Pos.   0 Orders   RISK_ON
+   langsam      9,895.41 EUR      42% investiert   8 Pos.   0 Orders   RISK_ON
+   breit        9,964.26 EUR      48% investiert  19 Pos.   0 Orders   RISK_ON
+
+===== 2026-10-12 09:30:41 Lauf beendet =====
+
