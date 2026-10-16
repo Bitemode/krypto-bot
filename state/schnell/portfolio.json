@@ -1,14 +1,6 @@
 {
-  "cash": 5089.447512674918,
+  "cash": 4666.573046365539,
   "positions": {
-    "BTC-EUR": {
-      "market": "BTC-EUR",
-      "units": 0.010602222311579342,
-      "entry_price": 74607.0,
-      "entry_date": "2026-10-01",
-      "high_water": 74607.0,
-      "last_price": 73027.5
-    },
     "LTC-EUR": {
       "market": "LTC-EUR",
       "units": 7.8190543306822375,
@@ -17,14 +9,6 @@
       "high_water": 59.598,
       "last_price": 53.064
     },
-    "DOGE-EUR": {
-      "market": "DOGE-EUR",
-      "units": 5304.214036411095,
-      "entry_price": 0.0835185,
-      "entry_date": "2026-10-01",
-      "high_water": 0.0835185,
-      "last_price": 0.07304250000000001
-    },
     "OGN-EUR": {
       "market": "OGN-EUR",
       "units": 25973.114244676843,
@@ -32,30 +16,6 @@
       "entry_date": "2026-10-06",
       "high_water": 0.0197985,
       "last_price": 0.0322215
-    },
-    "TAO-EUR": {
-      "market": "TAO-EUR",
-      "units": 1.6026607371609416,
-      "entry_price": 258.22,
-      "entry_date": "2026-10-11",
-      "high_water": 258.22,
-      "last_price": 256.975
-    },
-    "LINK-EUR": {
-      "market": "LINK-EUR",
-      "units": 45.3552343949331,
-      "entry_price": 11.6991,
-      "entry_date": "2026-10-11",
-      "high_water": 11.6991,
-      "last_price": 11.13095
-    },
-    "AVAX-EUR": {
-      "market": "AVAX-EUR",
-      "units": 43.62974676995318,
-      "entry_price": 9.48525,
-      "entry_date": "2026-10-11",
-      "high_water": 9.48525,
-      "last_price": 9.04325
     },
     "ALGO-EUR": {
       "market": "ALGO-EUR",
@@ -79,7 +39,63 @@
       "entry_price": 1.104,
       "entry_date": "2026-10-11",
       "high_water": 1.104,
-      "last_price": 1.024
+      "last_price": 1.06345
+    },
+    "WLD-EUR": {
+      "market": "WLD-EUR",
+      "units": 775.8073205799425,
+      "entry_price": 0.464725,
+      "entry_date": "2026-10-16",
+      "high_water": 0.464725,
+      "last_price": 0.464725
+    },
+    "INJ-EUR": {
+      "market": "INJ-EUR",
+      "units": 45.80568152491785,
+      "entry_price": 7.98125,
+      "entry_date": "2026-10-16",
+      "high_water": 7.98125,
+      "last_price": 7.98125
+    },
+    "PYTH-EUR": {
+      "market": "PYTH-EUR",
+      "units": 5747.259802923244,
+      "entry_price": 0.0787225,
+      "entry_date": "2026-10-16",
+      "high_water": 0.0787225,
+      "last_price": 0.0787225
+    },
+    "RENDER-EUR": {
+      "market": "RENDER-EUR",
+      "units": 314.345595694756,
+      "entry_price": 1.7412999999999998,
+      "entry_date": "2026-10-16",
+      "high_water": 1.7412999999999998,
+      "last_price": 1.7412999999999998
+    },
+    "ZRO-EUR": {
+      "market": "ZRO-EUR",
+      "units": 193.1121060380555,
+      "entry_price": 1.91405,
+      "entry_date": "2026-10-16",
+      "high_water": 1.91405,
+      "last_price": 1.91405
+    },
+    "DUSK-EUR": {
+      "market": "DUSK-EUR",
+      "units": 3799.132568964138,
+      "entry_price": 0.106862,
+      "entry_date": "2026-10-16",
+      "high_water": 0.106862,
+      "last_price": 0.106862
+    },
+    "PLUME-EUR": {
+      "market": "PLUME-EUR",
+      "units": 21624.995005803437,
+      "entry_price": 0.01727935,
+      "entry_date": "2026-10-16",
+      "high_water": 0.01727935,
+      "last_price": 0.01727935
     }
   },
   "equity_history": [
@@ -141,7 +157,7 @@
     ],
     [
       "2026-10-16",
-      10094.54
+      10088.4
     ]
   ],
   "day_start_equity": 10094.541551824525,
@@ -152,7 +168,12 @@
     "HYPE-EUR": "2026-10-06",
     "XRP-EUR": "2026-10-11",
     "SOL-EUR": "2026-10-11",
-    "ETH-EUR": "2026-10-11"
+    "ETH-EUR": "2026-10-11",
+    "BTC-EUR": "2026-10-16",
+    "TAO-EUR": "2026-10-16",
+    "LINK-EUR": "2026-10-16",
+    "AVAX-EUR": "2026-10-16",
+    "DOGE-EUR": "2026-10-16"
   },
   "deposits": [
     [
@@ -160,7 +181,7 @@
       10000.0
     ]
   ],
-  "realized_pnl": -31.577268189467752,
+  "realized_pnl": -165.7875667876293,
   "created": "2026-10-01T12:13:09.424733+00:00",
-  "last_rebalance": "2026-10-11"
+  "last_rebalance": "2026-10-16"
 }
