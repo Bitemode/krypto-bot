@@ -1,11 +1,11 @@
-Server-Stand: 2026-10-16 06:02 CEST
+Server-Stand: 2026-10-16 07:05 CEST
 Laeuft seit:  2026-10-09 03:30:08
 
 --- Zeitplaene ---
 NEXT                             LEFT LAST                           PASSED UNIT              ACTIVATES
-Fri 2026-10-16 08:00:00 CEST 1h 57min Thu 2026-10-15 20:55:04 CEST   9h ago krypto-buch.timer krypto-buch.service
-Fri 2026-10-16 09:30:00 CEST 3h 27min Thu 2026-10-15 17:00:04 CEST  13h ago krypto-lauf.timer krypto-lauf.service
--                                   - Fri 2026-10-16 06:02:04 CEST 30ms ago krypto-sync.timer krypto-sync.service
+Fri 2026-10-16 08:00:00 CEST    54min Thu 2026-10-15 20:55:04 CEST  10h ago krypto-buch.timer krypto-buch.service
+Fri 2026-10-16 09:30:00 CEST 2h 24min Thu 2026-10-15 17:00:04 CEST  14h ago krypto-lauf.timer krypto-lauf.service
+-                                   - Fri 2026-10-16 07:05:04 CEST 36ms ago krypto-sync.timer krypto-sync.service
 
 3 timers listed.
 
@@ -38,4 +38,4 @@ Fri 2026-10-16 09:30:00 CEST 3h 27min Thu 2026-10-15 17:00:04 CEST  13h ago kryp
 2026-10-15T20:55:18+02:00 bot1 systemd[866]: krypto-buch.service: Consumed 2.294s CPU time.
 
 --- Speicher ---
-/dev/sda1        38G  2.7G   34G   8% /
+/dev/sda1        38G  2.6G   34G   8% /
