@@ -7,7 +7,7 @@
       "entry_price": 74607.0,
       "entry_date": "2026-10-01",
       "high_water": 74607.0,
-      "last_price": 72742.5
+      "last_price": 72579.5
     },
     "ADA-EUR": {
       "market": "ADA-EUR",
@@ -15,7 +15,7 @@
       "entry_price": 0.21754,
       "entry_date": "2026-10-01",
       "high_water": 0.21754,
-      "last_price": 0.20194499999999999
+      "last_price": 0.198965
     },
     "AVAX-EUR": {
       "market": "AVAX-EUR",
@@ -23,7 +23,7 @@
       "entry_price": 9.7142,
       "entry_date": "2026-10-01",
       "high_water": 9.7142,
-      "last_price": 9.12805
+      "last_price": 8.8957
     },
     "LINK-EUR": {
       "market": "LINK-EUR",
@@ -31,7 +31,7 @@
       "entry_price": 12.70875,
       "entry_date": "2026-10-01",
       "high_water": 12.70875,
-      "last_price": 11.1082
+      "last_price": 10.89865
     },
     "AAVE-EUR": {
       "market": "AAVE-EUR",
@@ -47,7 +47,7 @@
       "entry_price": 1.6846999999999999,
       "entry_date": "2026-10-01",
       "high_water": 1.6846999999999999,
-      "last_price": 1.7412999999999998
+      "last_price": 1.7138499999999999
     },
     "LTC-EUR": {
       "market": "LTC-EUR",
@@ -71,7 +71,7 @@
       "entry_price": 0.0835185,
       "entry_date": "2026-10-01",
       "high_water": 0.0835185,
-      "last_price": 0.07223399999999999
+      "last_price": 0.07173550000000001
     },
     "SUI-EUR": {
       "market": "SUI-EUR",
@@ -79,7 +79,7 @@
       "entry_price": 0.9889600000000001,
       "entry_date": "2026-10-11",
       "high_water": 0.9889600000000001,
-      "last_price": 0.92529
+      "last_price": 0.8971199999999999
     },
     "TAO-EUR": {
       "market": "TAO-EUR",
@@ -87,7 +87,7 @@
       "entry_price": 258.22,
       "entry_date": "2026-10-11",
       "high_water": 258.22,
-      "last_price": 253.68
+      "last_price": 244.585
     },
     "ONDO-EUR": {
       "market": "ONDO-EUR",
@@ -95,7 +95,7 @@
       "entry_price": 0.43976,
       "entry_date": "2026-10-11",
       "high_water": 0.43976,
-      "last_price": 0.41130999999999995
+      "last_price": 0.40501
     },
     "APT-EUR": {
       "market": "APT-EUR",
@@ -111,7 +111,7 @@
       "entry_price": 0.082533,
       "entry_date": "2026-10-11",
       "high_water": 0.082533,
-      "last_price": 0.075863
+      "last_price": 0.0745585
     },
     "INJ-EUR": {
       "market": "INJ-EUR",
@@ -119,7 +119,7 @@
       "entry_price": 6.9265,
       "entry_date": "2026-10-11",
       "high_water": 6.9265,
-      "last_price": 7.98125
+      "last_price": 7.919449999999999
     },
     "ALGO-EUR": {
       "market": "ALGO-EUR",
@@ -143,7 +143,7 @@
       "entry_price": 0.034168,
       "entry_date": "2026-10-11",
       "high_water": 0.034168,
-      "last_price": 0.041578500000000004
+      "last_price": 0.038134
     },
     "DOT-EUR": {
       "market": "DOT-EUR",
@@ -151,7 +151,7 @@
       "entry_price": 1.104,
       "entry_date": "2026-10-11",
       "high_water": 1.104,
-      "last_price": 1.06345
+      "last_price": 1.03355
     }
   },
   "equity_history": [
@@ -214,10 +214,14 @@
     [
       "2026-10-16",
       9757.08
+    ],
+    [
+      "2026-10-17",
+      9686.67
     ]
   ],
-  "day_start_equity": 9794.290543625431,
-  "day": "2026-10-16",
+  "day_start_equity": 9686.673819432954,
+  "day": "2026-10-17",
   "peak_equity": 10026.322492496045,
   "cooldown": {
     "XRP-EUR": "2026-10-11",
