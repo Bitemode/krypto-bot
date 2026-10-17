@@ -1,11 +1,11 @@
-Server-Stand: 2026-10-17 11:03 CEST
+Server-Stand: 2026-10-17 12:02 CEST
 Laeuft seit:  2026-10-17 03:30:08
 
 --- Zeitplaene ---
 NEXT                             LEFT LAST                               PASSED UNIT              ACTIVATES
-Sat 2026-10-17 11:05:00 CEST  1min 9s Sat 2026-10-17 11:00:20 CEST 3min 30s ago krypto-buch.timer krypto-buch.service
-Sat 2026-10-17 17:00:00 CEST 5h 56min Sat 2026-10-17 09:30:20 CEST 1h 33min ago krypto-lauf.timer krypto-lauf.service
--                                   - Sat 2026-10-17 11:03:50 CEST     30ms ago krypto-sync.timer krypto-sync.service
+Sat 2026-10-17 12:05:00 CEST  2min 9s Sat 2026-10-17 12:00:20 CEST 2min 30s ago krypto-buch.timer krypto-buch.service
+Sat 2026-10-17 17:00:00 CEST 4h 57min Sat 2026-10-17 09:30:20 CEST 2h 32min ago krypto-lauf.timer krypto-lauf.service
+-                                   - Sat 2026-10-17 12:02:50 CEST     28ms ago krypto-sync.timer krypto-sync.service
 
 3 timers listed.
 
@@ -25,18 +25,18 @@ Sat 2026-10-17 17:00:00 CEST 5h 56min Sat 2026-10-17 09:30:20 CEST 1h 33min ago 
 2026-10-17T09:30:55+02:00 bot1 systemd[862]: krypto-lauf.service: Consumed 3.911s CPU time.
 
 --- letzte Meldungen: krypto-buch ---
-2026-10-17T10:45:20+02:00 bot1 systemd[862]: Starting krypto-buch.service - Krypto-Bot Orderbuch-Messer (misst nur, handelt nicht)...
-2026-10-17T10:45:32+02:00 bot1 systemd[862]: Finished krypto-buch.service - Krypto-Bot Orderbuch-Messer (misst nur, handelt nicht).
-2026-10-17T10:45:32+02:00 bot1 systemd[862]: krypto-buch.service: Consumed 2.198s CPU time.
-2026-10-17T10:50:20+02:00 bot1 systemd[862]: Starting krypto-buch.service - Krypto-Bot Orderbuch-Messer (misst nur, handelt nicht)...
-2026-10-17T10:50:32+02:00 bot1 systemd[862]: Finished krypto-buch.service - Krypto-Bot Orderbuch-Messer (misst nur, handelt nicht).
-2026-10-17T10:50:32+02:00 bot1 systemd[862]: krypto-buch.service: Consumed 2.187s CPU time.
-2026-10-17T10:55:20+02:00 bot1 systemd[862]: Starting krypto-buch.service - Krypto-Bot Orderbuch-Messer (misst nur, handelt nicht)...
-2026-10-17T10:55:33+02:00 bot1 systemd[862]: Finished krypto-buch.service - Krypto-Bot Orderbuch-Messer (misst nur, handelt nicht).
-2026-10-17T10:55:33+02:00 bot1 systemd[862]: krypto-buch.service: Consumed 2.193s CPU time.
-2026-10-17T11:00:20+02:00 bot1 systemd[862]: Starting krypto-buch.service - Krypto-Bot Orderbuch-Messer (misst nur, handelt nicht)...
-2026-10-17T11:00:33+02:00 bot1 systemd[862]: Finished krypto-buch.service - Krypto-Bot Orderbuch-Messer (misst nur, handelt nicht).
-2026-10-17T11:00:33+02:00 bot1 systemd[862]: krypto-buch.service: Consumed 2.257s CPU time.
+2026-10-17T11:45:20+02:00 bot1 systemd[862]: Starting krypto-buch.service - Krypto-Bot Orderbuch-Messer (misst nur, handelt nicht)...
+2026-10-17T11:45:34+02:00 bot1 systemd[862]: Finished krypto-buch.service - Krypto-Bot Orderbuch-Messer (misst nur, handelt nicht).
+2026-10-17T11:45:34+02:00 bot1 systemd[862]: krypto-buch.service: Consumed 2.193s CPU time.
+2026-10-17T11:50:20+02:00 bot1 systemd[862]: Starting krypto-buch.service - Krypto-Bot Orderbuch-Messer (misst nur, handelt nicht)...
+2026-10-17T11:50:32+02:00 bot1 systemd[862]: Finished krypto-buch.service - Krypto-Bot Orderbuch-Messer (misst nur, handelt nicht).
+2026-10-17T11:50:32+02:00 bot1 systemd[862]: krypto-buch.service: Consumed 2.203s CPU time.
+2026-10-17T11:55:20+02:00 bot1 systemd[862]: Starting krypto-buch.service - Krypto-Bot Orderbuch-Messer (misst nur, handelt nicht)...
+2026-10-17T11:55:32+02:00 bot1 systemd[862]: Finished krypto-buch.service - Krypto-Bot Orderbuch-Messer (misst nur, handelt nicht).
+2026-10-17T11:55:32+02:00 bot1 systemd[862]: krypto-buch.service: Consumed 2.173s CPU time.
+2026-10-17T12:00:20+02:00 bot1 systemd[862]: Starting krypto-buch.service - Krypto-Bot Orderbuch-Messer (misst nur, handelt nicht)...
+2026-10-17T12:00:34+02:00 bot1 systemd[862]: Finished krypto-buch.service - Krypto-Bot Orderbuch-Messer (misst nur, handelt nicht).
+2026-10-17T12:00:34+02:00 bot1 systemd[862]: krypto-buch.service: Consumed 2.229s CPU time.
 
 --- Speicher ---
 /dev/sda1        38G  2.6G   34G   8% /
