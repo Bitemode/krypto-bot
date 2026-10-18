@@ -47,7 +47,7 @@
       "entry_price": 0.464725,
       "entry_date": "2026-10-16",
       "high_water": 0.464725,
-      "last_price": 0.44296
+      "last_price": 0.43577
     },
     "INJ-EUR": {
       "market": "INJ-EUR",
@@ -55,7 +55,7 @@
       "entry_price": 7.98125,
       "entry_date": "2026-10-16",
       "high_water": 7.98125,
-      "last_price": 7.56385
+      "last_price": 7.57405
     },
     "PYTH-EUR": {
       "market": "PYTH-EUR",
@@ -63,7 +63,7 @@
       "entry_price": 0.0787225,
       "entry_date": "2026-10-16",
       "high_water": 0.0787225,
-      "last_price": 0.0753525
+      "last_price": 0.0689585
     },
     "RENDER-EUR": {
       "market": "RENDER-EUR",
@@ -71,7 +71,7 @@
       "entry_price": 1.7412999999999998,
       "entry_date": "2026-10-16",
       "high_water": 1.7412999999999998,
-      "last_price": 1.6640000000000001
+      "last_price": 1.62725
     },
     "ZRO-EUR": {
       "market": "ZRO-EUR",
@@ -79,7 +79,7 @@
       "entry_price": 1.91405,
       "entry_date": "2026-10-16",
       "high_water": 1.91405,
-      "last_price": 1.69045
+      "last_price": 1.6309
     },
     "DUSK-EUR": {
       "market": "DUSK-EUR",
@@ -87,7 +87,7 @@
       "entry_price": 0.106862,
       "entry_date": "2026-10-16",
       "high_water": 0.106862,
-      "last_price": 0.103869
+      "last_price": 0.1118055
     },
     "PLUME-EUR": {
       "market": "PLUME-EUR",
@@ -162,10 +162,14 @@
     [
       "2026-10-17",
       9934.61
+    ],
+    [
+      "2026-10-18",
+      9899.85
     ]
   ],
-  "day_start_equity": 10021.535391108553,
-  "day": "2026-10-17",
+  "day_start_equity": 9899.847892907557,
+  "day": "2026-10-18",
   "peak_equity": 10362.212125461738,
   "cooldown": {
     "ADA-EUR": "2026-10-06",
