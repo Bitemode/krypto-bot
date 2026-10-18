@@ -7,7 +7,7 @@
       "entry_price": 74283.5,
       "entry_date": "2026-10-01",
       "high_water": 74283.5,
-      "last_price": 72658.5
+      "last_price": 72202.5
     },
     "ADA-EUR": {
       "market": "ADA-EUR",
@@ -15,7 +15,7 @@
       "entry_price": 0.220395,
       "entry_date": "2026-10-01",
       "high_water": 0.220395,
-      "last_price": 0.195065
+      "last_price": 0.19312
     },
     "LINK-EUR": {
       "market": "LINK-EUR",
@@ -23,7 +23,7 @@
       "entry_price": 12.461965765830435,
       "entry_date": "2026-10-01",
       "high_water": 12.732600000000001,
-      "last_price": 10.67175
+      "last_price": 10.50935
     },
     "TAO-EUR": {
       "market": "TAO-EUR",
@@ -31,7 +31,7 @@
       "entry_price": 258.22,
       "entry_date": "2026-10-11",
       "high_water": 258.22,
-      "last_price": 237.775
+      "last_price": 233.755
     },
     "AVAX-EUR": {
       "market": "AVAX-EUR",
@@ -39,7 +39,7 @@
       "entry_price": 9.48525,
       "entry_date": "2026-10-11",
       "high_water": 9.48525,
-      "last_price": 8.68955
+      "last_price": 8.50865
     },
     "ALGO-EUR": {
       "market": "ALGO-EUR",
@@ -47,7 +47,7 @@
       "entry_price": 0.1083625,
       "entry_date": "2026-10-11",
       "high_water": 0.1083625,
-      "last_price": 0.11253099999999999
+      "last_price": 0.097055
     },
     "ATOM-EUR": {
       "market": "ATOM-EUR",
@@ -137,7 +137,7 @@
     ],
     [
       "2026-10-18",
-      9601.88
+      9508.67
     ]
   ],
   "day_start_equity": 9601.875402387555,
