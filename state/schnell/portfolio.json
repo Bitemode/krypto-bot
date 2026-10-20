@@ -39,7 +39,7 @@
       "entry_price": 1.104,
       "entry_date": "2026-10-11",
       "high_water": 1.104,
-      "last_price": 1.008
+      "last_price": 1.04915
     },
     "WLD-EUR": {
       "market": "WLD-EUR",
@@ -47,7 +47,7 @@
       "entry_price": 0.464725,
       "entry_date": "2026-10-16",
       "high_water": 0.464725,
-      "last_price": 0.48050499999999996
+      "last_price": 0.51137
     },
     "INJ-EUR": {
       "market": "INJ-EUR",
@@ -55,7 +55,7 @@
       "entry_price": 7.98125,
       "entry_date": "2026-10-16",
       "high_water": 7.98125,
-      "last_price": 7.56315
+      "last_price": 7.8976500000000005
     },
     "PYTH-EUR": {
       "market": "PYTH-EUR",
@@ -71,7 +71,7 @@
       "entry_price": 1.7412999999999998,
       "entry_date": "2026-10-16",
       "high_water": 1.7412999999999998,
-      "last_price": 1.6
+      "last_price": 1.6831
     },
     "ZRO-EUR": {
       "market": "ZRO-EUR",
@@ -79,7 +79,7 @@
       "entry_price": 1.91405,
       "entry_date": "2026-10-16",
       "high_water": 1.91405,
-      "last_price": 1.64235
+      "last_price": 1.7734
     },
     "DUSK-EUR": {
       "market": "DUSK-EUR",
@@ -173,7 +173,7 @@
     ],
     [
       "2026-10-20",
-      9810.02
+      9915.79
     ]
   ],
   "day_start_equity": 9810.016404198395,
