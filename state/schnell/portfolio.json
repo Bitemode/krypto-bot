@@ -1,5 +1,5 @@
 {
-  "cash": 4666.573046365539,
+  "cash": 4115.207211782348,
   "positions": {
     "LTC-EUR": {
       "market": "LTC-EUR",
@@ -43,19 +43,19 @@
     },
     "WLD-EUR": {
       "market": "WLD-EUR",
-      "units": 775.8073205799425,
+      "units": 318.5818613834813,
       "entry_price": 0.464725,
       "entry_date": "2026-10-16",
       "high_water": 0.464725,
-      "last_price": 0.52256
+      "last_price": 0.51361
     },
     "INJ-EUR": {
       "market": "INJ-EUR",
-      "units": 45.80568152491785,
+      "units": 23.15948643179522,
       "entry_price": 7.98125,
       "entry_date": "2026-10-16",
       "high_water": 7.98125,
-      "last_price": 7.8782499999999995
+      "last_price": 7.79315
     },
     "PYTH-EUR": {
       "market": "PYTH-EUR",
@@ -96,6 +96,46 @@
       "entry_date": "2026-10-16",
       "high_water": 0.01727935,
       "last_price": 0.01727935
+    },
+    "PEPE-EUR": {
+      "market": "PEPE-EUR",
+      "units": 47076867.22091628,
+      "entry_price": 4.19195e-06,
+      "entry_date": "2026-10-21",
+      "high_water": 4.19195e-06,
+      "last_price": 4.19195e-06
+    },
+    "COMP-EUR": {
+      "market": "COMP-EUR",
+      "units": 9.60220750920417,
+      "entry_price": 22.823999999999998,
+      "entry_date": "2026-10-21",
+      "high_water": 22.823999999999998,
+      "last_price": 22.823999999999998
+    },
+    "TIA-EUR": {
+      "market": "TIA-EUR",
+      "units": 252.89781214433395,
+      "entry_price": 0.56074,
+      "entry_date": "2026-10-21",
+      "high_water": 0.56074,
+      "last_price": 0.56074
+    },
+    "MEW-EUR": {
+      "market": "MEW-EUR",
+      "units": 510002.53563356603,
+      "entry_price": 0.000447225,
+      "entry_date": "2026-10-21",
+      "high_water": 0.000447225,
+      "last_price": 0.000447225
+    },
+    "AERO-EUR": {
+      "market": "AERO-EUR",
+      "units": 226.47397168198728,
+      "entry_price": 0.766285,
+      "entry_date": "2026-10-21",
+      "high_water": 0.766285,
+      "last_price": 0.766285
     }
   },
   "equity_history": [
@@ -177,7 +217,7 @@
     ],
     [
       "2026-10-21",
-      9927.62
+      9914.04
     ]
   ],
   "day_start_equity": 9927.619104178768,
@@ -201,7 +241,7 @@
       10000.0
     ]
   ],
-  "realized_pnl": -165.7875667876293,
+  "realized_pnl": -148.51849103860238,
   "created": "2026-10-01T12:13:09.424733+00:00",
-  "last_rebalance": "2026-10-16"
+  "last_rebalance": "2026-10-21"
 }

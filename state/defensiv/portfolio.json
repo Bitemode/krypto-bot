@@ -1,22 +1,6 @@
 {
-  "cash": 7108.85097007887,
+  "cash": 8215.745576317982,
   "positions": {
-    "BTC-EUR": {
-      "market": "BTC-EUR",
-      "units": 0.006366694814159529,
-      "entry_price": 74607.0,
-      "entry_date": "2026-10-01",
-      "high_water": 74607.0,
-      "last_price": 73972.5
-    },
-    "ADA-EUR": {
-      "market": "ADA-EUR",
-      "units": 1195.1824951733015,
-      "entry_price": 0.21754,
-      "entry_date": "2026-10-01",
-      "high_water": 0.21754,
-      "last_price": 0.20044499999999998
-    },
     "LTC-EUR": {
       "market": "LTC-EUR",
       "units": 4.681365146481426,
@@ -24,38 +8,6 @@
       "entry_date": "2026-10-01",
       "high_water": 59.598,
       "last_price": 52.849999999999994
-    },
-    "DOGE-EUR": {
-      "market": "DOGE-EUR",
-      "units": 3184.9231008698675,
-      "entry_price": 0.0835185,
-      "entry_date": "2026-10-01",
-      "high_water": 0.0835185,
-      "last_price": 0.073074
-    },
-    "TAO-EUR": {
-      "market": "TAO-EUR",
-      "units": 0.9311481049255346,
-      "entry_price": 258.22,
-      "entry_date": "2026-10-11",
-      "high_water": 258.22,
-      "last_price": 244.805
-    },
-    "LINK-EUR": {
-      "market": "LINK-EUR",
-      "units": 26.30330390380846,
-      "entry_price": 11.6991,
-      "entry_date": "2026-10-11",
-      "high_water": 11.6991,
-      "last_price": 11.0536
-    },
-    "AVAX-EUR": {
-      "market": "AVAX-EUR",
-      "units": 25.244626578753223,
-      "entry_price": 9.48525,
-      "entry_date": "2026-10-11",
-      "high_water": 9.48525,
-      "last_price": 8.67515
     },
     "ALGO-EUR": {
       "market": "ALGO-EUR",
@@ -80,6 +32,46 @@
       "entry_date": "2026-10-11",
       "high_water": 1.104,
       "last_price": 1.0386
+    },
+    "PEPE-EUR": {
+      "market": "PEPE-EUR",
+      "units": 27949017.806240425,
+      "entry_price": 4.19195e-06,
+      "entry_date": "2026-10-21",
+      "high_water": 4.19195e-06,
+      "last_price": 4.19195e-06
+    },
+    "INJ-EUR": {
+      "market": "INJ-EUR",
+      "units": 13.655728092430296,
+      "entry_price": 7.79315,
+      "entry_date": "2026-10-21",
+      "high_water": 7.79315,
+      "last_price": 7.79315
+    },
+    "COMP-EUR": {
+      "market": "COMP-EUR",
+      "units": 5.64655510480882,
+      "entry_price": 22.823999999999998,
+      "entry_date": "2026-10-21",
+      "high_water": 22.823999999999998,
+      "last_price": 22.823999999999998
+    },
+    "MEW-EUR": {
+      "market": "MEW-EUR",
+      "units": 301268.9764029291,
+      "entry_price": 0.000447225,
+      "entry_date": "2026-10-21",
+      "high_water": 0.000447225,
+      "last_price": 0.000447225
+    },
+    "AERO-EUR": {
+      "market": "AERO-EUR",
+      "units": 133.78282824766353,
+      "entry_price": 0.766285,
+      "entry_date": "2026-10-21",
+      "high_water": 0.766285,
+      "last_price": 0.766285
     }
   },
   "equity_history": [
@@ -161,7 +153,7 @@
     ],
     [
       "2026-10-21",
-      9743.18
+      9758.83
     ]
   ],
   "day_start_equity": 9743.18150459147,
@@ -171,7 +163,13 @@
     "XRP-EUR": "2026-10-11",
     "SOL-EUR": "2026-10-11",
     "ETH-EUR": "2026-10-11",
-    "HYPE-EUR": "2026-10-11"
+    "HYPE-EUR": "2026-10-11",
+    "BTC-EUR": "2026-10-21",
+    "ADA-EUR": "2026-10-21",
+    "TAO-EUR": "2026-10-21",
+    "LINK-EUR": "2026-10-21",
+    "AVAX-EUR": "2026-10-21",
+    "DOGE-EUR": "2026-10-21"
   },
   "deposits": [
     [
@@ -179,7 +177,7 @@
       10000.0
     ]
   ],
-  "realized_pnl": -67.37121159853456,
+  "realized_pnl": -158.20503758873772,
   "created": "2026-10-01T12:13:09.356698+00:00",
-  "last_rebalance": "2026-10-11"
+  "last_rebalance": "2026-10-21"
 }
