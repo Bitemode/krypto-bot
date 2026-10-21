@@ -39,7 +39,7 @@
       "entry_price": 1.104,
       "entry_date": "2026-10-11",
       "high_water": 1.104,
-      "last_price": 1.04915
+      "last_price": 1.0386
     },
     "WLD-EUR": {
       "market": "WLD-EUR",
@@ -47,7 +47,7 @@
       "entry_price": 0.464725,
       "entry_date": "2026-10-16",
       "high_water": 0.464725,
-      "last_price": 0.51137
+      "last_price": 0.52256
     },
     "INJ-EUR": {
       "market": "INJ-EUR",
@@ -55,7 +55,7 @@
       "entry_price": 7.98125,
       "entry_date": "2026-10-16",
       "high_water": 7.98125,
-      "last_price": 7.8976500000000005
+      "last_price": 7.8782499999999995
     },
     "PYTH-EUR": {
       "market": "PYTH-EUR",
@@ -79,7 +79,7 @@
       "entry_price": 1.91405,
       "entry_date": "2026-10-16",
       "high_water": 1.91405,
-      "last_price": 1.7734
+      "last_price": 1.8143
     },
     "DUSK-EUR": {
       "market": "DUSK-EUR",
@@ -174,10 +174,14 @@
     [
       "2026-10-20",
       9915.79
+    ],
+    [
+      "2026-10-21",
+      9927.62
     ]
   ],
-  "day_start_equity": 9810.016404198395,
-  "day": "2026-10-20",
+  "day_start_equity": 9927.619104178768,
+  "day": "2026-10-21",
   "peak_equity": 10362.212125461738,
   "cooldown": {
     "ADA-EUR": "2026-10-06",
