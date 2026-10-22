@@ -15,7 +15,7 @@
       "entry_price": 1.6846999999999999,
       "entry_date": "2026-10-01",
       "high_water": 1.6846999999999999,
-      "last_price": 1.6831
+      "last_price": 1.63315
     },
     "LTC-EUR": {
       "market": "LTC-EUR",
@@ -47,7 +47,7 @@
       "entry_price": 6.9265,
       "entry_date": "2026-10-11",
       "high_water": 6.9265,
-      "last_price": 7.79315
+      "last_price": 7.3938
     },
     "ALGO-EUR": {
       "market": "ALGO-EUR",
@@ -87,7 +87,7 @@
       "entry_price": 4.696149999999999,
       "entry_date": "2026-10-21",
       "high_water": 4.696149999999999,
-      "last_price": 4.696149999999999
+      "last_price": 4.46655
     },
     "WLD-EUR": {
       "market": "WLD-EUR",
@@ -95,7 +95,7 @@
       "entry_price": 0.51361,
       "entry_date": "2026-10-21",
       "high_water": 0.51361,
-      "last_price": 0.51361
+      "last_price": 0.48089499999999996
     },
     "PEPE-EUR": {
       "market": "PEPE-EUR",
@@ -103,7 +103,7 @@
       "entry_price": 4.19195e-06,
       "entry_date": "2026-10-21",
       "high_water": 4.19195e-06,
-      "last_price": 4.19195e-06
+      "last_price": 3.99115e-06
     },
     "COMP-EUR": {
       "market": "COMP-EUR",
@@ -119,7 +119,7 @@
       "entry_price": 0.56074,
       "entry_date": "2026-10-21",
       "high_water": 0.56074,
-      "last_price": 0.56074
+      "last_price": 0.51109
     },
     "MEW-EUR": {
       "market": "MEW-EUR",
@@ -218,10 +218,14 @@
     [
       "2026-10-21",
       9667.06
+    ],
+    [
+      "2026-10-22",
+      9624.72
     ]
   ],
-  "day_start_equity": 9650.982026410573,
-  "day": "2026-10-21",
+  "day_start_equity": 9624.719448275715,
+  "day": "2026-10-22",
   "peak_equity": 10026.322492496045,
   "cooldown": {
     "XRP-EUR": "2026-10-11",
