@@ -7,7 +7,7 @@
       "entry_price": 59.598,
       "entry_date": "2026-10-01",
       "high_water": 59.598,
-      "last_price": 52.849999999999994
+      "last_price": 52.763
     },
     "OGN-EUR": {
       "market": "OGN-EUR",
@@ -47,7 +47,7 @@
       "entry_price": 0.464725,
       "entry_date": "2026-10-16",
       "high_water": 0.464725,
-      "last_price": 0.48089499999999996
+      "last_price": 0.48862
     },
     "INJ-EUR": {
       "market": "INJ-EUR",
@@ -55,7 +55,7 @@
       "entry_price": 7.98125,
       "entry_date": "2026-10-16",
       "high_water": 7.98125,
-      "last_price": 7.3938
+      "last_price": 7.1911000000000005
     },
     "PYTH-EUR": {
       "market": "PYTH-EUR",
@@ -71,7 +71,7 @@
       "entry_price": 1.7412999999999998,
       "entry_date": "2026-10-16",
       "high_water": 1.7412999999999998,
-      "last_price": 1.63315
+      "last_price": 1.63075
     },
     "ZRO-EUR": {
       "market": "ZRO-EUR",
@@ -79,7 +79,7 @@
       "entry_price": 1.91405,
       "entry_date": "2026-10-16",
       "high_water": 1.91405,
-      "last_price": 1.8143
+      "last_price": 1.60745
     },
     "DUSK-EUR": {
       "market": "DUSK-EUR",
@@ -95,7 +95,7 @@
       "entry_price": 0.01727935,
       "entry_date": "2026-10-16",
       "high_water": 0.01727935,
-      "last_price": 0.01727935
+      "last_price": 0.01510005
     },
     "PEPE-EUR": {
       "market": "PEPE-EUR",
@@ -103,7 +103,7 @@
       "entry_price": 4.19195e-06,
       "entry_date": "2026-10-21",
       "high_water": 4.19195e-06,
-      "last_price": 3.99115e-06
+      "last_price": 3.957699999999999e-06
     },
     "COMP-EUR": {
       "market": "COMP-EUR",
@@ -119,7 +119,7 @@
       "entry_price": 0.56074,
       "entry_date": "2026-10-21",
       "high_water": 0.56074,
-      "last_price": 0.51109
+      "last_price": 0.51449
     },
     "MEW-EUR": {
       "market": "MEW-EUR",
@@ -135,7 +135,7 @@
       "entry_price": 0.766285,
       "entry_date": "2026-10-21",
       "high_water": 0.766285,
-      "last_price": 0.766285
+      "last_price": 0.722785
     }
   },
   "equity_history": [
@@ -221,7 +221,7 @@
     ],
     [
       "2026-10-22",
-      9856.65
+      9755.35
     ]
   ],
   "day_start_equity": 9856.652915180835,

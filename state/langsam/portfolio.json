@@ -1,69 +1,45 @@
 {
-  "cash": 5784.585999999999,
+  "cash": 8366.774663196566,
   "positions": {
-    "BTC-EUR": {
-      "market": "BTC-EUR",
-      "units": 0.010602222311579342,
-      "entry_price": 74607.0,
-      "entry_date": "2026-10-01",
-      "high_water": 74607.0,
-      "last_price": 73113.5
+    "NEAR-EUR": {
+      "market": "NEAR-EUR",
+      "units": 46.920616620448804,
+      "entry_price": 4.45665,
+      "entry_date": "2026-10-22",
+      "high_water": 4.45665,
+      "last_price": 4.45665
     },
-    "XRP-EUR": {
-      "market": "XRP-EUR",
-      "units": 343.3776356322668,
-      "entry_price": 1.316335,
-      "entry_date": "2026-10-01",
-      "high_water": 1.316335,
-      "last_price": 1.192065
+    "WLD-EUR": {
+      "market": "WLD-EUR",
+      "units": 492.74046360713237,
+      "entry_price": 0.48862,
+      "entry_date": "2026-10-22",
+      "high_water": 0.48862,
+      "last_price": 0.48862
     },
-    "HYPE-EUR": {
-      "market": "HYPE-EUR",
-      "units": 5.607891648428332,
-      "entry_price": 78.8175,
-      "entry_date": "2026-10-01",
-      "high_water": 78.8175,
-      "last_price": 69.9905
+    "INJ-EUR": {
+      "market": "INJ-EUR",
+      "units": 36.548619732965875,
+      "entry_price": 7.1911000000000005,
+      "entry_date": "2026-10-22",
+      "high_water": 7.1911000000000005,
+      "last_price": 7.1911000000000005
     },
-    "SOL-EUR": {
-      "market": "SOL-EUR",
-      "units": 5.046604335666348,
-      "entry_price": 104.2285,
-      "entry_date": "2026-10-01",
-      "high_water": 104.2285,
-      "last_price": 92.8315
+    "TIA-EUR": {
+      "market": "TIA-EUR",
+      "units": 408.3033306473228,
+      "entry_price": 0.51449,
+      "entry_date": "2026-10-22",
+      "high_water": 0.51449,
+      "last_price": 0.51449
     },
-    "ETH-EUR": {
-      "market": "ETH-EUR",
-      "units": 0.27387049359503185,
-      "entry_price": 2387.99,
-      "entry_date": "2026-10-01",
-      "high_water": 2387.99,
-      "last_price": 2157.4849999999997
-    },
-    "ADA-EUR": {
-      "market": "ADA-EUR",
-      "units": 1990.4385400386134,
-      "entry_price": 0.21754,
-      "entry_date": "2026-10-01",
-      "high_water": 0.21754,
-      "last_price": 0.193685
-    },
-    "LTC-EUR": {
-      "market": "LTC-EUR",
-      "units": 7.8190543306822375,
-      "entry_price": 59.598,
-      "entry_date": "2026-10-01",
-      "high_water": 59.598,
-      "last_price": 52.849999999999994
-    },
-    "DOGE-EUR": {
-      "market": "DOGE-EUR",
-      "units": 5304.214036411095,
-      "entry_price": 0.0835185,
-      "entry_date": "2026-10-01",
-      "high_water": 0.0835185,
-      "last_price": 0.0708995
+    "CRV-EUR": {
+      "market": "CRV-EUR",
+      "units": 888.3908403245791,
+      "entry_price": 0.329315,
+      "entry_date": "2026-10-22",
+      "high_water": 0.329315,
+      "last_price": 0.329315
     }
   },
   "equity_history": [
@@ -149,20 +125,29 @@
     ],
     [
       "2026-10-22",
-      9595.76
+      9582.1
     ]
   ],
   "day_start_equity": 9595.755747955707,
   "day": "2026-10-22",
   "peak_equity": 10146.614027906178,
-  "cooldown": {},
+  "cooldown": {
+    "BTC-EUR": "2026-10-22",
+    "XRP-EUR": "2026-10-22",
+    "ETH-EUR": "2026-10-22",
+    "SOL-EUR": "2026-10-22",
+    "ADA-EUR": "2026-10-22",
+    "HYPE-EUR": "2026-10-22",
+    "DOGE-EUR": "2026-10-22",
+    "LTC-EUR": "2026-10-22"
+  },
   "deposits": [
     [
       "2026-10-01T12:13:09.458858+00:00",
       10000.0
     ]
   ],
-  "realized_pnl": 0.0,
+  "realized_pnl": -407.05588628439926,
   "created": "2026-10-01T12:13:09.458858+00:00",
-  "last_rebalance": "2026-10-01"
+  "last_rebalance": "2026-10-22"
 }
