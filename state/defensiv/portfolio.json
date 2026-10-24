@@ -39,7 +39,7 @@
       "entry_price": 4.19195e-06,
       "entry_date": "2026-10-21",
       "high_water": 4.19195e-06,
-      "last_price": 3.959199999999999e-06
+      "last_price": 3.8575e-06
     },
     "INJ-EUR": {
       "market": "INJ-EUR",
@@ -71,7 +71,7 @@
       "entry_price": 0.766285,
       "entry_date": "2026-10-21",
       "high_water": 0.766285,
-      "last_price": 0.645125
+      "last_price": 0.6282449999999999
     }
   },
   "equity_history": [
@@ -165,7 +165,7 @@
     ],
     [
       "2026-10-24",
-      9708.92
+      9703.82
     ]
   ],
   "day_start_equity": 9708.916799318404,
