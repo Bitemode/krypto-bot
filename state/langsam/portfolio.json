@@ -7,7 +7,7 @@
       "entry_price": 4.45665,
       "entry_date": "2026-10-22",
       "high_water": 4.45665,
-      "last_price": 3.8979
+      "last_price": 3.923
     },
     "WLD-EUR": {
       "market": "WLD-EUR",
@@ -15,7 +15,7 @@
       "entry_price": 0.48862,
       "entry_date": "2026-10-22",
       "high_water": 0.48862,
-      "last_price": 0.414115
+      "last_price": 0.40712
     },
     "INJ-EUR": {
       "market": "INJ-EUR",
@@ -23,7 +23,7 @@
       "entry_price": 7.1911000000000005,
       "entry_date": "2026-10-22",
       "high_water": 7.1911000000000005,
-      "last_price": 7.0249500000000005
+      "last_price": 6.74835
     },
     "TIA-EUR": {
       "market": "TIA-EUR",
@@ -134,10 +134,14 @@
     [
       "2026-10-24",
       9497.94
+    ],
+    [
+      "2026-10-25",
+      9485.56
     ]
   ],
-  "day_start_equity": 9516.704274848047,
-  "day": "2026-10-24",
+  "day_start_equity": 9485.557683699923,
+  "day": "2026-10-25",
   "peak_equity": 10146.614027906178,
   "cooldown": {
     "BTC-EUR": "2026-10-22",
