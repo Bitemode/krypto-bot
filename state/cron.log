@@ -6010,3 +6010,86 @@ Profile (* = Champion)
 
 ===== 2026-10-25 09:30:47 Lauf beendet =====
 
+===== 2026-10-25 17:00:20 Lauf beginnt =====
+Krypto-Bot · 25.10.2026 16:00 UTC · Modus PAPER
+==============================================================================
+  Kapital            9,457.39 EUR      Eingezahlt  10,000.00 EUR
+  davon Cash         7,187.07 EUR      Investiert       24%  █████···············
+  Positionen               10          Regime     NEUTRAL (Faktor 0.50)
+  Drawdown              -6.2%          Realisiert    -295.56 EUR
+  ! Kein Rebalance-Tag — nur Notfallprüfung
+
+Offene Positionen
+------------------------------------------------------------------------------
+  Markt                Menge    Einstand        Kurs    Wert EUR       G/V
+  AERO-EUR        219.860036      0.7663      0.6027      132.52    -21.3%
+  ALGO-EUR       4125.854824      0.1084      0.0971      400.43    -10.4%
+  ATOM-EUR        222.633455      1.8056      1.8056      401.99      0.0%
+  COMP-EUR          9.321785     22.8240     22.8240      212.76      0.0%
+  DOT-EUR         350.797216      1.1040      0.9265      325.03    -16.1%
+  INJ-EUR          22.483138      7.7931      6.8623      154.29    -11.9%
+  MEW-EUR      495108.445566      0.0004      0.0004      221.42      0.0%
+  PEPE-EUR    45702036.604389      0.0000      0.0000      178.27     -7.0%
+  TIA-EUR         245.512196      0.5607      0.4799      117.82    -14.4%
+  WLD-EUR         309.278012      0.5136      0.4067      125.79    -20.8%
+  Summe                                                 2,270.32
+
+Bewertung
+------------------------------------------------------------------------------
+  ICNT-EUR    KAUFEN       Trend  1.00  Daten 100  Ziel   3.2%  Ist   0.0%
+               Trendstärke 1.00
+  TIA-EUR     KAUFEN       Trend  1.00  Daten 100  Ziel   3.9%  Ist   1.2%
+               Trendstärke 1.00
+  PEPE-EUR    VERKAUFEN    Trend  0.67  Daten 100  Ziel   0.0%  Ist   1.9%
+               Trendstärke 0.67 unter Schwelle
+  INJ-EUR     VERKAUFEN    Trend  0.33  Daten 100  Ziel   0.0%  Ist   1.6%
+               Trendstärke 0.33 unter Schwelle
+  WLD-EUR     VERKAUFEN    Trend  0.00  Daten  90  Ziel   0.0%  Ist   1.3%
+               −10 1 Tagessprünge über 50 %
+               Trendstärke 0.00 unter Schwelle
+  DOT-EUR     VERKAUFEN    Trend  0.00  Daten 100  Ziel   0.0%  Ist   3.4%
+               Trendstärke 0.00 unter Schwelle
+  GTC-EUR     BEOBACHTEN   Trend  1.00  Daten  75  Ziel   0.0%  Ist   0.0%
+               Filter: LOW_DATA_TRUST, WIDE_SPREAD
+               −5 1 fehlende Tage
+               −20 4 Tagessprünge über 50 %
+  QNT-EUR     BEOBACHTEN   Trend  0.67  Daten  80  Ziel   0.0%  Ist   0.0%
+               Filter: LOW_DATA_TRUST
+               −20 2 Tagessprünge über 50 %
+               Trend im Aufbau (0.67)
+  T-EUR       BEOBACHTEN   Trend  0.67  Daten 100  Ziel   0.0%  Ist   0.0%
+               Trend im Aufbau (0.67)
+  NIL-EUR     BEOBACHTEN   Trend  0.67  Daten  80  Ziel   0.0%  Ist   0.0%
+               Filter: LOW_DATA_TRUST
+               −20 2 Tagessprünge über 50 %
+               Trend im Aufbau (0.67)
+  BTC-EUR     BEOBACHTEN   Trend  0.33  Daten 100  Ziel   0.0%  Ist   0.0%
+               Filter: COOLDOWN
+               Trend im Aufbau (0.33)
+  NEAR-EUR    BEOBACHTEN   Trend  0.33  Daten 100  Ziel   0.0%  Ist   0.0%
+               Trend im Aufbau (0.33)
+  ENA-EUR     BEOBACHTEN   Trend  0.33  Daten 100  Ziel   0.0%  Ist   0.0%
+               Trend im Aufbau (0.33)
+  PUMP-EUR    BEOBACHTEN   Trend  0.33  Daten 100  Ziel   0.0%  Ist   0.0%
+               Trend im Aufbau (0.33)
+  PHA-EUR     BEOBACHTEN   Trend  0.33  Daten  80  Ziel   0.0%  Ist   0.0%
+               Filter: LOW_DATA_TRUST
+               −20 2 Tagessprünge über 50 %
+               Trend im Aufbau (0.33)
+  ARK-EUR     BEOBACHTEN   Trend  0.33  Daten 100  Ziel   0.0%  Ist   0.0%
+               Trend im Aufbau (0.33)
+  … 20 weitere ohne Signal
+
+Orders: keine — nichts zu tun.
+
+Profile (* = Champion)
+------------------------------------------------------------------------------
+ * standard     9,457.39 EUR      24% investiert  10 Pos.   0 Orders   NEUTRAL
+   defensiv     9,693.28 EUR      15% investiert   9 Pos.   0 Orders   NEUTRAL
+   offensiv     9,027.27 EUR      51% investiert  11 Pos.   0 Orders   NEUTRAL
+   schnell      9,615.76 EUR      57% investiert  17 Pos.   0 Orders   NEUTRAL
+   langsam      9,496.24 EUR      12% investiert   5 Pos.   0 Orders   NEUTRAL
+   breit        9,489.42 EUR      31% investiert  17 Pos.   0 Orders   NEUTRAL
+
+===== 2026-10-25 17:00:55 Lauf beendet =====
+

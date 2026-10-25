@@ -47,7 +47,7 @@
       "entry_price": 6.9265,
       "entry_date": "2026-10-11",
       "high_water": 6.9265,
-      "last_price": 6.74835
+      "last_price": 6.862349999999999
     },
     "ALGO-EUR": {
       "market": "ALGO-EUR",
@@ -79,7 +79,7 @@
       "entry_price": 1.104,
       "entry_date": "2026-10-11",
       "high_water": 1.104,
-      "last_price": 0.91275
+      "last_price": 0.92655
     },
     "NEAR-EUR": {
       "market": "NEAR-EUR",
@@ -87,7 +87,7 @@
       "entry_price": 4.696149999999999,
       "entry_date": "2026-10-21",
       "high_water": 4.696149999999999,
-      "last_price": 3.923
+      "last_price": 4.043950000000001
     },
     "WLD-EUR": {
       "market": "WLD-EUR",
@@ -95,7 +95,7 @@
       "entry_price": 0.51361,
       "entry_date": "2026-10-21",
       "high_water": 0.51361,
-      "last_price": 0.40712
+      "last_price": 0.406735
     },
     "PEPE-EUR": {
       "market": "PEPE-EUR",
@@ -103,7 +103,7 @@
       "entry_price": 4.19195e-06,
       "entry_date": "2026-10-21",
       "high_water": 4.19195e-06,
-      "last_price": 3.9019e-06
+      "last_price": 3.9005999999999996e-06
     },
     "COMP-EUR": {
       "market": "COMP-EUR",
@@ -119,7 +119,7 @@
       "entry_price": 0.56074,
       "entry_date": "2026-10-21",
       "high_water": 0.56074,
-      "last_price": 0.477355
+      "last_price": 0.47987500000000005
     },
     "MEW-EUR": {
       "market": "MEW-EUR",
@@ -233,7 +233,7 @@
     ],
     [
       "2026-10-25",
-      9481.74
+      9489.42
     ]
   ],
   "day_start_equity": 9481.739513225435,

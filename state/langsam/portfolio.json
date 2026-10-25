@@ -7,7 +7,7 @@
       "entry_price": 4.45665,
       "entry_date": "2026-10-22",
       "high_water": 4.45665,
-      "last_price": 3.923
+      "last_price": 4.043950000000001
     },
     "WLD-EUR": {
       "market": "WLD-EUR",
@@ -15,7 +15,7 @@
       "entry_price": 0.48862,
       "entry_date": "2026-10-22",
       "high_water": 0.48862,
-      "last_price": 0.40712
+      "last_price": 0.406735
     },
     "INJ-EUR": {
       "market": "INJ-EUR",
@@ -23,7 +23,7 @@
       "entry_price": 7.1911000000000005,
       "entry_date": "2026-10-22",
       "high_water": 7.1911000000000005,
-      "last_price": 6.74835
+      "last_price": 6.862349999999999
     },
     "TIA-EUR": {
       "market": "TIA-EUR",
@@ -31,7 +31,7 @@
       "entry_price": 0.51449,
       "entry_date": "2026-10-22",
       "high_water": 0.51449,
-      "last_price": 0.477355
+      "last_price": 0.47987500000000005
     },
     "CRV-EUR": {
       "market": "CRV-EUR",
@@ -137,7 +137,7 @@
     ],
     [
       "2026-10-25",
-      9485.56
+      9496.24
     ]
   ],
   "day_start_equity": 9485.557683699923,
