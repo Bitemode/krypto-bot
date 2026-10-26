@@ -1,11 +1,11 @@
-Server-Stand: 2026-10-26 02:01 CET
+Server-Stand: 2026-10-26 03:04 CET
 Laeuft seit:  2026-10-17 03:30:08
 
 --- Zeitplaene ---
-NEXT                            LEFT LAST                             PASSED UNIT              ACTIVATES
-Mon 2026-10-26 08:00:00 CET 5h 58min Sun 2026-10-25 20:55:20 CET 5h 6min ago krypto-buch.timer krypto-buch.service
-Mon 2026-10-26 09:30:00 CET       7h Sun 2026-10-25 17:00:20 CET      9h ago krypto-lauf.timer krypto-lauf.service
--                                  - Mon 2026-10-26 02:01:50 CET    29ms ago krypto-sync.timer krypto-sync.service
+NEXT                            LEFT LAST                          PASSED UNIT              ACTIVATES
+Mon 2026-10-26 08:00:00 CET 4h 55min Sun 2026-10-25 20:55:20 CET   6h ago krypto-buch.timer krypto-buch.service
+Mon 2026-10-26 09:30:00 CET       6h Sun 2026-10-25 17:00:20 CET  10h ago krypto-lauf.timer krypto-lauf.service
+-                                  - Mon 2026-10-26 03:04:50 CET 35ms ago krypto-sync.timer krypto-sync.service
 
 3 timers listed.
 
