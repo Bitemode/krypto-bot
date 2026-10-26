@@ -1,5 +1,5 @@
 {
-  "cash": 4716.902035305781,
+  "cash": 3648.5712582800593,
   "positions": {
     "LTC-EUR": {
       "market": "LTC-EUR",
@@ -49,14 +49,6 @@
       "high_water": 0.0787225,
       "last_price": 0.0662045
     },
-    "RENDER-EUR": {
-      "market": "RENDER-EUR",
-      "units": 314.345595694756,
-      "entry_price": 1.7412999999999998,
-      "entry_date": "2026-10-16",
-      "high_water": 1.7412999999999998,
-      "last_price": 1.6046
-    },
     "ZRO-EUR": {
       "market": "ZRO-EUR",
       "units": 193.1121060380555,
@@ -104,6 +96,46 @@
       "entry_date": "2026-10-21",
       "high_water": 0.000447225,
       "last_price": 0.000447225
+    },
+    "PEPE-EUR": {
+      "market": "PEPE-EUR",
+      "units": 88351327.12156034,
+      "entry_price": 3.89855e-06,
+      "entry_date": "2026-10-26",
+      "high_water": 3.89855e-06,
+      "last_price": 3.89855e-06
+    },
+    "DODO-EUR": {
+      "market": "DODO-EUR",
+      "units": 14039.355860038044,
+      "entry_price": 0.020707,
+      "entry_date": "2026-10-26",
+      "high_water": 0.020707,
+      "last_price": 0.020707
+    },
+    "INJ-EUR": {
+      "market": "INJ-EUR",
+      "units": 44.7985250182521,
+      "entry_price": 7.0676000000000005,
+      "entry_date": "2026-10-26",
+      "high_water": 7.0676000000000005,
+      "last_price": 7.0676000000000005
+    },
+    "BABY-EUR": {
+      "market": "BABY-EUR",
+      "units": 30064.864994474883,
+      "entry_price": 0.013148,
+      "entry_date": "2026-10-26",
+      "high_water": 0.013148,
+      "last_price": 0.013148
+    },
+    "ICNT-EUR": {
+      "market": "ICNT-EUR",
+      "units": 1337.7285631392097,
+      "entry_price": 0.15492,
+      "entry_date": "2026-10-26",
+      "high_water": 0.15492,
+      "last_price": 0.15492
     }
   },
   "equity_history": [
@@ -205,7 +237,7 @@
     ],
     [
       "2026-10-26",
-      9608.82
+      9590.4
     ]
   ],
   "day_start_equity": 9610.026488261668,
@@ -221,7 +253,8 @@
     "TAO-EUR": "2026-10-16",
     "LINK-EUR": "2026-10-16",
     "AVAX-EUR": "2026-10-16",
-    "DOGE-EUR": "2026-10-16"
+    "DOGE-EUR": "2026-10-16",
+    "RENDER-EUR": "2026-10-26"
   },
   "deposits": [
     [
@@ -229,7 +262,7 @@
       10000.0
     ]
   ],
-  "realized_pnl": -250.60575506742518,
+  "realized_pnl": -308.8910867299554,
   "created": "2026-10-01T12:13:09.424733+00:00",
-  "last_rebalance": "2026-10-21"
+  "last_rebalance": "2026-10-26"
 }

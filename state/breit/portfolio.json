@@ -15,7 +15,7 @@
       "entry_price": 1.6846999999999999,
       "entry_date": "2026-10-01",
       "high_water": 1.6846999999999999,
-      "last_price": 1.6046
+      "last_price": 1.559
     },
     "LTC-EUR": {
       "market": "LTC-EUR",
@@ -79,7 +79,7 @@
       "entry_price": 4.19195e-06,
       "entry_date": "2026-10-21",
       "high_water": 4.19195e-06,
-      "last_price": 3.908249999999999e-06
+      "last_price": 3.89855e-06
     },
     "COMP-EUR": {
       "market": "COMP-EUR",
@@ -205,7 +205,7 @@
     ],
     [
       "2026-10-26",
-      9483.68
+      9476.51
     ]
   ],
   "day_start_equity": 9484.70895070865,
