@@ -1,5 +1,5 @@
 {
-  "cash": 4115.207211782348,
+  "cash": 4716.902035305781,
   "positions": {
     "LTC-EUR": {
       "market": "LTC-EUR",
@@ -41,22 +41,6 @@
       "high_water": 1.104,
       "last_price": 0.92655
     },
-    "WLD-EUR": {
-      "market": "WLD-EUR",
-      "units": 318.5818613834813,
-      "entry_price": 0.464725,
-      "entry_date": "2026-10-16",
-      "high_water": 0.464725,
-      "last_price": 0.406735
-    },
-    "INJ-EUR": {
-      "market": "INJ-EUR",
-      "units": 23.15948643179522,
-      "entry_price": 7.98125,
-      "entry_date": "2026-10-16",
-      "high_water": 7.98125,
-      "last_price": 6.862349999999999
-    },
     "PYTH-EUR": {
       "market": "PYTH-EUR",
       "units": 5747.259802923244,
@@ -97,14 +81,6 @@
       "high_water": 0.01727935,
       "last_price": 0.014161449999999999
     },
-    "PEPE-EUR": {
-      "market": "PEPE-EUR",
-      "units": 47076867.22091628,
-      "entry_price": 4.19195e-06,
-      "entry_date": "2026-10-21",
-      "high_water": 4.19195e-06,
-      "last_price": 3.9005999999999996e-06
-    },
     "COMP-EUR": {
       "market": "COMP-EUR",
       "units": 9.60220750920417,
@@ -128,14 +104,6 @@
       "entry_date": "2026-10-21",
       "high_water": 0.000447225,
       "last_price": 0.000447225
-    },
-    "AERO-EUR": {
-      "market": "AERO-EUR",
-      "units": 226.47397168198728,
-      "entry_price": 0.766285,
-      "entry_date": "2026-10-21",
-      "high_water": 0.766285,
-      "last_price": 0.602725
     }
   },
   "equity_history": [
@@ -234,10 +202,14 @@
     [
       "2026-10-25",
       9615.76
+    ],
+    [
+      "2026-10-26",
+      9608.82
     ]
   ],
-  "day_start_equity": 9607.610933103493,
-  "day": "2026-10-25",
+  "day_start_equity": 9610.026488261668,
+  "day": "2026-10-26",
   "peak_equity": 10362.212125461738,
   "cooldown": {
     "ADA-EUR": "2026-10-06",
@@ -257,7 +229,7 @@
       10000.0
     ]
   ],
-  "realized_pnl": -148.51849103860238,
+  "realized_pnl": -250.60575506742518,
   "created": "2026-10-01T12:13:09.424733+00:00",
   "last_rebalance": "2026-10-21"
 }

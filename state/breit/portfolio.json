@@ -1,5 +1,5 @@
 {
-  "cash": 6589.639678883266,
+  "cash": 7102.073269444274,
   "positions": {
     "AAVE-EUR": {
       "market": "AAVE-EUR",
@@ -41,14 +41,6 @@
       "high_water": 0.8222,
       "last_price": 0.73335
     },
-    "INJ-EUR": {
-      "market": "INJ-EUR",
-      "units": 16.509117311983573,
-      "entry_price": 6.9265,
-      "entry_date": "2026-10-11",
-      "high_water": 6.9265,
-      "last_price": 6.862349999999999
-    },
     "ALGO-EUR": {
       "market": "ALGO-EUR",
       "units": 2472.92068008734,
@@ -81,29 +73,13 @@
       "high_water": 1.104,
       "last_price": 0.92655
     },
-    "NEAR-EUR": {
-      "market": "NEAR-EUR",
-      "units": 21.216830777359917,
-      "entry_price": 4.696149999999999,
-      "entry_date": "2026-10-21",
-      "high_water": 4.696149999999999,
-      "last_price": 4.043950000000001
-    },
-    "WLD-EUR": {
-      "market": "WLD-EUR",
-      "units": 226.01279355764913,
-      "entry_price": 0.51361,
-      "entry_date": "2026-10-21",
-      "high_water": 0.51361,
-      "last_price": 0.406735
-    },
     "PEPE-EUR": {
       "market": "PEPE-EUR",
-      "units": 33460864.43535806,
+      "units": 3.725290298461914e-09,
       "entry_price": 4.19195e-06,
       "entry_date": "2026-10-21",
       "high_water": 4.19195e-06,
-      "last_price": 3.9005999999999996e-06
+      "last_price": 3.908249999999999e-06
     },
     "COMP-EUR": {
       "market": "COMP-EUR",
@@ -128,14 +104,6 @@
       "entry_date": "2026-10-21",
       "high_water": 0.000447225,
       "last_price": 0.000447225
-    },
-    "AERO-EUR": {
-      "market": "AERO-EUR",
-      "units": 160.3240387518059,
-      "entry_price": 0.766285,
-      "entry_date": "2026-10-21",
-      "high_water": 0.766285,
-      "last_price": 0.602725
     }
   },
   "equity_history": [
@@ -234,10 +202,14 @@
     [
       "2026-10-25",
       9489.42
+    ],
+    [
+      "2026-10-26",
+      9483.68
     ]
   ],
-  "day_start_equity": 9481.739513225435,
-  "day": "2026-10-25",
+  "day_start_equity": 9484.70895070865,
+  "day": "2026-10-26",
   "peak_equity": 10026.322492496045,
   "cooldown": {
     "XRP-EUR": "2026-10-11",
@@ -261,7 +233,7 @@
       10000.0
     ]
   ],
-  "realized_pnl": -237.34824540082155,
+  "realized_pnl": -318.10508336023673,
   "created": "2026-10-01T12:13:09.493300+00:00",
   "last_rebalance": "2026-10-21"
 }

@@ -1,5 +1,5 @@
 {
-  "cash": 8215.745576317982,
+  "cash": 8497.840343749207,
   "positions": {
     "LTC-EUR": {
       "market": "LTC-EUR",
@@ -33,22 +33,6 @@
       "high_water": 1.104,
       "last_price": 0.92655
     },
-    "PEPE-EUR": {
-      "market": "PEPE-EUR",
-      "units": 27949017.806240425,
-      "entry_price": 4.19195e-06,
-      "entry_date": "2026-10-21",
-      "high_water": 4.19195e-06,
-      "last_price": 3.9005999999999996e-06
-    },
-    "INJ-EUR": {
-      "market": "INJ-EUR",
-      "units": 13.655728092430296,
-      "entry_price": 7.79315,
-      "entry_date": "2026-10-21",
-      "high_water": 7.79315,
-      "last_price": 6.862349999999999
-    },
     "COMP-EUR": {
       "market": "COMP-EUR",
       "units": 5.64655510480882,
@@ -64,14 +48,6 @@
       "entry_date": "2026-10-21",
       "high_water": 0.000447225,
       "last_price": 0.000447225
-    },
-    "AERO-EUR": {
-      "market": "AERO-EUR",
-      "units": 133.78282824766353,
-      "entry_price": 0.766285,
-      "entry_date": "2026-10-21",
-      "high_water": 0.766285,
-      "last_price": 0.602725
     }
   },
   "equity_history": [
@@ -170,10 +146,14 @@
     [
       "2026-10-25",
       9693.28
+    ],
+    [
+      "2026-10-26",
+      9692.01
     ]
   ],
-  "day_start_equity": 9688.827569759944,
-  "day": "2026-10-25",
+  "day_start_equity": 9692.576800050929,
+  "day": "2026-10-26",
   "peak_equity": 10087.97926721065,
   "cooldown": {
     "XRP-EUR": "2026-10-11",
@@ -193,7 +173,7 @@
       10000.0
     ]
   ],
-  "realized_pnl": -158.20503758873772,
+  "realized_pnl": -202.20806727766674,
   "created": "2026-10-01T12:13:09.356698+00:00",
   "last_rebalance": "2026-10-21"
 }

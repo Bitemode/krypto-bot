@@ -1,30 +1,6 @@
 {
-  "cash": 8366.774663196566,
+  "cash": 8996.47823074417,
   "positions": {
-    "NEAR-EUR": {
-      "market": "NEAR-EUR",
-      "units": 46.920616620448804,
-      "entry_price": 4.45665,
-      "entry_date": "2026-10-22",
-      "high_water": 4.45665,
-      "last_price": 4.043950000000001
-    },
-    "WLD-EUR": {
-      "market": "WLD-EUR",
-      "units": 492.74046360713237,
-      "entry_price": 0.48862,
-      "entry_date": "2026-10-22",
-      "high_water": 0.48862,
-      "last_price": 0.406735
-    },
-    "INJ-EUR": {
-      "market": "INJ-EUR",
-      "units": 36.548619732965875,
-      "entry_price": 7.1911000000000005,
-      "entry_date": "2026-10-22",
-      "high_water": 7.1911000000000005,
-      "last_price": 6.862349999999999
-    },
     "TIA-EUR": {
       "market": "TIA-EUR",
       "units": 408.3033306473228,
@@ -138,10 +114,14 @@
     [
       "2026-10-25",
       9496.24
+    ],
+    [
+      "2026-10-26",
+      9484.97
     ]
   ],
-  "day_start_equity": 9485.557683699923,
-  "day": "2026-10-25",
+  "day_start_equity": 9486.235152117128,
+  "day": "2026-10-26",
   "peak_equity": 10146.614027906178,
   "cooldown": {
     "BTC-EUR": "2026-10-22",
@@ -159,7 +139,7 @@
       10000.0
     ]
   ],
-  "realized_pnl": -407.05588628439926,
+  "realized_pnl": -490.0487094877681,
   "created": "2026-10-01T12:13:09.458858+00:00",
   "last_rebalance": "2026-10-22"
 }
