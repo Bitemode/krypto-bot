@@ -1,5 +1,5 @@
 {
-  "cash": 3648.5712582800593,
+  "cash": 4936.396072816166,
   "positions": {
     "LTC-EUR": {
       "market": "LTC-EUR",
@@ -81,14 +81,6 @@
       "high_water": 22.823999999999998,
       "last_price": 22.823999999999998
     },
-    "TIA-EUR": {
-      "market": "TIA-EUR",
-      "units": 252.89781214433395,
-      "entry_price": 0.56074,
-      "entry_date": "2026-10-21",
-      "high_water": 0.56074,
-      "last_price": 0.47987500000000005
-    },
     "MEW-EUR": {
       "market": "MEW-EUR",
       "units": 510002.53563356603,
@@ -97,30 +89,6 @@
       "high_water": 0.000447225,
       "last_price": 0.000447225
     },
-    "PEPE-EUR": {
-      "market": "PEPE-EUR",
-      "units": 88351327.12156034,
-      "entry_price": 3.89855e-06,
-      "entry_date": "2026-10-26",
-      "high_water": 3.89855e-06,
-      "last_price": 3.89855e-06
-    },
-    "DODO-EUR": {
-      "market": "DODO-EUR",
-      "units": 14039.355860038044,
-      "entry_price": 0.020707,
-      "entry_date": "2026-10-26",
-      "high_water": 0.020707,
-      "last_price": 0.020707
-    },
-    "INJ-EUR": {
-      "market": "INJ-EUR",
-      "units": 44.7985250182521,
-      "entry_price": 7.0676000000000005,
-      "entry_date": "2026-10-26",
-      "high_water": 7.0676000000000005,
-      "last_price": 7.0676000000000005
-    },
     "BABY-EUR": {
       "market": "BABY-EUR",
       "units": 30064.864994474883,
@@ -128,14 +96,6 @@
       "entry_date": "2026-10-26",
       "high_water": 0.013148,
       "last_price": 0.013148
-    },
-    "ICNT-EUR": {
-      "market": "ICNT-EUR",
-      "units": 1337.7285631392097,
-      "entry_price": 0.15492,
-      "entry_date": "2026-10-26",
-      "high_water": 0.15492,
-      "last_price": 0.15492
     }
   },
   "equity_history": [
@@ -238,10 +198,14 @@
     [
       "2026-10-26",
       9590.4
+    ],
+    [
+      "2026-10-27",
+      9597.85
     ]
   ],
-  "day_start_equity": 9610.026488261668,
-  "day": "2026-10-26",
+  "day_start_equity": 9600.430100266869,
+  "day": "2026-10-27",
   "peak_equity": 10362.212125461738,
   "cooldown": {
     "ADA-EUR": "2026-10-06",
@@ -262,7 +226,7 @@
       10000.0
     ]
   ],
-  "realized_pnl": -308.8910867299554,
+  "realized_pnl": -321.89016393975453,
   "created": "2026-10-01T12:13:09.424733+00:00",
   "last_rebalance": "2026-10-26"
 }

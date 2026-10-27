@@ -179,3 +179,108 @@ zeit,markt,betrag_usdc,rundlauf_bps,impact_hin_bps,impact_rueck_bps,usdc_zurueck
 2026-10-27T07:55:33+00:00,WIF/USDC,100.0,,,,,,quote-v6: <urlopen error [Errno -5] No address associated with hostname>
 2026-10-27T07:55:33+00:00,WIF/USDC,500.0,,,,,,quote-v6: <urlopen error [Errno -5] No address associated with hostname>
 2026-10-27T07:55:33+00:00,WIF/USDC,2000.0,,,,,,quote-v6: <urlopen error [Errno -5] No address associated with hostname>
+2026-10-27T08:00:33+00:00,SOL/USDC,100.0,0.29,0.0,0.46,99.9971,lite-v1,
+2026-10-27T08:00:33+00:00,SOL/USDC,500.0,0.11,0.0,0.27,499.9944,lite-v1,
+2026-10-27T08:00:33+00:00,SOL/USDC,2000.0,,,,,,quote-v6: <urlopen error [Errno -5] No address associated with hostname>
+2026-10-27T08:00:33+00:00,JUP/USDC,100.0,,,,,,quote-v6: <urlopen error [Errno -5] No address associated with hostname>
+2026-10-27T08:00:33+00:00,JUP/USDC,500.0,,,,,,quote-v6: <urlopen error [Errno -5] No address associated with hostname>
+2026-10-27T08:00:33+00:00,JUP/USDC,2000.0,,,,,,quote-v6: <urlopen error [Errno -5] No address associated with hostname>
+2026-10-27T08:00:33+00:00,BONK/USDC,100.0,,,,,,quote-v6: <urlopen error [Errno -5] No address associated with hostname>
+2026-10-27T08:00:33+00:00,BONK/USDC,500.0,,,,,,quote-v6: <urlopen error [Errno -5] No address associated with hostname>
+2026-10-27T08:00:33+00:00,BONK/USDC,2000.0,,,,,,quote-v6: <urlopen error [Errno -5] No address associated with hostname>
+2026-10-27T08:00:33+00:00,JTO/USDC,100.0,,,,,,quote-v6: <urlopen error [Errno -5] No address associated with hostname>
+2026-10-27T08:00:33+00:00,JTO/USDC,500.0,,,,,,quote-v6: <urlopen error [Errno -5] No address associated with hostname>
+2026-10-27T08:00:33+00:00,JTO/USDC,2000.0,,,,,,quote-v6: <urlopen error [Errno -5] No address associated with hostname>
+2026-10-27T08:00:33+00:00,WIF/USDC,100.0,,,,,,quote-v6: <urlopen error [Errno -5] No address associated with hostname>
+2026-10-27T08:00:33+00:00,WIF/USDC,500.0,,,,,,quote-v6: <urlopen error [Errno -5] No address associated with hostname>
+2026-10-27T08:00:33+00:00,WIF/USDC,2000.0,,,,,,quote-v6: <urlopen error [Errno -5] No address associated with hostname>
+2026-10-27T08:05:33+00:00,SOL/USDC,100.0,-0.05,0.34,0.0,100.0005,lite-v1,
+2026-10-27T08:05:33+00:00,SOL/USDC,500.0,-0.17,0.2,0.0,500.0085,lite-v1,
+2026-10-27T08:05:33+00:00,SOL/USDC,2000.0,,,,,,quote-v6: <urlopen error [Errno -5] No address associated with hostname>
+2026-10-27T08:05:33+00:00,JUP/USDC,100.0,,,,,,quote-v6: <urlopen error [Errno -5] No address associated with hostname>
+2026-10-27T08:05:33+00:00,JUP/USDC,500.0,,,,,,quote-v6: <urlopen error [Errno -5] No address associated with hostname>
+2026-10-27T08:05:33+00:00,JUP/USDC,2000.0,,,,,,quote-v6: <urlopen error [Errno -5] No address associated with hostname>
+2026-10-27T08:05:33+00:00,BONK/USDC,100.0,,,,,,quote-v6: <urlopen error [Errno -5] No address associated with hostname>
+2026-10-27T08:05:33+00:00,BONK/USDC,500.0,,,,,,quote-v6: <urlopen error [Errno -5] No address associated with hostname>
+2026-10-27T08:05:33+00:00,BONK/USDC,2000.0,,,,,,quote-v6: <urlopen error [Errno -5] No address associated with hostname>
+2026-10-27T08:05:33+00:00,JTO/USDC,100.0,,,,,,quote-v6: <urlopen error [Errno -5] No address associated with hostname>
+2026-10-27T08:05:33+00:00,JTO/USDC,500.0,,,,,,quote-v6: <urlopen error [Errno -5] No address associated with hostname>
+2026-10-27T08:05:33+00:00,JTO/USDC,2000.0,,,,,,quote-v6: <urlopen error [Errno -5] No address associated with hostname>
+2026-10-27T08:05:33+00:00,WIF/USDC,100.0,,,,,,quote-v6: <urlopen error [Errno -5] No address associated with hostname>
+2026-10-27T08:05:33+00:00,WIF/USDC,500.0,,,,,,quote-v6: <urlopen error [Errno -5] No address associated with hostname>
+2026-10-27T08:05:33+00:00,WIF/USDC,2000.0,,,,,,quote-v6: <urlopen error [Errno -5] No address associated with hostname>
+2026-10-27T08:10:31+00:00,SOL/USDC,100.0,-0.69,0.0,0.0,100.0069,lite-v1,
+2026-10-27T08:10:31+00:00,SOL/USDC,500.0,-0.13,0.0,0.0,500.0067,lite-v1,
+2026-10-27T08:10:31+00:00,SOL/USDC,2000.0,,,,,,quote-v6: <urlopen error [Errno -5] No address associated with hostname>
+2026-10-27T08:10:31+00:00,JUP/USDC,100.0,,,,,,quote-v6: <urlopen error [Errno -5] No address associated with hostname>
+2026-10-27T08:10:31+00:00,JUP/USDC,500.0,,,,,,quote-v6: <urlopen error [Errno -5] No address associated with hostname>
+2026-10-27T08:10:31+00:00,JUP/USDC,2000.0,,,,,,quote-v6: <urlopen error [Errno -5] No address associated with hostname>
+2026-10-27T08:10:31+00:00,BONK/USDC,100.0,,,,,,quote-v6: <urlopen error [Errno -5] No address associated with hostname>
+2026-10-27T08:10:31+00:00,BONK/USDC,500.0,,,,,,quote-v6: <urlopen error [Errno -5] No address associated with hostname>
+2026-10-27T08:10:31+00:00,BONK/USDC,2000.0,,,,,,quote-v6: <urlopen error [Errno -5] No address associated with hostname>
+2026-10-27T08:10:31+00:00,JTO/USDC,100.0,,,,,,quote-v6: <urlopen error [Errno -5] No address associated with hostname>
+2026-10-27T08:10:31+00:00,JTO/USDC,500.0,,,,,,quote-v6: <urlopen error [Errno -5] No address associated with hostname>
+2026-10-27T08:10:31+00:00,JTO/USDC,2000.0,,,,,,quote-v6: <urlopen error [Errno -5] No address associated with hostname>
+2026-10-27T08:10:31+00:00,WIF/USDC,100.0,,,,,,quote-v6: <urlopen error [Errno -5] No address associated with hostname>
+2026-10-27T08:10:31+00:00,WIF/USDC,500.0,,,,,,quote-v6: <urlopen error [Errno -5] No address associated with hostname>
+2026-10-27T08:10:31+00:00,WIF/USDC,2000.0,,,,,,quote-v6: <urlopen error [Errno -5] No address associated with hostname>
+2026-10-27T08:15:33+00:00,SOL/USDC,100.0,-0.18,0.0,10.97,100.0018,lite-v1,
+2026-10-27T08:15:33+00:00,SOL/USDC,500.0,-0.41,0.0,0.29,500.0207,lite-v1,
+2026-10-27T08:15:33+00:00,SOL/USDC,2000.0,,,,,,quote-v6: <urlopen error [Errno -5] No address associated with hostname>
+2026-10-27T08:15:33+00:00,JUP/USDC,100.0,,,,,,quote-v6: <urlopen error [Errno -5] No address associated with hostname>
+2026-10-27T08:15:33+00:00,JUP/USDC,500.0,,,,,,quote-v6: <urlopen error [Errno -5] No address associated with hostname>
+2026-10-27T08:15:33+00:00,JUP/USDC,2000.0,,,,,,quote-v6: <urlopen error [Errno -5] No address associated with hostname>
+2026-10-27T08:15:33+00:00,BONK/USDC,100.0,,,,,,quote-v6: <urlopen error [Errno -5] No address associated with hostname>
+2026-10-27T08:15:33+00:00,BONK/USDC,500.0,,,,,,quote-v6: <urlopen error [Errno -5] No address associated with hostname>
+2026-10-27T08:15:33+00:00,BONK/USDC,2000.0,,,,,,quote-v6: <urlopen error [Errno -5] No address associated with hostname>
+2026-10-27T08:15:33+00:00,JTO/USDC,100.0,,,,,,quote-v6: <urlopen error [Errno -5] No address associated with hostname>
+2026-10-27T08:15:33+00:00,JTO/USDC,500.0,,,,,,quote-v6: <urlopen error [Errno -5] No address associated with hostname>
+2026-10-27T08:15:33+00:00,JTO/USDC,2000.0,,,,,,quote-v6: <urlopen error [Errno -5] No address associated with hostname>
+2026-10-27T08:15:33+00:00,WIF/USDC,100.0,,,,,,quote-v6: <urlopen error [Errno -5] No address associated with hostname>
+2026-10-27T08:15:33+00:00,WIF/USDC,500.0,,,,,,quote-v6: <urlopen error [Errno -5] No address associated with hostname>
+2026-10-27T08:15:33+00:00,WIF/USDC,2000.0,,,,,,quote-v6: <urlopen error [Errno -5] No address associated with hostname>
+2026-10-27T08:20:32+00:00,SOL/USDC,100.0,-0.18,0.0,0.12,100.0018,lite-v1,
+2026-10-27T08:20:32+00:00,SOL/USDC,500.0,-0.09,0.0,0.16,500.0045,lite-v1,
+2026-10-27T08:20:32+00:00,SOL/USDC,2000.0,,,,,,quote-v6: <urlopen error [Errno -5] No address associated with hostname>
+2026-10-27T08:20:32+00:00,JUP/USDC,100.0,,,,,,quote-v6: <urlopen error [Errno -5] No address associated with hostname>
+2026-10-27T08:20:32+00:00,JUP/USDC,500.0,,,,,,quote-v6: <urlopen error [Errno -5] No address associated with hostname>
+2026-10-27T08:20:32+00:00,JUP/USDC,2000.0,,,,,,quote-v6: <urlopen error [Errno -5] No address associated with hostname>
+2026-10-27T08:20:32+00:00,BONK/USDC,100.0,,,,,,quote-v6: <urlopen error [Errno -5] No address associated with hostname>
+2026-10-27T08:20:32+00:00,BONK/USDC,500.0,,,,,,quote-v6: <urlopen error [Errno -5] No address associated with hostname>
+2026-10-27T08:20:32+00:00,BONK/USDC,2000.0,,,,,,quote-v6: <urlopen error [Errno -5] No address associated with hostname>
+2026-10-27T08:20:32+00:00,JTO/USDC,100.0,,,,,,quote-v6: <urlopen error [Errno -5] No address associated with hostname>
+2026-10-27T08:20:32+00:00,JTO/USDC,500.0,,,,,,quote-v6: <urlopen error [Errno -5] No address associated with hostname>
+2026-10-27T08:20:32+00:00,JTO/USDC,2000.0,,,,,,quote-v6: <urlopen error [Errno -5] No address associated with hostname>
+2026-10-27T08:20:32+00:00,WIF/USDC,100.0,,,,,,quote-v6: <urlopen error [Errno -5] No address associated with hostname>
+2026-10-27T08:20:32+00:00,WIF/USDC,500.0,,,,,,quote-v6: <urlopen error [Errno -5] No address associated with hostname>
+2026-10-27T08:20:32+00:00,WIF/USDC,2000.0,,,,,,quote-v6: <urlopen error [Errno -5] No address associated with hostname>
+2026-10-27T08:25:32+00:00,SOL/USDC,100.0,0.14,0.0,0.19,99.9986,lite-v1,
+2026-10-27T08:25:32+00:00,SOL/USDC,500.0,0.28,0.04,0.24,499.986,lite-v1,
+2026-10-27T08:25:32+00:00,SOL/USDC,2000.0,,,,,,quote-v6: <urlopen error [Errno -5] No address associated with hostname>
+2026-10-27T08:25:32+00:00,JUP/USDC,100.0,,,,,,quote-v6: <urlopen error [Errno -5] No address associated with hostname>
+2026-10-27T08:25:32+00:00,JUP/USDC,500.0,,,,,,quote-v6: <urlopen error [Errno -5] No address associated with hostname>
+2026-10-27T08:25:32+00:00,JUP/USDC,2000.0,,,,,,quote-v6: <urlopen error [Errno -5] No address associated with hostname>
+2026-10-27T08:25:32+00:00,BONK/USDC,100.0,,,,,,quote-v6: <urlopen error [Errno -5] No address associated with hostname>
+2026-10-27T08:25:32+00:00,BONK/USDC,500.0,,,,,,quote-v6: <urlopen error [Errno -5] No address associated with hostname>
+2026-10-27T08:25:32+00:00,BONK/USDC,2000.0,,,,,,quote-v6: <urlopen error [Errno -5] No address associated with hostname>
+2026-10-27T08:25:32+00:00,JTO/USDC,100.0,,,,,,quote-v6: <urlopen error [Errno -5] No address associated with hostname>
+2026-10-27T08:25:32+00:00,JTO/USDC,500.0,,,,,,quote-v6: <urlopen error [Errno -5] No address associated with hostname>
+2026-10-27T08:25:32+00:00,JTO/USDC,2000.0,,,,,,quote-v6: <urlopen error [Errno -5] No address associated with hostname>
+2026-10-27T08:25:32+00:00,WIF/USDC,100.0,,,,,,quote-v6: <urlopen error [Errno -5] No address associated with hostname>
+2026-10-27T08:25:32+00:00,WIF/USDC,500.0,,,,,,quote-v6: <urlopen error [Errno -5] No address associated with hostname>
+2026-10-27T08:25:32+00:00,WIF/USDC,2000.0,,,,,,quote-v6: <urlopen error [Errno -5] No address associated with hostname>
+2026-10-27T08:30:32+00:00,SOL/USDC,100.0,-0.34,0.0,0.0,100.0034,lite-v1,
+2026-10-27T08:30:32+00:00,SOL/USDC,500.0,-0.26,0.0,0.0,500.013,lite-v1,
+2026-10-27T08:30:32+00:00,SOL/USDC,2000.0,,,,,,quote-v6: <urlopen error [Errno -5] No address associated with hostname>
+2026-10-27T08:30:32+00:00,JUP/USDC,100.0,,,,,,quote-v6: <urlopen error [Errno -5] No address associated with hostname>
+2026-10-27T08:30:32+00:00,JUP/USDC,500.0,,,,,,quote-v6: <urlopen error [Errno -5] No address associated with hostname>
+2026-10-27T08:30:32+00:00,JUP/USDC,2000.0,,,,,,quote-v6: <urlopen error [Errno -5] No address associated with hostname>
+2026-10-27T08:30:32+00:00,BONK/USDC,100.0,,,,,,quote-v6: <urlopen error [Errno -5] No address associated with hostname>
+2026-10-27T08:30:32+00:00,BONK/USDC,500.0,,,,,,quote-v6: <urlopen error [Errno -5] No address associated with hostname>
+2026-10-27T08:30:32+00:00,BONK/USDC,2000.0,,,,,,quote-v6: <urlopen error [Errno -5] No address associated with hostname>
+2026-10-27T08:30:32+00:00,JTO/USDC,100.0,,,,,,quote-v6: <urlopen error [Errno -5] No address associated with hostname>
+2026-10-27T08:30:32+00:00,JTO/USDC,500.0,,,,,,quote-v6: <urlopen error [Errno -5] No address associated with hostname>
+2026-10-27T08:30:32+00:00,JTO/USDC,2000.0,,,,,,quote-v6: <urlopen error [Errno -5] No address associated with hostname>
+2026-10-27T08:30:32+00:00,WIF/USDC,100.0,,,,,,quote-v6: <urlopen error [Errno -5] No address associated with hostname>
+2026-10-27T08:30:32+00:00,WIF/USDC,500.0,,,,,,quote-v6: <urlopen error [Errno -5] No address associated with hostname>
+2026-10-27T08:30:32+00:00,WIF/USDC,2000.0,,,,,,quote-v6: <urlopen error [Errno -5] No address associated with hostname>

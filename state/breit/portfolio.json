@@ -1,5 +1,5 @@
 {
-  "cash": 7102.073269444274,
+  "cash": 7422.423339397257,
   "positions": {
     "AAVE-EUR": {
       "market": "AAVE-EUR",
@@ -8,14 +8,6 @@
       "entry_date": "2026-10-01",
       "high_water": 147.565,
       "last_price": 136.635
-    },
-    "RENDER-EUR": {
-      "market": "RENDER-EUR",
-      "units": 157.298035258503,
-      "entry_price": 1.6846999999999999,
-      "entry_date": "2026-10-01",
-      "high_water": 1.6846999999999999,
-      "last_price": 1.559
     },
     "LTC-EUR": {
       "market": "LTC-EUR",
@@ -79,7 +71,7 @@
       "entry_price": 4.19195e-06,
       "entry_date": "2026-10-21",
       "high_water": 4.19195e-06,
-      "last_price": 3.89855e-06
+      "last_price": 3.8328e-06
     },
     "COMP-EUR": {
       "market": "COMP-EUR",
@@ -88,14 +80,6 @@
       "entry_date": "2026-10-21",
       "high_water": 22.823999999999998,
       "last_price": 22.823999999999998
-    },
-    "TIA-EUR": {
-      "market": "TIA-EUR",
-      "units": 179.4142979739718,
-      "entry_price": 0.56074,
-      "entry_date": "2026-10-21",
-      "high_water": 0.56074,
-      "last_price": 0.47987500000000005
     },
     "MEW-EUR": {
       "market": "MEW-EUR",
@@ -206,10 +190,14 @@
     [
       "2026-10-26",
       9476.51
+    ],
+    [
+      "2026-10-27",
+      9465.54
     ]
   ],
-  "day_start_equity": 9484.70895070865,
-  "day": "2026-10-26",
+  "day_start_equity": 9466.177220130532,
+  "day": "2026-10-27",
   "peak_equity": 10026.322492496045,
   "cooldown": {
     "XRP-EUR": "2026-10-11",
@@ -233,7 +221,7 @@
       10000.0
     ]
   ],
-  "realized_pnl": -318.10508336023673,
+  "realized_pnl": -363.35978685317855,
   "created": "2026-10-01T12:13:09.493300+00:00",
   "last_rebalance": "2026-10-21"
 }
