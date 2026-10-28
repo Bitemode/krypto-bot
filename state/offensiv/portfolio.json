@@ -31,7 +31,7 @@
       "entry_price": 1.104,
       "entry_date": "2026-10-11",
       "high_water": 1.104,
-      "last_price": 0.92655
+      "last_price": 0.90515
     },
     "COMP-EUR": {
       "market": "COMP-EUR",
@@ -154,10 +154,14 @@
     [
       "2026-10-27",
       9012.32
+    ],
+    [
+      "2026-10-28",
+      8999.31
     ]
   ],
-  "day_start_equity": 9012.707419389772,
-  "day": "2026-10-27",
+  "day_start_equity": 8999.313396886082,
+  "day": "2026-10-28",
   "peak_equity": 10256.512742216431,
   "cooldown": {
     "XRP-EUR": "2026-10-11",

@@ -39,7 +39,7 @@
       "entry_price": 1.104,
       "entry_date": "2026-10-11",
       "high_water": 1.104,
-      "last_price": 0.92655
+      "last_price": 0.90515
     },
     "PYTH-EUR": {
       "market": "PYTH-EUR",
@@ -202,10 +202,14 @@
     [
       "2026-10-27",
       9597.85
+    ],
+    [
+      "2026-10-28",
+      9590.01
     ]
   ],
-  "day_start_equity": 9600.430100266869,
-  "day": "2026-10-27",
+  "day_start_equity": 9590.0061140248,
+  "day": "2026-10-28",
   "peak_equity": 10362.212125461738,
   "cooldown": {
     "ADA-EUR": "2026-10-06",

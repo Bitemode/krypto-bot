@@ -63,7 +63,7 @@
       "entry_price": 1.104,
       "entry_date": "2026-10-11",
       "high_water": 1.104,
-      "last_price": 0.92655
+      "last_price": 0.90515
     },
     "PEPE-EUR": {
       "market": "PEPE-EUR",
@@ -71,7 +71,7 @@
       "entry_price": 4.19195e-06,
       "entry_date": "2026-10-21",
       "high_water": 4.19195e-06,
-      "last_price": 3.9471e-06
+      "last_price": 4.4173e-06
     },
     "COMP-EUR": {
       "market": "COMP-EUR",
@@ -194,10 +194,14 @@
     [
       "2026-10-27",
       9465.54
+    ],
+    [
+      "2026-10-28",
+      9461.03
     ]
   ],
-  "day_start_equity": 9466.177220130532,
-  "day": "2026-10-27",
+  "day_start_equity": 9461.02834557695,
+  "day": "2026-10-28",
   "peak_equity": 10026.322492496045,
   "cooldown": {
     "XRP-EUR": "2026-10-11",
