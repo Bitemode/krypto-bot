@@ -15,7 +15,7 @@
       "entry_price": 59.598,
       "entry_date": "2026-10-01",
       "high_water": 59.598,
-      "last_price": 51.16
+      "last_price": 52.431
     },
     "PLUME-EUR": {
       "market": "PLUME-EUR",
@@ -71,7 +71,7 @@
       "entry_price": 4.19195e-06,
       "entry_date": "2026-10-21",
       "high_water": 4.19195e-06,
-      "last_price": 4.40895e-06
+      "last_price": 4.92675e-06
     },
     "COMP-EUR": {
       "market": "COMP-EUR",
@@ -201,7 +201,7 @@
     ],
     [
       "2026-10-29",
-      9451.71
+      9457.94
     ]
   ],
   "day_start_equity": 9451.711959121028,

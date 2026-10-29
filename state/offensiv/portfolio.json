@@ -7,7 +7,7 @@
       "entry_price": 59.598,
       "entry_date": "2026-10-01",
       "high_water": 59.598,
-      "last_price": 51.16
+      "last_price": 52.431
     },
     "ALGO-EUR": {
       "market": "ALGO-EUR",
@@ -161,7 +161,7 @@
     ],
     [
       "2026-10-29",
-      8973.31
+      8990.69
     ]
   ],
   "day_start_equity": 8973.310468935479,
