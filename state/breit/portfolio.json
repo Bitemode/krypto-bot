@@ -15,7 +15,7 @@
       "entry_price": 59.598,
       "entry_date": "2026-10-01",
       "high_water": 59.598,
-      "last_price": 53.061499999999995
+      "last_price": 51.16
     },
     "PLUME-EUR": {
       "market": "PLUME-EUR",
@@ -71,7 +71,7 @@
       "entry_price": 4.19195e-06,
       "entry_date": "2026-10-21",
       "high_water": 4.19195e-06,
-      "last_price": 4.3443e-06
+      "last_price": 4.40895e-06
     },
     "COMP-EUR": {
       "market": "COMP-EUR",
@@ -198,10 +198,14 @@
     [
       "2026-10-28",
       9461.03
+    ],
+    [
+      "2026-10-29",
+      9451.71
     ]
   ],
-  "day_start_equity": 9461.02834557695,
-  "day": "2026-10-28",
+  "day_start_equity": 9451.711959121028,
+  "day": "2026-10-29",
   "peak_equity": 10026.322492496045,
   "cooldown": {
     "XRP-EUR": "2026-10-11",
