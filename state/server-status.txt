@@ -1,11 +1,11 @@
-Server-Stand: 2026-10-30 20:00 CET
+Server-Stand: 2026-10-30 21:01 CET
 Laeuft seit:  2026-10-17 03:30:08
 
 --- Zeitplaene ---
 NEXT                        LEFT LAST                             PASSED UNIT              ACTIVATES
-Sat 2026-10-31 09:30:00 CET  13h Fri 2026-10-30 17:00:20 CET 3h 0min ago krypto-lauf.timer krypto-lauf.service
--                              - Fri 2026-10-30 20:00:20 CET      2s ago krypto-buch.timer krypto-buch.service
--                              - Fri 2026-10-30 20:00:22 CET    45ms ago krypto-sync.timer krypto-sync.service
+Sat 2026-10-31 08:00:00 CET  10h Fri 2026-10-30 20:55:20 CET    6min ago krypto-buch.timer krypto-buch.service
+Sat 2026-10-31 09:30:00 CET  12h Fri 2026-10-30 17:00:20 CET 4h 1min ago krypto-lauf.timer krypto-lauf.service
+-                              - Fri 2026-10-30 21:01:50 CET    46ms ago krypto-sync.timer krypto-sync.service
 
 3 timers listed.
 
@@ -24,18 +24,18 @@ Sat 2026-10-31 09:30:00 CET  13h Fri 2026-10-30 17:00:20 CET 3h 0min ago krypto-
 2026-10-30T17:01:04+01:00 bot1 systemd[862]: krypto-lauf.service: Consumed 4.150s CPU time.
 
 --- letzte Meldungen: krypto-buch ---
-2026-10-30T19:40:33+01:00 bot1 systemd[862]: Finished krypto-buch.service - Krypto-Bot Orderbuch-Messer (misst nur, handelt nicht).
-2026-10-30T19:40:33+01:00 bot1 systemd[862]: krypto-buch.service: Consumed 2.222s CPU time.
-2026-10-30T19:45:20+01:00 bot1 systemd[862]: Starting krypto-buch.service - Krypto-Bot Orderbuch-Messer (misst nur, handelt nicht)...
-2026-10-30T19:45:33+01:00 bot1 systemd[862]: Finished krypto-buch.service - Krypto-Bot Orderbuch-Messer (misst nur, handelt nicht).
-2026-10-30T19:45:33+01:00 bot1 systemd[862]: krypto-buch.service: Consumed 2.216s CPU time.
-2026-10-30T19:50:20+01:00 bot1 systemd[862]: Starting krypto-buch.service - Krypto-Bot Orderbuch-Messer (misst nur, handelt nicht)...
-2026-10-30T19:50:33+01:00 bot1 systemd[862]: Finished krypto-buch.service - Krypto-Bot Orderbuch-Messer (misst nur, handelt nicht).
-2026-10-30T19:50:33+01:00 bot1 systemd[862]: krypto-buch.service: Consumed 2.335s CPU time.
-2026-10-30T19:55:20+01:00 bot1 systemd[862]: Starting krypto-buch.service - Krypto-Bot Orderbuch-Messer (misst nur, handelt nicht)...
-2026-10-30T19:55:33+01:00 bot1 systemd[862]: Finished krypto-buch.service - Krypto-Bot Orderbuch-Messer (misst nur, handelt nicht).
-2026-10-30T19:55:33+01:00 bot1 systemd[862]: krypto-buch.service: Consumed 2.462s CPU time.
-2026-10-30T20:00:20+01:00 bot1 systemd[862]: Starting krypto-buch.service - Krypto-Bot Orderbuch-Messer (misst nur, handelt nicht)...
+2026-10-30T20:40:20+01:00 bot1 systemd[862]: Starting krypto-buch.service - Krypto-Bot Orderbuch-Messer (misst nur, handelt nicht)...
+2026-10-30T20:40:34+01:00 bot1 systemd[862]: Finished krypto-buch.service - Krypto-Bot Orderbuch-Messer (misst nur, handelt nicht).
+2026-10-30T20:40:34+01:00 bot1 systemd[862]: krypto-buch.service: Consumed 2.324s CPU time.
+2026-10-30T20:45:20+01:00 bot1 systemd[862]: Starting krypto-buch.service - Krypto-Bot Orderbuch-Messer (misst nur, handelt nicht)...
+2026-10-30T20:45:34+01:00 bot1 systemd[862]: Finished krypto-buch.service - Krypto-Bot Orderbuch-Messer (misst nur, handelt nicht).
+2026-10-30T20:45:34+01:00 bot1 systemd[862]: krypto-buch.service: Consumed 2.305s CPU time.
+2026-10-30T20:50:20+01:00 bot1 systemd[862]: Starting krypto-buch.service - Krypto-Bot Orderbuch-Messer (misst nur, handelt nicht)...
+2026-10-30T20:50:33+01:00 bot1 systemd[862]: Finished krypto-buch.service - Krypto-Bot Orderbuch-Messer (misst nur, handelt nicht).
+2026-10-30T20:50:33+01:00 bot1 systemd[862]: krypto-buch.service: Consumed 2.203s CPU time.
+2026-10-30T20:55:20+01:00 bot1 systemd[862]: Starting krypto-buch.service - Krypto-Bot Orderbuch-Messer (misst nur, handelt nicht)...
+2026-10-30T20:55:33+01:00 bot1 systemd[862]: Finished krypto-buch.service - Krypto-Bot Orderbuch-Messer (misst nur, handelt nicht).
+2026-10-30T20:55:33+01:00 bot1 systemd[862]: krypto-buch.service: Consumed 2.190s CPU time.
 
 --- Speicher ---
 /dev/sda1        38G  2.8G   33G   8% /
