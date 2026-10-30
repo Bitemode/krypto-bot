@@ -1,14 +1,6 @@
 {
-  "cash": 5602.858092438294,
+  "cash": 6790.690221247996,
   "positions": {
-    "LTC-EUR": {
-      "market": "LTC-EUR",
-      "units": 13.674955535420652,
-      "entry_price": 59.598,
-      "entry_date": "2026-10-01",
-      "high_water": 59.598,
-      "last_price": 52.431
-    },
     "ALGO-EUR": {
       "market": "ALGO-EUR",
       "units": 7129.012839340009,
@@ -24,14 +16,6 @@
       "entry_date": "2026-10-11",
       "high_water": 1.8056,
       "last_price": 1.8056
-    },
-    "DOT-EUR": {
-      "market": "DOT-EUR",
-      "units": 607.5571168508529,
-      "entry_price": 1.104,
-      "entry_date": "2026-10-11",
-      "high_water": 1.104,
-      "last_price": 0.90515
     },
     "COMP-EUR": {
       "market": "COMP-EUR",
@@ -162,10 +146,14 @@
     [
       "2026-10-29",
       8990.69
+    ],
+    [
+      "2026-10-30",
+      8911.6
     ]
   ],
-  "day_start_equity": 8973.310468935479,
-  "day": "2026-10-29",
+  "day_start_equity": 8913.981973343347,
+  "day": "2026-10-30",
   "peak_equity": 10256.512742216431,
   "cooldown": {
     "XRP-EUR": "2026-10-11",
@@ -185,7 +173,7 @@
       10000.0
     ]
   ],
-  "realized_pnl": -682.0875237685517,
+  "realized_pnl": -979.9984519621911,
   "created": "2026-10-01T12:13:09.390763+00:00",
   "last_rebalance": "2026-10-21"
 }

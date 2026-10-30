@@ -1,14 +1,6 @@
 {
-  "cash": 4936.396072816166,
+  "cash": 5920.643423576812,
   "positions": {
-    "LTC-EUR": {
-      "market": "LTC-EUR",
-      "units": 7.8190543306822375,
-      "entry_price": 59.598,
-      "entry_date": "2026-10-01",
-      "high_water": 59.598,
-      "last_price": 52.431
-    },
     "OGN-EUR": {
       "market": "OGN-EUR",
       "units": 25973.114244676843,
@@ -33,14 +25,6 @@
       "high_water": 1.8056,
       "last_price": 1.8056
     },
-    "DOT-EUR": {
-      "market": "DOT-EUR",
-      "units": 366.5035042288413,
-      "entry_price": 1.104,
-      "entry_date": "2026-10-11",
-      "high_water": 1.104,
-      "last_price": 0.90515
-    },
     "PYTH-EUR": {
       "market": "PYTH-EUR",
       "units": 5747.259802923244,
@@ -48,14 +32,6 @@
       "entry_date": "2026-10-16",
       "high_water": 0.0787225,
       "last_price": 0.0662045
-    },
-    "ZRO-EUR": {
-      "market": "ZRO-EUR",
-      "units": 193.1121060380555,
-      "entry_price": 1.91405,
-      "entry_date": "2026-10-16",
-      "high_water": 1.91405,
-      "last_price": 1.58155
     },
     "DUSK-EUR": {
       "market": "DUSK-EUR",
@@ -210,10 +186,14 @@
     [
       "2026-10-29",
       9580.07
+    ],
+    [
+      "2026-10-30",
+      9517.2
     ]
   ],
-  "day_start_equity": 9575.138182215007,
-  "day": "2026-10-29",
+  "day_start_equity": 9519.176451295023,
+  "day": "2026-10-30",
   "peak_equity": 10362.212125461738,
   "cooldown": {
     "ADA-EUR": "2026-10-06",
@@ -234,7 +214,7 @@
       10000.0
     ]
   ],
-  "realized_pnl": -321.89016393975453,
+  "realized_pnl": -577.8889084098902,
   "created": "2026-10-01T12:13:09.424733+00:00",
   "last_rebalance": "2026-10-26"
 }

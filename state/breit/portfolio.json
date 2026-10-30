@@ -1,22 +1,6 @@
 {
-  "cash": 7422.423339397257,
+  "cash": 8008.91812915731,
   "positions": {
-    "AAVE-EUR": {
-      "market": "AAVE-EUR",
-      "units": 1.4976451055467084,
-      "entry_price": 147.565,
-      "entry_date": "2026-10-01",
-      "high_water": 147.565,
-      "last_price": 136.635
-    },
-    "LTC-EUR": {
-      "market": "LTC-EUR",
-      "units": 4.899493271586295,
-      "entry_price": 59.598,
-      "entry_date": "2026-10-01",
-      "high_water": 59.598,
-      "last_price": 52.431
-    },
     "PLUME-EUR": {
       "market": "PLUME-EUR",
       "units": 12475.440859178188,
@@ -57,21 +41,13 @@
       "high_water": 0.034168,
       "last_price": 0.0357935
     },
-    "DOT-EUR": {
-      "market": "DOT-EUR",
-      "units": 210.60235726451805,
-      "entry_price": 1.104,
-      "entry_date": "2026-10-11",
-      "high_water": 1.104,
-      "last_price": 0.90515
-    },
     "PEPE-EUR": {
       "market": "PEPE-EUR",
       "units": 3.725290298461914e-09,
       "entry_price": 4.19195e-06,
       "entry_date": "2026-10-21",
       "high_water": 4.19195e-06,
-      "last_price": 4.92675e-06
+      "last_price": 4.4271500000000005e-06
     },
     "COMP-EUR": {
       "market": "COMP-EUR",
@@ -202,10 +178,14 @@
     [
       "2026-10-29",
       9457.94
+    ],
+    [
+      "2026-10-30",
+      9392.29
     ]
   ],
-  "day_start_equity": 9451.711959121028,
-  "day": "2026-10-29",
+  "day_start_equity": 9393.466550692416,
+  "day": "2026-10-30",
   "peak_equity": 10026.322492496045,
   "cooldown": {
     "XRP-EUR": "2026-10-11",
@@ -229,7 +209,7 @@
       10000.0
     ]
   ],
-  "realized_pnl": -363.35978685317855,
+  "realized_pnl": -522.369999513153,
   "created": "2026-10-01T12:13:09.493300+00:00",
   "last_rebalance": "2026-10-21"
 }
