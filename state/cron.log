@@ -7188,3 +7188,27 @@ Profile (* = Champion)
 
 ===== 2026-11-01 17:00:56 Lauf beendet =====
 
+===== 2026-11-02 09:30:20 Lauf beginnt =====
+Traceback (most recent call last):
+  File "<frozen runpy>", line 198, in _run_module_as_main
+  File "<frozen runpy>", line 88, in _run_code
+  File "/opt/krypto-bot/cryptobot/cli.py", line 570, in <module>
+    raise SystemExit(main())
+                     ^^^^^^
+  File "/opt/krypto-bot/cryptobot/cli.py", line 560, in main
+    return int(args.func(args))
+               ^^^^^^^^^^^^^^^
+  File "/opt/krypto-bot/cryptobot/cli.py", line 228, in cmd_rebalance
+    cfg, closes, tickers, books = _lade_markt(args)
+                                  ^^^^^^^^^^^^^^^^^
+  File "/opt/krypto-bot/cryptobot/cli.py", line 111, in _lade_markt
+    tickers, books = _momentaufnahmen(list(closes.columns), quelle, closes)
+                     ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/opt/krypto-bot/cryptobot/cli.py", line 97, in _momentaufnahmen
+    tickers[m] = quelle.ticker(m)
+                 ^^^^^^^^^^^^^^^^
+  File "/opt/krypto-bot/cryptobot/providers/bitvavo.py", line 169, in ticker
+    bid=float(b["bid"]),
+        ^^^^^^^^^^^^^^^
+TypeError: float() argument must be a string or a real number, not 'NoneType'
+!!!!! 2026-11-02 09:30:42 Lauf fehlgeschlagen (Code 1)
