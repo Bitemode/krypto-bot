@@ -1,11 +1,11 @@
-Server-Stand: 2026-11-03 12:03 CET
+Server-Stand: 2026-11-03 13:02 CET
 Laeuft seit:  2026-10-17 03:30:08
 
 --- Zeitplaene ---
 NEXT                            LEFT LAST                              PASSED UNIT              ACTIVATES
-Tue 2026-11-03 12:05:00 CET  1min 9s Tue 2026-11-03 12:00:20 CET 3min 30s ago krypto-buch.timer krypto-buch.service
-Tue 2026-11-03 17:00:00 CET 4h 56min Tue 2026-11-03 09:30:20 CET 2h 33min ago krypto-lauf.timer krypto-lauf.service
--                                  - Tue 2026-11-03 12:03:50 CET     36ms ago krypto-sync.timer krypto-sync.service
+Tue 2026-11-03 13:05:00 CET  2min 9s Tue 2026-11-03 13:00:20 CET 2min 30s ago krypto-buch.timer krypto-buch.service
+Tue 2026-11-03 17:00:00 CET 3h 57min Tue 2026-11-03 09:30:20 CET 3h 32min ago krypto-lauf.timer krypto-lauf.service
+-                                  - Tue 2026-11-03 13:02:50 CET     32ms ago krypto-sync.timer krypto-sync.service
 
 3 timers listed.
 
@@ -24,18 +24,18 @@ Tue 2026-11-03 17:00:00 CET 4h 56min Tue 2026-11-03 09:30:20 CET 2h 33min ago kr
 2026-11-03T09:30:52+01:00 bot1 systemd[862]: krypto-lauf.service: Consumed 3.812s CPU time.
 
 --- letzte Meldungen: krypto-buch ---
-2026-11-03T11:45:20+01:00 bot1 systemd[862]: Starting krypto-buch.service - Krypto-Bot Orderbuch-Messer (misst nur, handelt nicht)...
-2026-11-03T11:45:32+01:00 bot1 systemd[862]: Finished krypto-buch.service - Krypto-Bot Orderbuch-Messer (misst nur, handelt nicht).
-2026-11-03T11:45:32+01:00 bot1 systemd[862]: krypto-buch.service: Consumed 2.165s CPU time.
-2026-11-03T11:50:20+01:00 bot1 systemd[862]: Starting krypto-buch.service - Krypto-Bot Orderbuch-Messer (misst nur, handelt nicht)...
-2026-11-03T11:50:34+01:00 bot1 systemd[862]: Finished krypto-buch.service - Krypto-Bot Orderbuch-Messer (misst nur, handelt nicht).
-2026-11-03T11:50:34+01:00 bot1 systemd[862]: krypto-buch.service: Consumed 2.158s CPU time.
-2026-11-03T11:55:20+01:00 bot1 systemd[862]: Starting krypto-buch.service - Krypto-Bot Orderbuch-Messer (misst nur, handelt nicht)...
-2026-11-03T11:55:33+01:00 bot1 systemd[862]: Finished krypto-buch.service - Krypto-Bot Orderbuch-Messer (misst nur, handelt nicht).
-2026-11-03T11:55:33+01:00 bot1 systemd[862]: krypto-buch.service: Consumed 2.137s CPU time.
-2026-11-03T12:00:20+01:00 bot1 systemd[862]: Starting krypto-buch.service - Krypto-Bot Orderbuch-Messer (misst nur, handelt nicht)...
-2026-11-03T12:00:33+01:00 bot1 systemd[862]: Finished krypto-buch.service - Krypto-Bot Orderbuch-Messer (misst nur, handelt nicht).
-2026-11-03T12:00:33+01:00 bot1 systemd[862]: krypto-buch.service: Consumed 2.214s CPU time.
+2026-11-03T12:45:20+01:00 bot1 systemd[862]: Starting krypto-buch.service - Krypto-Bot Orderbuch-Messer (misst nur, handelt nicht)...
+2026-11-03T12:45:34+01:00 bot1 systemd[862]: Finished krypto-buch.service - Krypto-Bot Orderbuch-Messer (misst nur, handelt nicht).
+2026-11-03T12:45:34+01:00 bot1 systemd[862]: krypto-buch.service: Consumed 2.209s CPU time.
+2026-11-03T12:50:20+01:00 bot1 systemd[862]: Starting krypto-buch.service - Krypto-Bot Orderbuch-Messer (misst nur, handelt nicht)...
+2026-11-03T12:50:33+01:00 bot1 systemd[862]: Finished krypto-buch.service - Krypto-Bot Orderbuch-Messer (misst nur, handelt nicht).
+2026-11-03T12:50:33+01:00 bot1 systemd[862]: krypto-buch.service: Consumed 2.231s CPU time.
+2026-11-03T12:55:20+01:00 bot1 systemd[862]: Starting krypto-buch.service - Krypto-Bot Orderbuch-Messer (misst nur, handelt nicht)...
+2026-11-03T12:55:33+01:00 bot1 systemd[862]: Finished krypto-buch.service - Krypto-Bot Orderbuch-Messer (misst nur, handelt nicht).
+2026-11-03T12:55:33+01:00 bot1 systemd[862]: krypto-buch.service: Consumed 2.193s CPU time.
+2026-11-03T13:00:20+01:00 bot1 systemd[862]: Starting krypto-buch.service - Krypto-Bot Orderbuch-Messer (misst nur, handelt nicht)...
+2026-11-03T13:00:34+01:00 bot1 systemd[862]: Finished krypto-buch.service - Krypto-Bot Orderbuch-Messer (misst nur, handelt nicht).
+2026-11-03T13:00:34+01:00 bot1 systemd[862]: krypto-buch.service: Consumed 2.213s CPU time.
 
 --- Speicher ---
 /dev/sda1        38G  2.8G   33G   8% /
