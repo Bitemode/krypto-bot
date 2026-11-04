@@ -10,3 +10,9 @@ fatal: Could not read from remote repository.
 Please make sure you have the correct access rights
 and the repository exists.
 2026-11-04T11:05:02+01:00 Hochladen gescheitert, naechster Versuch beim naechsten Abgleich
+git@github.com: Permission denied (publickey).
+fatal: Could not read from remote repository.
+
+Please make sure you have the correct access rights
+and the repository exists.
+2026-11-04T12:05:02+01:00 Hochladen gescheitert, naechster Versuch beim naechsten Abgleich
