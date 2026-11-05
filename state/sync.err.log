@@ -16,3 +16,8 @@ fatal: Could not read from remote repository.
 Please make sure you have the correct access rights
 and the repository exists.
 2026-11-04T12:05:02+01:00 Hochladen gescheitert, naechster Versuch beim naechsten Abgleich
+remote: fatal error in commit_refs        
+To github.com:Bitemode/krypto-bot.git
+ ! [remote rejected] main -> main (failure)
+error: failed to push some refs to 'github.com:Bitemode/krypto-bot.git'
+2026-11-05T17:05:22+01:00 Hochladen gescheitert, naechster Versuch beim naechsten Abgleich
