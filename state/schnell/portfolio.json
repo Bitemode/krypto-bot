@@ -1,5 +1,5 @@
 {
-  "cash": 5920.643423576812,
+  "cash": 6225.977262322664,
   "positions": {
     "OGN-EUR": {
       "market": "OGN-EUR",
@@ -8,14 +8,6 @@
       "entry_date": "2026-10-06",
       "high_water": 0.0197985,
       "last_price": 0.0322215
-    },
-    "ALGO-EUR": {
-      "market": "ALGO-EUR",
-      "units": 4310.582246074552,
-      "entry_price": 0.1083625,
-      "entry_date": "2026-10-11",
-      "high_water": 0.1083625,
-      "last_price": 0.097055
     },
     "ATOM-EUR": {
       "market": "ATOM-EUR",
@@ -250,10 +242,14 @@
     [
       "2026-11-14",
       9517.2
+    ],
+    [
+      "2026-11-15",
+      9404.17
     ]
   ],
-  "day_start_equity": 9517.20401171434,
-  "day": "2026-11-14",
+  "day_start_equity": 9404.78618202784,
+  "day": "2026-11-15",
   "peak_equity": 10362.212125461738,
   "cooldown": {
     "ADA-EUR": "2026-10-06",
@@ -274,7 +270,7 @@
       10000.0
     ]
   ],
-  "realized_pnl": -577.8889084098902,
+  "realized_pnl": -739.660538304292,
   "created": "2026-10-01T12:13:09.424733+00:00",
   "last_rebalance": "2026-11-10"
 }

@@ -1,5 +1,5 @@
 {
-  "cash": 8008.91812915731,
+  "cash": 8184.08387732339,
   "positions": {
     "PLUME-EUR": {
       "market": "PLUME-EUR",
@@ -16,14 +16,6 @@
       "entry_date": "2026-10-11",
       "high_water": 0.8222,
       "last_price": 0.73335
-    },
-    "ALGO-EUR": {
-      "market": "ALGO-EUR",
-      "units": 2472.92068008734,
-      "entry_price": 0.1083625,
-      "entry_date": "2026-10-11",
-      "high_water": 0.1083625,
-      "last_price": 0.097055
     },
     "ATOM-EUR": {
       "market": "ATOM-EUR",
@@ -47,7 +39,7 @@
       "entry_price": 4.19195e-06,
       "entry_date": "2026-10-21",
       "high_water": 4.19195e-06,
-      "last_price": 3.6781e-06
+      "last_price": 3.53655e-06
     },
     "COMP-EUR": {
       "market": "COMP-EUR",
@@ -242,10 +234,14 @@
     [
       "2026-11-14",
       9392.29
+    ],
+    [
+      "2026-11-15",
+      9327.45
     ]
   ],
-  "day_start_equity": 9392.291210432373,
-  "day": "2026-11-14",
+  "day_start_equity": 9327.798675556036,
+  "day": "2026-11-15",
   "peak_equity": 10026.322492496045,
   "cooldown": {
     "XRP-EUR": "2026-10-11",
@@ -269,7 +265,7 @@
       10000.0
     ]
   ],
-  "realized_pnl": -522.369999513153,
+  "realized_pnl": -615.1761185430374,
   "created": "2026-10-01T12:13:09.493300+00:00",
   "last_rebalance": "2026-11-10"
 }
