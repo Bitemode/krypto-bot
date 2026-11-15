@@ -1,11 +1,11 @@
-Server-Stand: 2026-11-15 13:04 CET
-Laeuft seit:  2026-11-14 03:30:08
+Server-Stand: 2026-11-15 14:05 CET
+Laeuft seit:  2026-11-14 03:30:09
 
 --- Zeitplaene ---
 NEXT                            LEFT LAST                              PASSED UNIT              ACTIVATES
-Sun 2026-11-15 13:05:00 CET      40s Sun 2026-11-15 13:00:19 CET  4min 0s ago krypto-buch.timer krypto-buch.service
-Sun 2026-11-15 17:00:00 CET 3h 55min Sun 2026-11-15 09:30:19 CET 3h 34min ago krypto-lauf.timer krypto-lauf.service
--                                  - Sun 2026-11-15 13:04:19 CET     43ms ago krypto-sync.timer krypto-sync.service
+Sun 2026-11-15 17:00:00 CET 2h 54min Sun 2026-11-15 09:30:19 CET 4h 35min ago krypto-lauf.timer krypto-lauf.service
+-                                  - Sun 2026-11-15 14:05:19 CET     42ms ago krypto-buch.timer krypto-buch.service
+-                                  - Sun 2026-11-15 14:05:19 CET     42ms ago krypto-sync.timer krypto-sync.service
 
 3 timers listed.
 
@@ -25,18 +25,18 @@ Sun 2026-11-15 17:00:00 CET 3h 55min Sun 2026-11-15 09:30:19 CET 3h 34min ago kr
 2026-11-15T09:30:58+01:00 bot1 systemd[863]: krypto-lauf.service: Consumed 3.913s CPU time.
 
 --- letzte Meldungen: krypto-buch ---
-2026-11-15T12:45:19+01:00 bot1 systemd[863]: Starting krypto-buch.service - Krypto-Bot Orderbuch-Messer (misst nur, handelt nicht)...
-2026-11-15T12:45:32+01:00 bot1 systemd[863]: Finished krypto-buch.service - Krypto-Bot Orderbuch-Messer (misst nur, handelt nicht).
-2026-11-15T12:45:32+01:00 bot1 systemd[863]: krypto-buch.service: Consumed 2.196s CPU time.
-2026-11-15T12:50:19+01:00 bot1 systemd[863]: Starting krypto-buch.service - Krypto-Bot Orderbuch-Messer (misst nur, handelt nicht)...
-2026-11-15T12:50:32+01:00 bot1 systemd[863]: Finished krypto-buch.service - Krypto-Bot Orderbuch-Messer (misst nur, handelt nicht).
-2026-11-15T12:50:32+01:00 bot1 systemd[863]: krypto-buch.service: Consumed 2.243s CPU time.
-2026-11-15T12:55:19+01:00 bot1 systemd[863]: Starting krypto-buch.service - Krypto-Bot Orderbuch-Messer (misst nur, handelt nicht)...
-2026-11-15T12:55:32+01:00 bot1 systemd[863]: Finished krypto-buch.service - Krypto-Bot Orderbuch-Messer (misst nur, handelt nicht).
-2026-11-15T12:55:32+01:00 bot1 systemd[863]: krypto-buch.service: Consumed 2.209s CPU time.
-2026-11-15T13:00:19+01:00 bot1 systemd[863]: Starting krypto-buch.service - Krypto-Bot Orderbuch-Messer (misst nur, handelt nicht)...
-2026-11-15T13:00:31+01:00 bot1 systemd[863]: Finished krypto-buch.service - Krypto-Bot Orderbuch-Messer (misst nur, handelt nicht).
-2026-11-15T13:00:31+01:00 bot1 systemd[863]: krypto-buch.service: Consumed 2.258s CPU time.
+2026-11-15T13:45:33+01:00 bot1 systemd[863]: Finished krypto-buch.service - Krypto-Bot Orderbuch-Messer (misst nur, handelt nicht).
+2026-11-15T13:45:33+01:00 bot1 systemd[863]: krypto-buch.service: Consumed 2.204s CPU time.
+2026-11-15T13:50:19+01:00 bot1 systemd[863]: Starting krypto-buch.service - Krypto-Bot Orderbuch-Messer (misst nur, handelt nicht)...
+2026-11-15T13:50:32+01:00 bot1 systemd[863]: Finished krypto-buch.service - Krypto-Bot Orderbuch-Messer (misst nur, handelt nicht).
+2026-11-15T13:50:32+01:00 bot1 systemd[863]: krypto-buch.service: Consumed 2.227s CPU time.
+2026-11-15T13:55:19+01:00 bot1 systemd[863]: Starting krypto-buch.service - Krypto-Bot Orderbuch-Messer (misst nur, handelt nicht)...
+2026-11-15T13:55:32+01:00 bot1 systemd[863]: Finished krypto-buch.service - Krypto-Bot Orderbuch-Messer (misst nur, handelt nicht).
+2026-11-15T13:55:32+01:00 bot1 systemd[863]: krypto-buch.service: Consumed 2.244s CPU time.
+2026-11-15T14:00:19+01:00 bot1 systemd[863]: Starting krypto-buch.service - Krypto-Bot Orderbuch-Messer (misst nur, handelt nicht)...
+2026-11-15T14:00:33+01:00 bot1 systemd[863]: Finished krypto-buch.service - Krypto-Bot Orderbuch-Messer (misst nur, handelt nicht).
+2026-11-15T14:00:33+01:00 bot1 systemd[863]: krypto-buch.service: Consumed 2.294s CPU time.
+2026-11-15T14:05:19+01:00 bot1 systemd[863]: Starting krypto-buch.service - Krypto-Bot Orderbuch-Messer (misst nur, handelt nicht)...
 
 --- Speicher ---
 /dev/sda1        38G  2.7G   33G   8% /
