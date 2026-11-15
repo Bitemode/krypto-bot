@@ -1,11 +1,11 @@
-Server-Stand: 2026-11-15 20:02 CET
+Server-Stand: 2026-11-15 21:01 CET
 Laeuft seit:  2026-11-14 03:30:08
 
 --- Zeitplaene ---
-NEXT                            LEFT LAST                             PASSED UNIT              ACTIVATES
-Sun 2026-11-15 20:05:00 CET 2min 40s Sun 2026-11-15 20:00:19 CET 2min 0s ago krypto-buch.timer krypto-buch.service
-Mon 2026-11-16 09:30:00 CET      13h Sun 2026-11-15 17:00:19 CET 3h 2min ago krypto-lauf.timer krypto-lauf.service
--                                  - Sun 2026-11-15 20:02:19 CET    40ms ago krypto-sync.timer krypto-sync.service
+NEXT                        LEFT LAST                             PASSED UNIT              ACTIVATES
+Mon 2026-11-16 08:00:00 CET  10h Sun 2026-11-15 20:55:19 CET    6min ago krypto-buch.timer krypto-buch.service
+Mon 2026-11-16 09:30:00 CET  12h Sun 2026-11-15 17:00:19 CET 4h 1min ago krypto-lauf.timer krypto-lauf.service
+-                              - Sun 2026-11-15 21:01:19 CET    30ms ago krypto-sync.timer krypto-sync.service
 
 3 timers listed.
 
@@ -24,18 +24,18 @@ Mon 2026-11-16 09:30:00 CET      13h Sun 2026-11-15 17:00:19 CET 3h 2min ago kry
 2026-11-15T17:01:05+01:00 bot1 systemd[863]: krypto-lauf.service: Consumed 4.015s CPU time.
 
 --- letzte Meldungen: krypto-buch ---
-2026-11-15T19:45:19+01:00 bot1 systemd[863]: Starting krypto-buch.service - Krypto-Bot Orderbuch-Messer (misst nur, handelt nicht)...
-2026-11-15T19:45:32+01:00 bot1 systemd[863]: Finished krypto-buch.service - Krypto-Bot Orderbuch-Messer (misst nur, handelt nicht).
-2026-11-15T19:45:32+01:00 bot1 systemd[863]: krypto-buch.service: Consumed 2.232s CPU time.
-2026-11-15T19:50:19+01:00 bot1 systemd[863]: Starting krypto-buch.service - Krypto-Bot Orderbuch-Messer (misst nur, handelt nicht)...
-2026-11-15T19:50:33+01:00 bot1 systemd[863]: Finished krypto-buch.service - Krypto-Bot Orderbuch-Messer (misst nur, handelt nicht).
-2026-11-15T19:50:33+01:00 bot1 systemd[863]: krypto-buch.service: Consumed 2.300s CPU time.
-2026-11-15T19:55:19+01:00 bot1 systemd[863]: Starting krypto-buch.service - Krypto-Bot Orderbuch-Messer (misst nur, handelt nicht)...
-2026-11-15T19:55:32+01:00 bot1 systemd[863]: Finished krypto-buch.service - Krypto-Bot Orderbuch-Messer (misst nur, handelt nicht).
-2026-11-15T19:55:32+01:00 bot1 systemd[863]: krypto-buch.service: Consumed 2.296s CPU time.
-2026-11-15T20:00:19+01:00 bot1 systemd[863]: Starting krypto-buch.service - Krypto-Bot Orderbuch-Messer (misst nur, handelt nicht)...
-2026-11-15T20:00:32+01:00 bot1 systemd[863]: Finished krypto-buch.service - Krypto-Bot Orderbuch-Messer (misst nur, handelt nicht).
-2026-11-15T20:00:32+01:00 bot1 systemd[863]: krypto-buch.service: Consumed 2.369s CPU time.
+2026-11-15T20:40:19+01:00 bot1 systemd[863]: Starting krypto-buch.service - Krypto-Bot Orderbuch-Messer (misst nur, handelt nicht)...
+2026-11-15T20:40:32+01:00 bot1 systemd[863]: Finished krypto-buch.service - Krypto-Bot Orderbuch-Messer (misst nur, handelt nicht).
+2026-11-15T20:40:32+01:00 bot1 systemd[863]: krypto-buch.service: Consumed 2.288s CPU time.
+2026-11-15T20:45:19+01:00 bot1 systemd[863]: Starting krypto-buch.service - Krypto-Bot Orderbuch-Messer (misst nur, handelt nicht)...
+2026-11-15T20:45:32+01:00 bot1 systemd[863]: Finished krypto-buch.service - Krypto-Bot Orderbuch-Messer (misst nur, handelt nicht).
+2026-11-15T20:45:32+01:00 bot1 systemd[863]: krypto-buch.service: Consumed 2.254s CPU time.
+2026-11-15T20:50:19+01:00 bot1 systemd[863]: Starting krypto-buch.service - Krypto-Bot Orderbuch-Messer (misst nur, handelt nicht)...
+2026-11-15T20:50:31+01:00 bot1 systemd[863]: Finished krypto-buch.service - Krypto-Bot Orderbuch-Messer (misst nur, handelt nicht).
+2026-11-15T20:50:31+01:00 bot1 systemd[863]: krypto-buch.service: Consumed 2.268s CPU time.
+2026-11-15T20:55:19+01:00 bot1 systemd[863]: Starting krypto-buch.service - Krypto-Bot Orderbuch-Messer (misst nur, handelt nicht)...
+2026-11-15T20:55:32+01:00 bot1 systemd[863]: Finished krypto-buch.service - Krypto-Bot Orderbuch-Messer (misst nur, handelt nicht).
+2026-11-15T20:55:32+01:00 bot1 systemd[863]: krypto-buch.service: Consumed 2.197s CPU time.
 
 --- Speicher ---
 /dev/sda1        38G  2.7G   33G   8% /
