@@ -9373,3 +9373,70 @@ Profile (* = Champion)
 ===== 2026-11-18 09:30:46 Lauf beendet =====
 
 ===== 2026-11-18 17:00:07 Lauf beginnt =====
+Krypto-Bot · 18.11.2026 16:00 UTC · Modus PAPER
+==============================================================================
+  Kapital            9,309.86 EUR      Eingezahlt  10,000.00 EUR
+  davon Cash         8,473.69 EUR      Investiert        9%  ██··················
+  Positionen                3          Regime     RISK_OFF (Faktor 0.00)
+  Drawdown              -7.7%          Realisiert    -675.10 EUR
+
+Offene Positionen
+------------------------------------------------------------------------------
+  Markt                Menge    Einstand        Kurs    Wert EUR       G/V
+  ATOM-EUR        222.633455      1.8056      1.8056      401.99      0.0%
+  COMP-EUR          9.321785     22.8240     22.8240      212.76      0.0%
+  MEW-EUR      495108.445566      0.0004      0.0004      221.42      0.0%
+  Summe                                                   836.17
+
+Bewertung
+------------------------------------------------------------------------------
+  MMT-EUR     BEOBACHTEN   Trend  1.00  Daten  80  Ziel   0.0%  Ist   0.0%
+               Filter: LOW_DATA_TRUST, REGIME_OFF
+               −10 1 Tagessprünge über 50 %
+               −10 Historie knapp (372 Tage)
+  ICNT-EUR    BEOBACHTEN   Trend  1.00  Daten 100  Ziel   0.0%  Ist   0.0%
+               Filter: REGIME_OFF
+               Signal da, aber REGIME_OFF
+  CROSS-EUR   BEOBACHTEN   Trend  1.00  Daten  80  Ziel   0.0%  Ist   0.0%
+               Filter: LOW_DATA_TRUST, REGIME_OFF
+               −20 2 Tagessprünge über 50 %
+               Signal da, aber LOW_DATA_TRUST, REGIME_OFF
+  SHELL-EUR   BEOBACHTEN   Trend  1.00  Daten  90  Ziel   0.0%  Ist   0.0%
+               Filter: REGIME_OFF
+               −10 1 Tagessprünge über 50 %
+               Signal da, aber REGIME_OFF
+  DODO-EUR    BEOBACHTEN   Trend  1.00  Daten  95  Ziel   0.0%  Ist   0.0%
+               Filter: REGIME_OFF
+               −5 1 fehlende Tage
+               Signal da, aber REGIME_OFF
+  TRUST-EUR   BEOBACHTEN   Trend  0.33  Daten  70  Ziel   0.0%  Ist   0.0%
+               Filter: LOW_DATA_TRUST, REGIME_OFF
+               −20 2 Tagessprünge über 50 %
+               −10 Historie knapp (379 Tage)
+  BTC-EUR     NICHT KAUFEN Trend  0.00  Daten 100  Ziel   0.0%  Ist   0.0%
+               Filter: REGIME_OFF
+  XRP-EUR     NICHT KAUFEN Trend  0.00  Daten 100  Ziel   0.0%  Ist   0.0%
+               Filter: REGIME_OFF
+  ETH-EUR     NICHT KAUFEN Trend  0.00  Daten 100  Ziel   0.0%  Ist   0.0%
+               Filter: REGIME_OFF
+  SOL-EUR     NICHT KAUFEN Trend  0.00  Daten 100  Ziel   0.0%  Ist   0.0%
+               Filter: REGIME_OFF
+  HYPE-EUR    NICHT KAUFEN Trend  0.00  Daten 100  Ziel   0.0%  Ist   0.0%
+               Filter: REGIME_OFF
+  ADA-EUR     NICHT KAUFEN Trend  0.00  Daten 100  Ziel   0.0%  Ist   0.0%
+               Filter: REGIME_OFF
+  … 29 weitere ohne Signal
+
+Orders: keine — nichts zu tun.
+
+Profile (* = Champion)
+------------------------------------------------------------------------------
+ * standard     9,309.86 EUR       9% investiert   3 Pos.   0 Orders   RISK_OFF
+   defensiv     9,591.78 EUR       5% investiert   3 Pos.   0 Orders   RISK_OFF
+   offensiv     8,724.67 EUR      16% investiert   3 Pos.   0 Orders   RISK_OFF
+   schnell      9,404.17 EUR      34% investiert   8 Pos.   0 Orders   RISK_OFF
+   langsam      9,412.81 EUR       0% investiert   0 Pos.   0 Orders   RISK_OFF
+   breit        9,327.45 EUR      12% investiert   7 Pos.   0 Orders   RISK_OFF
+
+===== 2026-11-18 17:00:53 Lauf beendet =====
+
