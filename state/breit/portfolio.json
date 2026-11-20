@@ -33,14 +33,6 @@
       "high_water": 0.034168,
       "last_price": 0.0357935
     },
-    "PEPE-EUR": {
-      "market": "PEPE-EUR",
-      "units": 3.725290298461914e-09,
-      "entry_price": 4.19195e-06,
-      "entry_date": "2026-10-21",
-      "high_water": 4.19195e-06,
-      "last_price": 3.29965e-06
-    },
     "COMP-EUR": {
       "market": "COMP-EUR",
       "units": 6.823691207633125,
@@ -277,7 +269,8 @@
     "LINK-EUR": "2026-10-21",
     "HBAR-EUR": "2026-10-21",
     "AVAX-EUR": "2026-10-21",
-    "DOGE-EUR": "2026-10-21"
+    "DOGE-EUR": "2026-10-21",
+    "PEPE-EUR": "2026-11-20"
   },
   "deposits": [
     [
@@ -287,5 +280,5 @@
   ],
   "realized_pnl": -615.1761185430374,
   "created": "2026-10-01T12:13:09.493300+00:00",
-  "last_rebalance": "2026-11-10"
+  "last_rebalance": "2026-11-20"
 }
