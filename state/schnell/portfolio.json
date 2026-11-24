@@ -1,5 +1,5 @@
 {
-  "cash": 6225.977262322664,
+  "cash": 6457.44879252054,
   "positions": {
     "OGN-EUR": {
       "market": "OGN-EUR",
@@ -56,14 +56,6 @@
       "entry_date": "2026-10-21",
       "high_water": 0.000447225,
       "last_price": 0.000447225
-    },
-    "BABY-EUR": {
-      "market": "BABY-EUR",
-      "units": 30064.864994474883,
-      "entry_price": 0.013148,
-      "entry_date": "2026-10-26",
-      "high_water": 0.013148,
-      "last_price": 0.013148
     }
   },
   "equity_history": [
@@ -281,7 +273,7 @@
     ],
     [
       "2026-11-24",
-      9404.17
+      9240.35
     ]
   ],
   "day_start_equity": 9404.174290567427,
@@ -306,7 +298,7 @@
       10000.0
     ]
   ],
-  "realized_pnl": -739.660538304292,
+  "realized_pnl": -903.481853053771,
   "created": "2026-10-01T12:13:09.424733+00:00",
   "last_rebalance": "2026-11-20"
 }
