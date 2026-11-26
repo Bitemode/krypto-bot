@@ -1,17 +1,15 @@
-Server-Stand: 2026-11-26 17:01 CET
+Server-Stand: 2026-11-26 17:03 CET
 Laeuft seit:  2026-11-26 03:30:08
 
 --- Zeitplaene ---
-NEXT                            LEFT LAST                           PASSED UNIT              ACTIVATES
-Thu 2026-11-26 17:03:00 CET 1min 56s Thu 2026-11-26 16:01:19 CET 59min ago krypto-sync.timer krypto-sync.service
-Thu 2026-11-26 17:05:00 CET 3min 56s Thu 2026-11-26 17:00:19 CET   43s ago krypto-buch.timer krypto-buch.service
--                                  - Thu 2026-11-26 17:00:19 CET   43s ago krypto-lauf.timer krypto-lauf.service
+NEXT                            LEFT LAST                             PASSED UNIT              ACTIVATES
+Thu 2026-11-26 17:05:00 CET 1min 40s Thu 2026-11-26 17:00:19 CET 3min 0s ago krypto-buch.timer krypto-buch.service
+Fri 2026-11-27 09:30:00 CET      16h Thu 2026-11-26 17:00:19 CET 3min 0s ago krypto-lauf.timer krypto-lauf.service
+-                                  - Thu 2026-11-26 17:03:19 CET    32ms ago krypto-sync.timer krypto-sync.service
 
 3 timers listed.
 
 --- letzte Meldungen: krypto-lauf ---
-2026-11-24T17:00:59+01:00 bot1 systemd[862]: Finished krypto-lauf.service - Krypto-Bot Handelslauf (Papier).
-2026-11-24T17:00:59+01:00 bot1 systemd[862]: krypto-lauf.service: Consumed 4.067s CPU time.
 2026-11-25T09:30:07+01:00 bot1 systemd[862]: Starting krypto-lauf.service - Krypto-Bot Handelslauf (Papier)...
 2026-11-25T09:30:46+01:00 bot1 systemd[862]: Finished krypto-lauf.service - Krypto-Bot Handelslauf (Papier).
 2026-11-25T09:30:46+01:00 bot1 systemd[862]: krypto-lauf.service: Consumed 3.881s CPU time.
@@ -23,6 +21,8 @@ Thu 2026-11-26 17:05:00 CET 3min 56s Thu 2026-11-26 17:00:19 CET   43s ago krypt
 2026-11-26T09:30:56+01:00 bot1 systemd[863]: Finished krypto-lauf.service - Krypto-Bot Handelslauf (Papier).
 2026-11-26T09:30:56+01:00 bot1 systemd[863]: krypto-lauf.service: Consumed 4.062s CPU time.
 2026-11-26T17:00:19+01:00 bot1 systemd[863]: Starting krypto-lauf.service - Krypto-Bot Handelslauf (Papier)...
+2026-11-26T17:01:05+01:00 bot1 systemd[863]: Finished krypto-lauf.service - Krypto-Bot Handelslauf (Papier).
+2026-11-26T17:01:05+01:00 bot1 systemd[863]: krypto-lauf.service: Consumed 4.093s CPU time.
 
 --- letzte Meldungen: krypto-buch ---
 2026-11-26T16:45:19+01:00 bot1 systemd[863]: Starting krypto-buch.service - Krypto-Bot Orderbuch-Messer (misst nur, handelt nicht)...
